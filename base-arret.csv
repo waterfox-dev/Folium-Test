@@ -1,0 +1,2264 @@
+ID;Code;Nom;Coordinates;Description;Zone ID;URL;Location Type;Parent Station ID;Timezone;Wheelchair Boarding
+ARCOM@FLU020;;Fleury Château d'Eau;49.152176,-0.371303;;;;1;;;0
+COM_monu01;;Monument;49.15749,-0.336624;;;;1;;;0
+ARCOM@C100;;Théâtre Quai 2;49.180676,-0.362459;;;;1;;;0
+COM_corfre02;;La Fresnaye;49.154633,-0.327777;;;;1;;;0
+COM_indu01_1;;Industrie;49.157436,-0.326407;;;;1;;;0
+COM_egou02;;Ouistreham Eglise;49.27665,-0.256966;;;;1;;;0
+COM_rlec01_1;;Cayrière;49.254814,-0.377343;;;;1;;;0
+COM_lmhl01;;Haut Lion;49.301342,-0.326391;;;;1;;;0
+COM_pabl02;;Paitis Blancs;49.127033,-0.38365;;;;1;;;0
+COM_rofr02;;Rostand Fresnel;49.16209,-0.354139;;;;1;;;0
+ARCOM@C018;;Poincaré;49.165466,-0.342738;;;;1;;;0
+COM_lmp02;;Lion Plage;49.305897,-0.324109;;;;1;;;0
+COM_mlk01;;Martin Luther King;49.134964,-0.288533;;;;1;;;0
+COM_ecco22_1;;Colombelles Ecole;49.203396,-0.302833;;;;1;;;0
+COM_psld01;;Périers Mairie;49.257477,-0.339356;;;;1;;;0
+COM_frat01;;Fraternité;49.206017,-0.288265;;;;1;;;0
+COM_bist01;;Biéville Stade;49.243595,-0.333515;;;;1;;;0
+COM_rimb02;;Rimbaud;49.208996,-0.290388;;;;1;;;0
+COM_bbrh01;;Rue du Home;49.245586,-0.330484;;;;1;;;0
+COM_hmbb01;;Blanc Bois;49.28025,-0.315435;;;;1;;;0
+COM_masa01;;Saint-Aubin Mairie;49.2607,-0.286888;;;;1;;;0
+COM_ougl02;;Général Leclerc;49.282047,-0.255707;;;;1;;;0
+COM_stou;;Saint-Ouen;49.17392,-0.377955;;;;1;;;0
+COM_cipa01;;Cimetiere Parc;49.19628,-0.405;;;;1;;;0
+COM_creu01;;Creully;49.190884,-0.373511;;;;1;;;0
+ARCOM@C2008;;Collège Moulin;49.181137,-0.408286;;;;1;;;0
+ARCOM@STC022;;Arromanches;49.218212,-0.420028;;;;1;;;0
+COM_rleb01_1;;Rue de Lebisey;49.192852,-0.357196;;;;1;;;0
+COM_euva02;;Eugène Varlin;49.200386,-0.301418;;;;1;;;0
+COM_chal02_1;;Charlemagne;49.17298,-0.399557;;;;1;;;0
+COM_rega01;;Egalité;49.207317,-0.295195;;;;1;;;0
+COM_esta02_1;;Estapi;49.2151,-0.405291;;;;1;;;0
+COM_rtpa02;;Route de Paris;49.17008,-0.324005;;;;1;;;0
+COM_podo02;;Poilus d'Orient;49.185143,-0.382924;;;;1;;;0
+COM_mabr02;;Bretteville Mairie;49.165756,-0.418089;;;;1;;;0
+COM_lbij12;;Bijude Commerces;49.22915,-0.372301;;;;1;;;0
+COM_grcl02_1;;Grand Clos;49.212296,-0.405079;;;;1;;;0
+COM_grpl01;;Grande Rue;49.180626,-0.306939;;;;1;;;0
+COM_made02_1;;Mandela;49.186054,-0.300697;;;;1;;;0
+COM_coto01;;Cotonnière;49.197865,-0.401417;;;;1;;;0
+COM_coqu02_1;;Coquelicots;49.2188,-0.367413;;;;1;;;0
+COM_pepi02;;Pépinières;49.24073,-0.403785;;;;1;;;0
+COM_stcbu;;Buron;49.217335,-0.420993;;;;1;;;0
+COM_camb01;;Le Parc;49.23585,-0.386256;;;;1;;;0
+COM_ruene01_1;;Energie;49.216515,-0.369737;;;;1;;;0
+COM_char02;;Molière;49.192505,-0.393655;;;;1;;;0
+COM_cacc02_2;;Campus 2 C. Commercial;49.209503,-0.36724;;;;1;;;0
+COM_clss01;;Collège Senghor;49.13577,-0.350641;;;;1;;;0
+COM_orgo02_1;;Orée du Golf;49.221527,-0.366462;;;;1;;;0
+COM_msol02;;Soliers Mairie;49.134956,-0.295493;;;;1;;;0
+COM_lbru02;;La Bruyère;49.14353,-0.493091;;;;1;;;0
+ARCOM@C010;;Gare SNCF;49.175663,-0.34922;;;;1;;;0
+COM_zimo01;;Mondeville ZI;49.16501,-0.309529;;;;1;;;0
+COM_epron;;Epron Mairie;49.22314,-0.371021;;;;1;;;0
+COM_leme02_1;;Le Méridien;49.190918,-0.392028;;;;1;;;0
+ARCOM@C035;;Demi-Lune;49.17451,-0.33926;;;;1;;;0
+COM_poas02;;Collège Monod;49.205917,-0.378756;;;;1;;;0
+COM_fadr01;;Fac de Droit;49.19023,-0.366787;;;;1;;;0
+COM_stoc01;;Stockholm;49.188595,-0.389689;;;;1;;;0
+COM_etri01_1;;Etrier;49.193333,-0.369612;;;;1;;;0
+COM_robo02;;Robert Bosch;49.166416,-0.313747;;;;1;;;0
+COM_pl3601;;Place du 36ème;49.177837,-0.355832;;;;1;;;0
+COM_rect02;;Rectorat;49.177544,-0.381417;;;;1;;;0
+COM_ccgi02;;Civisme;49.182594,-0.274788;;;;1;;;0
+COM_plvi01_1;;Place Villers;49.178745,-0.378894;;;;1;;;0
+COM_mape02;;Maison du Peuple;49.177288,-0.329153;;;;1;;;0
+COM_ruce01;;Plateau;49.181927,-0.308722;;;;1;;;0
+COM_festy02_1;;Festyland;49.18636,-0.430041;;;;1;;;0
+COM_hech02;;Henry Chéron;49.17158,-0.398335;;;;1;;;0
+COM_ampe01;;Ampère;49.16015,-0.322439;;;;1;;;0
+COM_lumi;;Lumière;49.158173,-0.308917;;;;1;;;0
+ARCOM@LAS002;;Neuf Mer;49.230675,-0.48027;;;;1;;;0
+COM_avmo02_3;;Morice;49.206387,-0.352582;;;;1;;;0
+COM_bico02;;Bicoquet;49.183037,-0.379566;;;;1;;;0
+COM_rher11;;Rue d'Hérouville;49.19382,-0.345811;;;;1;;;0
+ARCOM@LFR021;;Le Bout Renard;49.26313,-0.48535;;;;1;;;0
+COM_form;;Formigny;49.173393,-0.338793;;;;1;;;0
+COM_mabl01;;Blainville Mairie;49.22811,-0.300265;;;;1;;;0
+COM_ebor02;;L'Orgueilleuse Eglise;49.209743,-0.509925;;;;1;;;0
+COM_19ma02;;19 Mars;49.165096,-0.32466;;;;1;;;0
+COM_niep02;;Niepce;49.15479,-0.300395;;;;1;;;0
+COM_lyma11;;Lycée Malherbe;49.176308,-0.371123;;;;1;;;0
+COM_cheh02;;Château d'Eau;49.20332,-0.34005;;;;1;;;0
+ARCOM@LFR003;;Le Fresne Mairie;49.257786,-0.488523;;;;1;;;0
+COM_lefo02_1;;Léon Foucault;49.20969,-0.350306;;;;1;;;0
+ARCOM@VER013;;Collège Verson;49.156437,-0.45601;;;;1;;;0
+COM_ds02;;Sphère;49.21022,-0.347563;;;;1;;;0
+COM_lapo01;;La Pommeraie;49.170666,-0.519997;;;;1;;;0
+COM_plan02;;Planitre;49.186882,-0.402142;;;;1;;;0
+COM_cbea02_1;;Beaulieu Brazza;49.183296,-0.406971;;;;1;;;0
+ARCOM@C063;;Séminaire;49.185135,-0.395704;;;;1;;;0
+COM_euma02;;Eugène Maës;49.17674,-0.38887;;;;1;;;0
+COM_vafo02_1;;Foyer;49.19545,-0.345355;;;;1;;;0
+COM_ecro01;;Rots Ecole;49.206417,-0.476915;;;;1;;;0
+COM_blwa02;;Black Watch;49.14058,-0.342675;;;;1;;;0
+COM_pigr;;Pierre Gringoire;49.173565,-0.341268;;;;1;;;0
+COM_piga;;Pigacière;49.18879,-0.359524;;;;1;;;0
+COM_clhe02_1;;Clos Herbert;49.192314,-0.354765;;;;1;;;0
+COM_qdj02_1;;Quai de Juillet;49.178055,-0.353955;;;;1;;;0
+COM_nash02;;Nashville;49.200596,-0.387648;;;;1;;;0
+COM_colb02_1;;Colbert;49.226814,-0.303112;;;;1;;;0
+COM_juve01;;Jules Verne;49.156822,-0.347249;;;;1;;;0
+COM_unic01;;Unicité;49.201443,-0.395035;;;;1;;;0
+COM_jafa01;;Jardins Familiaux;49.211525,-0.320537;;;;1;;;0
+COM_pfoc02;;Place Foch;49.177376,-0.359562;;;;1;;;0
+COM_rotb02;;Rots Bonny;49.203648,-0.475692;;;;1;;;0
+COM_stor02;;Stade d'Ornano;49.180817,-0.396779;;;;1;;;0
+COM_chfl22;;Chemin de Fleury;49.152737,-0.345383;;;;1;;;0
+COM_cadi12;;Café des Images;49.20204,-0.332363;;;;1;;;0
+COM_chdc01;;Château;49.184406,-0.360845;;;;1;;;0
+COM_clho02;;Clair Horizon;49.158222,-0.35097;;;;1;;;0
+COM_bourgu01_1;;Bourgogne;49.19441,-0.400566;;;;1;;;0
+COM_inle01;;Institut Lemonnier;49.193584,-0.349851;;;;1;;;0
+COM_rema01_1;;Reine Mathilde;49.187843,-0.355446;;;;1;;;0
+COM_univ22;;Université;49.188786,-0.363816;;;;1;;;0
+COM_chu11;;CHU;49.204067,-0.359254;;;;1;;;0
+COM_pabo01;;Paul Boucherot;49.14307,-0.332951;;;;1;;;0
+COM_pihe12;;Pierre Heuzé;49.19893,-0.346709;;;;1;;;0
+COM_prai1;;Prairie;49.171566,-0.366575;;;;1;;;0
+COM_hube01;;Hubert Centre;49.127434,-0.313381;;;;1;;;0
+COM_vefo02_1;;Fouquet;49.18526,-0.344381;;;;1;;;0
+COM_ccro01_1;;Charles Cros;49.145206,-0.328282;;;;1;;;0
+COM_mocl02;;Clopée;49.182,-0.316114;;;;1;;;0
+COM_gema01_1;;Georges Maudouit;49.17685,-0.325728;;;;1;;;0
+COM_thfr01_1;;Thibout de la Fresnaye;49.18602,-0.379883;;;;1;;;0
+COM_nico02;;Nicolas Copernic;49.164253,-0.325962;;;;1;;;0
+COM_dovi01_1;;Docteur Vincent;49.191658,-0.347783;;;;1;;;0
+COM_ruti01;;Tisserands;49.207195,-0.376741;;;;1;;;0
+COM_chco12;;Charlotte Corday;49.16428,-0.329112;;;;1;;;0
+COM_ladr11;;La Dronnière;49.139385,-0.337113;;;;1;;;0
+COM_espi01;;Espinettes;49.21899,-0.339986;;;;1;;;0
+COM_feui11;;Feuillantines;49.226166,-0.309736;;;;1;;;0
+COM_plki02;;Place Kieffer;49.23213,-0.298526;;;;1;;;0
+COM_ph01;;Pierre Heuzé;49.199238,-0.347142;;;;1;;;0
+COM_vdes02;;Collège Desmeserets;49.17095,-0.351533;;;;1;;;0
+COM_caef12;;Campus Efficience;49.18845,-0.308973;;;;1;;;0
+COM_pdco01;;Pierre de Coubertin;49.182243,-0.281605;;;;1;;;0
+COM_bres02;;Brest;49.19679,-0.352579;;;;1;;;0
+COM_cimne02_1;;Cimetiere Nord-Est;49.191,-0.340933;;;;1;;;0
+COM_plsm02;;Place Saint-Martin;49.183804,-0.370051;;;;1;;;0
+COM_majo02;;Maréchal Joffre;49.17151,-0.349511;;;;1;;;0
+COM_gu02;;Guynemer;49.168392,-0.344061;;;;1;;;0
+COM_toura12;;Touraine;49.194195,-0.398865;;;;1;;;0
+COM_cobo01;;Couvrechef Bourg;49.21178,-0.378861;;;;1;;;0
+COM_alle02;;Allende;49.20378,-0.343112;;;;1;;;0
+ARCOM@BUR004;;Bures;49.199238,-0.173656;;;;1;;;0
+COM_ecol02;;Lebisey;49.216354,-0.343449;;;;1;;;0
+COM_sabo01;;Sannerville Bourg;49.17804,-0.220011;;;;1;;;0
+COM_mo01_1;;Modigliani;49.15435,-0.346195;;;;1;;;0
+COM_deca01;;Decaen;49.168564,-0.346918;;;;1;;;0
+COM_monc01_1;;Montcalm;49.197742,-0.342788;;;;1;;;0
+COM_ecmu01;;Claudie Haigneré;49.211357,-0.32644;;;;1;;;0
+COM_cycr01;;Cygne de Croix;49.170975,-0.353724;;;;1;;;0
+COM_nelma;;Collège Mandela;49.20138,-0.34442;;;;1;;;0
+COM_beri11_1;;Beau Rivage;49.218155,-0.351066;;;;1;;;0
+COM_pich02_1;;Chemin Vert Piscine;49.19442,-0.386219;;;;1;;;0
+COM_bout02;;Boutrois;49.168076,-0.351805;;;;1;;;0
+ARCOM@VER026;;Rond Point;49.149853,-0.471121;;;;1;;;0
+COM_rtev02;;Route d'Evrecy;49.162018,-0.402369;;;;1;;;0
+ARCOM@SAN019;;Libération;49.1809,-0.222151;;;;1;;;0
+COM_gruc01;;Saint-Norbert;49.18917,-0.405754;;;;1;;;0
+COM_malo01_1;;Louvigny Mairie;49.15688,-0.38991;;;;1;;;0
+COM_ablu02;;Abbé Lucas;49.196503,-0.326127;;;;1;;;0
+COM_laro22;;La Rochelle;49.187546,-0.333949;;;;1;;;0
+COM_rust01;;Rue du Stade;49.17929,-0.226573;;;;1;;;0
+COM_melo01;;Louvigny Mesnil;49.16226,-0.408715;;;;1;;;0
+COM_movi01_1;;Mondevillage;49.160507,-0.301466;;;;1;;;0
+COM_koeni02;;Plains Champs;49.178246,-0.182153;;;;1;;;0
+COM_rice02_1;;Riva Centre;49.2845,-0.261763;;;;1;;;0
+COM_rdja02;;Rue des Jardins;49.17969,-0.26652;;;;1;;;0
+COM_mitt01;;Mitterrand;49.299694,-0.328914;;;;1;;;0
+COM_arma01;;Armand Marie;49.164295,-0.359069;;;;1;;;0
+COM_vaba01;;Vallée Barrey;49.17098,-0.310118;;;;1;;;0
+COM_veor01_1;;Orme;49.185486,-0.347097;;;;1;;;0
+ARCOM@VER006;;Verson Centre;49.15631,-0.448559;;;;1;;;0
+COM_macu02;;Cuverville Mairie;49.191998,-0.26348;;;;1;;;0
+COM_cari01;;Carrières;49.170856,-0.35867;;;;1;;;0
+COM_hebr02;;Brunet;49.20362,-0.43337;;;;1;;;0
+COM_hmpl01;;Hermanville Plage;49.297813,-0.305514;;;;1;;;0
+ARCOM@OUI023;;Riva Charmettes;49.288033,-0.272321;;;;1;;;0
+COM_citi22_1;;CITIS;49.21237,-0.355727;;;;1;;;0
+COM_matm02;;Mathieu Mairie;49.252644,-0.373465;;;;1;;;0
+COM_tsuk11_1;;Tsukuba;49.21417,-0.353148;;;;1;;;0
+COM_chegu02;;Guerinière;49.161808,-0.343057;;;;1;;;0
+COM_burr02;;Burrator;49.251385,-0.3722;;;;1;;;0
+ARCOM@MAT004;;Mathieu Bourg;49.25489,-0.373215;;;;1;;;0
+COM_masg02_1;;Saint Germain Mairie;49.189034,-0.409402;;;;1;;;0
+ARCOM@BSO022;;Bas Manoir;49.161804,-0.429565;;;;1;;;0
+COM_rbas01_1;;Rue Basse;49.185425,-0.353081;;;;1;;;0
+ARCOM@VER027;;Hameau Foulon;49.15245,-0.462104;;;;1;;;0
+COM_lese01;;Les Semeurs;49.193195,-0.268482;;;;1;;;0
+COM_arde11_1;;Ardenne;49.1997,-0.412529;;;;1;;;0
+COM_chan02_1;;Chanterie;49.199333,-0.408397;;;;1;;;0
+COM_edro01;;Edmond Rostand;49.174244,-0.33296;;;;1;;;0
+COM_maeg03;;Mathieu Eglise;49.254425,-0.369691;;;;1;;;0
+COM_queb01_1;;Québec;49.171947,-0.385625;;;;1;;;0
+COM_lvik01;;Les Vikings;49.244873,-0.371397;;;;1;;;0
+COM_cuss02_1;;Cussy;49.2017,-0.417419;;;;1;;;0
+COM_caau02_2;;Calvaire;49.204376,-0.424288;;;;1;;;0
+COM_jufe22;;Jean Effel;49.186222,-0.287538;;;;1;;;0
+COM_avbo02;;Avenue du Bois;49.28116,-0.267061;;;;1;;;0
+COM_lond01;;Le Londel;49.238472,-0.363024;;;;1;;;0
+COM_chrm01;;Charmettes;49.173164,-0.326114;;;;1;;;0
+COM_lech01_1;;Lechesne;49.16987,-0.361042;;;;1;;;0
+COM_masj01;;Manoir Saint-Jean;49.256107,-0.371116;;;;1;;;0
+COM_angu02;;Anguerny;49.25866,-0.377145;;;;1;;;0
+COM_lbij01_1;;La Bijude;49.228973,-0.370869;;;;1;;;0
+COM_pojo02;;Point du Jour;49.18021,-0.297362;;;;1;;;0
+COM_cdaw02;;Colonel Dawson;49.284206,-0.268186;;;;1;;;0
+COM_jaro01;;Jardins Romains;49.28335,-0.322243;;;;1;;;0
+COM_hmma02;;Hermanville Mairie;49.286896,-0.312834;;;;1;;;0
+COM_crgu02;;Croix Guérin;49.190647,-0.357471;;;;1;;;0
+COM_magi02;;Giberville Mairie;49.181107,-0.281706;;;;1;;;0
+COM_grbo02;;Grand Bois;49.150803,-0.467834;;;;1;;;0
+COM_cim01;;Café des Images;49.202408,-0.332367;;;;1;;;0
+COM_po01;;Poincaré;49.165462,-0.342777;;;;1;;;0
+COM_li01;;Liberté;49.160713,-0.343182;;;;1;;;0
+COM_co02;;Copernic;49.198433,-0.359399;;;;1;;;0
+COM_gdd01;;Grâce de Dieu;49.161346,-0.360227;;;;1;;;0
+COM_sqrd02;;Rhin-Danube;49.18811,-0.382372;;;;1;;;0
+COM_cp01;;Collège Hawking;49.15787,-0.360928;;;;1;;;0
+COM_bdle42;;Leroy;49.17319,-0.343453;;;;1;;;0
+COM_egcv01;;Eglise Saint-Joseph;49.192223,-0.390501;;;;1;;;0
+COM_cisg01_1;;Saint-Gabriel;49.187817,-0.378692;;;;1;;;0
+COM_ch01;;CHU;49.204395,-0.359505;;;;1;;;0
+ARCOM@VIB022;;Route d'Anisy;49.242714,-0.405926;;;;1;;;0
+COM_aven02;;Avenir;49.15228,-0.472077;;;;1;;;0
+COM_rocqu02;;Rocquancourt Bourg;49.0945,-0.32327;;;;1;;;0
+ARCOM@SAC020;;Saint-Aignan Mairie;49.082043,-0.281471;;;;1;;;0
+COM_prev12_1;;Prévert;49.120953,-0.383312;;;;1;;;0
+COM_2arr02;;2ème Arrêt;49.197857,-0.204472;;;;1;;;0
+ARCOM@C025;;Lycée de Gaulle;49.184483,-0.379164;;;;1;;;0
+COM_rtha01_1;;Route d'Harcourt;49.156357,-0.369246;;;;1;;;0
+COM_lelu01;;Les Luthiers;49.20908,-0.37505;;;;1;;;0
+COM_gree02;;Les Greens;49.09952,-0.284657;;;;1;;;0
+StopAreaCAE3837;;Mesnil Bourg;49.20398,-0.183399;;;;1;;;0
+COM_clha02;;Clos du Hamel;49.119495,-0.375052;;;;1;;;0
+COM_labo01;;La Bouille;49.174877,-0.514825;;;;1;;;0
+ARCOM@SOL022;;Hameau du Four;49.135555,-0.27785;;;;1;;;0
+COM_pexe01_1;;Parc Expo;49.170784,-0.373891;;;;1;;;0
+COM_bras02_1;;Brasserie;49.15879,-0.368231;;;;1;;;0
+ARCOM@C045;;Campus 2;49.21213,-0.363825;;;;1;;;0
+StopAreaCAE3834;;Salle Verte;49.20193,-0.196389;;;;1;;;0
+ARCOM@C096;;Cité U Lebisey;49.199703,-0.354267;;;;1;;;0
+COM_rubr02_1;;Branville;49.167664,-0.363361;;;;1;;;0
+ARCOM@ROT002;;Rots Eglise;49.211517,-0.474474;;;;1;;;0
+COM_avbe02;;Berlin;49.19994,-0.337358;;;;1;;;0
+COM_conn;;Connétable;49.19528,-0.328547;;;;1;;;0
+COM_gyla02;;Gymnase Laporte;49.196903,-0.335401;;;;1;;;0
+COM_digu02_1;;Digues;49.14433,-0.371368;;;;1;;;0
+ARCOM@ROS020;;Rosel Bourg;49.228394,-0.459349;;;;1;;;0
+COM_grpa01;;Grand Parc;49.202316,-0.336976;;;;1;;;0
+ARCOM@BLO006;;L'Orgueilleuse Mairie;49.211613,-0.515895;;;;1;;;0
+ARCOM@LFR022;;Canadiens;49.25297,-0.486353;;;;1;;;0
+COM_noka12;;Normandika;49.14557,-0.366596;;;;1;;;0
+COM_egtha01;;Thaon Eglise;49.260864,-0.456657;;;;1;;;0
+COM_hecc11;;Hérouville C. Commercial;49.206783,-0.325459;;;;1;;;0
+COM_mbro02;;Brouay Mairie;49.2109,-0.560976;;;;1;;;0
+COM_bray01;;Bray;49.226646,-0.489425;;;;1;;;0
+ARCOM@C098;;Maladrerie;49.187237,-0.407094;;;;1;;;0
+COM_gruch01;;Gruchy;49.21668,-0.436133;;;;1;;;0
+COM_debu12_1;;Debussy;49.14013,-0.354637;;;;1;;;0
+COM_chbo;;Chemin aux Boeufs;49.161472,-0.349438;;;;1;;;0
+COM_htha01;;Hauts de Thaon;49.25564,-0.456501;;;;1;;;0
+COM_montg02;;Montgomery;49.20234,-0.390471;;;;1;;;0
+COM_hmca01_1;;Canardière;49.29034,-0.310168;;;;1;;;0
+COM_rcau02;;Route de Caumont;49.18727,-0.416698;;;;1;;;0
+COM_p27j01;;Place du 27 Juin;49.18722,-0.445864;;;;1;;;0
+COM_C020;;Place Courtonne;49.184284,-0.357637;;;;1;;;0
+StopAreaCAE3825;;Hôtel Fortuné;49.22696,-0.56145;;;;1;;;0
+COM_clne01;;ZA du Clos Neuf;49.173264,-0.265432;;;;1;;;0
+COM_moeg02;;Mondeville Eglise;49.175343,-0.322131;;;;1;;;0
+COM_zac02;;Hauts de l'Orne;49.15407,-0.360512;;;;1;;;0
+COM_th32;;Théâtre Quai 3;49.180557,-0.363056;;;;1;;;0
+COM_plma21;;Miséricorde;49.18596,-0.36724;;;;1;;;0
+COM_th71;;Théâtre Quai 1;49.180523,-0.362425;;;;1;;;0
+COM_IFS025B;;Charité;49.152515,-0.342927;;;;1;;;2
+COM_cpam01;;CPAM;49.20994,-0.369949;;;;1;;;0
+COM_grbn;;Gare SNCF de Bretteville-Norrey;49.203396,-0.51271;;;;1;;;2
+pfoc02;;Place Foch;49.17733,-0.359668;;;;0;COM_pfoc02;;0
+grbu12;;Grands Bureaux;49.18628,-0.310347;;;;0;COM_grbu01_2;;0
+bure02;;Bures;49.19934,-0.173713;;;;0;ARCOM@BUR004;;0
+libe22;SAN019B;Libération;49.1809,-0.222151;;;;0;ARCOM@SAN019;;0
+rtau02;;Route d'Aunay;49.142483,-0.424031;;;;0;COM_rtau02;;0
+loco12;;Long Cours;49.161285,-0.398474;;;;0;COM_loco12;;0
+chrm01;chrm01;Charmettes;49.173527,-0.326242;;;;0;COM_chrm01;;0
+hamo01;;Hauts de Mondeville;49.172626,-0.303967;;;;0;COM_hamo01;;0
+demou01;;Démouville Mairie;49.178288,-0.270326;;;;0;COM_demou02;;0
+lite01;;Lionel Terray;49.177887,-0.279049;;;;0;COM_lite01;;0
+cuss02;;Cussy;49.201805,-0.41755;;;;0;COM_cuss02_1;;0
+cuss01;;Cussy;49.20159,-0.417287;;;;0;COM_cuss02_1;;0
+cali02;;Carrefour de la Liberté;49.183563,-0.285164;;;;0;COM_cali02;;0
+finl02;;Finlande;49.174007,-0.305868;;;;0;COM_finl02;;0
+rdpu02;;Rue du Puits;49.20136,-0.405976;;;;0;COM_rdpu01;;0
+stpa02;stpa02;Collège Saint-Paul;49.18435,-0.399092;;;;0;COM_stpa01;;0
+lmp02;;Lion Plage;49.305897,-0.32411;;;;0;COM_lmp02;;0
+rust02;;Rue du Stade;49.17929,-0.226573;;;;0;COM_rust01;;0
+ptve01;ptve01;Pont de Venoix;49.174698,-0.388663;;;;0;COM_ptve11;;0
+caef11;;Campus Efficience;49.18852,-0.308867;;;;0;COM_caef12;;0
+cdna21;;Côte de Nacre;49.211044,-0.362058;;;;0;COM_cdna02;;0
+stmi01;;Saint-Michel;49.175488,-0.355473;;;;0;COM_stmi02_1;;0
+bosq01;;Le Bosq;49.157253,-0.53373;;;;0;ARCOM@CHE025;;0
+pojo02;;Point du Jour;49.18021,-0.297268;;;;0;COM_pojo02;;0
+rech02;;Résidence aux Champs;49.205845,-0.428381;;;;0;COM_rech01;;0
+rech01;;Résidence aux Champs;49.205677,-0.428126;;;;0;COM_rech01;;0
+roha;;Rose Harel;49.206234,-0.437646;;;;0;COM_roha;;0
+magi02;;Giberville Mairie;49.180676,-0.281337;;;;0;COM_magi02;;0
+vibu12;;Rue de Villons;49.199715,-0.400223;;;;0;COM_vibu02;;0
+madu02;;Authie Mairie;49.206406,-0.430449;;;;0;COM_madu02_1;;0
+madu01;;Authie Mairie;49.206383,-0.430647;;;;0;COM_madu02_1;;0
+chan02;;Chanterie;49.19948,-0.40834;;;;0;COM_chan02_1;;0
+citr02;;PSA;49.155914,-0.31989;;;;0;COM_citr02;;0
+coao01;;Colline aux Oiseaux;49.198177,-0.388756;;;;0;COM_coao02;;0
+cocc02;;Corderie;49.189545,-0.331103;;;;0;COM_cocc11;;0
+coqu02;;Coquelicots;49.218822,-0.36746;;;;0;COM_coqu02_1;;0
+libec02;;Libéra;49.188595,-0.299377;;;;0;COM_libec11;;0
+sthu02;;Saint Hubert;49.191414,-0.328463;;;;0;COM_sthu12;;0
+ciga01;;Espace Gardin;49.179626,-0.365888;;;;0;COM_ciga02;;0
+feui02;;Feuillantines;49.22625,-0.309843;;;;0;COM_feui11;;0
+hmpl02;hmpl02;Hermanville Plage;49.297848,-0.305396;;;;0;COM_hmpl01;;0
+rich01;rich01;Riva Charmettes;49.28797,-0.272322;;;;0;ARCOM@OUI023;;0
+pebri02;pebri02;Pégasus Bridge;49.242767,-0.278998;;;;0;COM_pebri02;;0
+chu11;;CHU;49.203903,-0.359317;;;;0;COM_chu11;;0
+cadi12;;Café des Images;49.201954,-0.331956;;;;0;COM_cadi12;;0
+stcl01;stcl01;Saint-Clair;49.203934,-0.330821;;;;0;COM_stcl31;;0
+hecc12;;Hérouville C. Commercial;49.20679,-0.325452;;;;0;COM_hecc11;;0
+stcl31;;Saint-Clair;49.203934,-0.330824;;;;0;COM_stcl31;;0
+nash01;;Nashville;49.20046,-0.387531;;;;0;COM_nash02;;0
+stde01;stde01;Colleville Stade;49.27037,-0.298106;;;;0;COM_stde02;;0
+nled01;;Lynton Lynmouth;49.235737,-0.286932;;;;0;COM_nled01;;0
+rice01;;Riva Centre;49.28443,-0.261717;;;;0;COM_rice02_1;;0
+mitt01;;Mitterrand;49.29991,-0.32911;;;;0;COM_mitt01;;0
+con02;;Concorde;49.156956,-0.341779;;;;0;COM_con01;;0
+cs02;;CROUS-SUAPS;49.19378,-0.363805;;;;0;COM_cs02;;0
+visa12;;Vissol Sablons;49.195896,-0.369171;;;;0;COM_visa02;;0
+cam501;;Campus 5;49.208443,-0.35228;;;;0;COM_cam502_1;;0
+lefo02;;Léon Foucault;49.20963,-0.350256;;;;0;COM_lefo02_1;;0
+capu02;capu02;Capucines;49.278385,-0.296062;;;;0;COM_capu02;;0
+isav01;isav01;Isaville;49.295067,-0.29525;;;;0;COM_isav02;;0
+hmmi01;;Minotaure;49.294365,-0.304809;;;;0;COM_hmmi02;;0
+piep02;piep02;Piéplu;49.27411,-0.301794;;;;0;COM_piep02;;0
+list01;;Lion Stade;49.30035,-0.324075;;;;0;COM_list01;;0
+laja01;SAC022A;La Jalousie;49.07435,-0.296956;;;;0;ARCOM@SAC022;;0
+poes02;IFS022B;Porte d'Espagne;49.14782,-0.34027;;;;0;ARCOM@IFS022;;2
+newt01;;Newton;49.152393,-0.301475;;;;0;COM_newt02;;0
+rumo22;ETE020A;Moulin;49.146378,-0.421252;;;;0;COM_rumo01;;0
+hmma02;;Hermanville Mairie;49.28672,-0.31289;;;;0;COM_hmma02;;0
+pogr01;;Pommier Gris;49.160114,-0.332964;;;;0;COM_pogr02;;0
+labr01;;Labrador;49.160572,-0.335826;;;;0;COM_labr01;;0
+quha11;;Quai Hamelin;49.177017,-0.353917;;;;0;COM_quha_1;;0
+labr02;;Labrador;49.16046,-0.335711;;;;0;COM_labr01;;0
+pubb02;PUT004B;Putot Bourg;49.211376,-0.54232;;;;0;COM_pubb02;;0
+gndc;;Gare SNCF de Caen;49.176754,-0.347463;;;;0;COM_gndc;;2
+chuo02;C074A;Mont Coco;49.20557,-0.361648;;;;0;COM_chuo02;;0
+pril01;;Presqu'Île;49.181786,-0.350334;;;;0;COM_biat12;;0
+pogr02;;Pommier Gris;49.160027,-0.332854;;;;0;COM_pogr02;;0
+clss11;clss11;Collège Senghor Quai 1;49.135757,-0.350868;;;;0;COM_clss01;;0
+coud01;;Coudriers;49.162144,-0.339565;;;;0;COM_coud01;;0
+pihe22;;Pierre Heuzé;49.199043,-0.346418;;;;0;COM_pihe12;;0
+ph02;;Pierre Heuzé;49.199173,-0.347022;;;;0;COM_ph01;;0
+plma21;;Miséricorde;49.18596,-0.367138;;;;0;COM_plma21;;0
+moeg02;;Mondeville Eglise;49.175327,-0.321951;;;;0;COM_moeg02;;0
+clas01;LAS021B;Collines;49.230904,-0.468655;;;;0;ARCOM@LAS021;;0
+mepa01;mepa01;Mesnil Patry;49.19487,-0.54572;;;;0;COM_mepa01;;0
+lapo01;lapo01;La Pommeraie;49.170666,-0.519997;;;;0;COM_lapo01;;0
+pepi01;;Pépinières;49.24073,-0.403785;;;;0;COM_pepi02;;0
+bbou01;bbou01;Outreval;49.230125,-0.331132;;;;0;ARCOM@BIE008;;0
+psau01;THA021B;Place des Saules;49.2573,-0.452721;;;;0;ARCOM@THA021;;0
+lmare01;lmare01;Le Mareschet;49.182003,-0.489375;;;;0;ARCOM@SMA023;;0
+pova02;;Poppa de Valois;49.19866,-0.338846;;;;0;COM_pova02;;0
+ebor01;BLO002A;L'Orgueilleuse Eglise;49.2097,-0.509902;;;;0;COM_ebor02;;0
+gruc02;;Saint-Norbert;49.18921,-0.405797;;;;0;COM_gruc01;;0
+nelma;;Collège Mandela;49.20138,-0.34442;;;;0;COM_nelma;;0
+plvi02;;Place Villers;49.178837,-0.378841;;;;0;COM_plvi01_1;;0
+gdel02;;Grande Delle;49.20595,-0.342191;;;;0;COM_gdel02;;0
+movi01;;Mondevillage;49.160427,-0.301193;;;;0;COM_movi01_1;;0
+movi02;;Mondevillage;49.160583,-0.301738;;;;0;COM_movi01_1;;0
+cam01;;Camus;49.191425,-0.408624;;;;0;COM_cam01_1;;0
+acad02;;Acadiens;49.204617,-0.382714;;;;0;COM_acad02_1;;0
+lebi11;;Lebisey;49.214283,-0.343768;;;;0;COM_ecol02;;0
+cam02;;Camus;49.19153,-0.408581;;;;0;COM_cam01_1;;0
+pova01;;Poppa de Valois;49.198654,-0.339018;;;;0;COM_pova02;;0
+gyla02;;Gymnase Laporte;49.19688,-0.335577;;;;0;COM_gyla02;;0
+mala01;C098A;Maladrerie;49.187187,-0.406907;;;;0;ARCOM@C098;;0
+grpa01;;Grand Parc;49.202282,-0.337054;;;;0;COM_grpa01;;0
+grpa02;;Grand Parc;49.202347,-0.336898;;;;0;COM_grpa01;;0
+egbr01;BSO002A;Bretteville Église;49.166695,-0.412988;;;;0;COM_egbr02;;0
+htha01;THA025B;Hauts de Thaon;49.255585,-0.456487;;;;0;COM_htha01;;0
+lavi02;;Lavigerie;49.16177,-0.366038;;;;0;COM_lavi01_1;;0
+plce02;;Place Centrale;49.154106,-0.329547;;;;0;COM_plce02_1;;0
+broc01;;Brocéliande;49.17859,-0.4025;;;;0;COM_broc01;;0
+abar01;;Abbaye;49.196884,-0.412942;;;;0;COM_abar01;;0
+arma01;;Armand Marie;49.16435,-0.359014;;;;0;COM_arma01;;0
+arma02;;Armand Marie;49.16424,-0.359124;;;;0;COM_arma01;;0
+cari01;;Carrières;49.17089,-0.358633;;;;0;COM_cari01;;0
+lebo01;;Le Bois;49.212017,-0.330614;;;;0;COM_lebo01;;0
+pasp02;C091B;Parc des Sports;49.17393,-0.391334;;;;0;ARCOM@C091;;0
+cste01;;Calvaire Saint-Etienne;49.183643,-0.390197;;;;0;COM_cste02;;0
+egve01;;Venoix Eglise;49.17286,-0.394212;;;;0;COM_egve01_1;;0
+lavi01;;Lavigerie;49.16151,-0.365486;;;;0;COM_lavi01_1;;0
+tourn02;;Tournières;49.18545,-0.389441;;;;0;COM_tourn02;;0
+csma01;csma01;Norrey Calvaire;49.201145,-0.512922;;;;0;ARCOM@SMA022;;0
+borc01;BLO006A;L'Orgueilleuse Mairie;49.211533,-0.515671;;;;0;ARCOM@BLO006;;0
+crva01;ROT021B;Croix Vautier;49.202324,-0.463928;;;;0;COM_crva01;;0
+macl01;BLO021A;Mare aux Clercs;49.208664,-0.506702;;;;0;COM_macl01;;0
+carpm02;carpm02;Carpiquet Mairie;49.183475,-0.44003;;;;0;COM_carpm01;;0
+hech02;;Henry Chéron;49.171543,-0.398614;;;;0;COM_hech02;;0
+eglo01;;Louvigny Eglise;49.158573,-0.38741;;;;0;COM_eglo01;;0
+nica02;;Nice Caennais;49.17606,-0.384843;;;;0;COM_nica02_1;;0
+loce02;;Louvigny Centre;49.156876,-0.392252;;;;0;COM_loce02_1;;0
+nica01;;Nice Caennais;49.17631,-0.384034;;;;0;COM_nica02_1;;0
+loce01;;Louvigny Centre;49.156605,-0.39215;;;;0;COM_loce02_1;;0
+rdou01;rdou01;Route de Douvres;49.215904,-0.505373;;;;0;COM_rdou01;;0
+egro01;ROT002B;Rots Eglise;49.211517,-0.474474;;;;0;ARCOM@ROT002;;0
+pubb01;PUT004A;Putot Bourg;49.21138,-0.542408;;;;0;COM_pubb02;;0
+p27j02;;Place du 27 Juin;49.18727,-0.445708;;;;0;COM_p27j01;;0
+cibe02;;Cité Bellevue;49.187405,-0.412422;;;;0;COM_cibe02_1;;0
+loco02;loco02;Long Cours;49.161106,-0.398043;;;;0;COM_loco12;;0
+festy02;festy02;Festyland;49.186337,-0.430319;;;;0;COM_festy02_1;;0
+loco01;loco01;Long Cours;49.161285,-0.398474;;;;0;COM_loco12;;0
+ruch01;;Chardonnerets;49.156235,-0.394556;;;;0;COM_ruch02;;0
+matm01;;Mathieu Mairie;49.252644,-0.373465;;;;0;COM_matm02;;0
+garc02;garc02;Garcelles Bourg;49.09777,-0.289386;;;;0;COM_garc02;;0
+hamf01;hamf01;Hameau du Four;49.135555,-0.27785;;;;0;ARCOM@SOL022;;0
+ouco01;ouco01;Collège Monnet;49.280937,-0.255948;;;;0;COM_ouco01;;0
+lorg01;;Lorguichon;49.092316,-0.310961;;;;0;COM_lorg02;;0
+bore02;LFR021B;Le Bout Renard;49.263,-0.485252;;;;0;ARCOM@LFR021;;0
+rpdo01;;Port de Plaisance;49.18055,-0.350675;;;;0;COM_rpdo01;;0
+vafo02;;Foyer;49.195488,-0.345635;;;;0;COM_vafo02_1;;0
+lpla12;lpla12;La Plaine;49.18512,-0.43518;;;;0;COM_lpla12;;0
+cu11;cu11;Cité U Lebisey;49.19948,-0.355438;;;;0;ARCOM@C096;;0
+lgrte02;;La Grotte;49.184345,-0.450675;;;;0;COM_lgrte01;;0
+clhe02;;Clos Herbert;49.192078,-0.355068;;;;0;COM_clhe02_1;;0
+lgrte01;;La Grotte;49.184406,-0.450829;;;;0;COM_lgrte01;;0
+rcau02;;Route de Caumont;49.187325,-0.416752;;;;0;COM_rcau02;;0
+un01;;Université;49.188877,-0.364;;;;0;COM_un01;;0
+squa12;;Square;49.184628,-0.446711;;;;0;COM_squa12;;0
+isav02;isav02;Isaville;49.29486,-0.294206;;;;0;COM_isav02;;0
+chr02;;CHR;49.189957,-0.344079;;;;0;COM_chr01;;0
+jufe11;;Jean Effel;49.186405,-0.287632;;;;0;COM_jufe22;;0
+vend12;;Vendeuvre;49.181957,-0.353821;;;;0;COM_vend12_1;;0
+lpal12;;Les Palmiers;49.228603,-0.30887;;;;0;COM_lpal11_1;;0
+vend11;;Vendeuvre;49.181774,-0.353107;;;;0;COM_vend12_1;;0
+rdba02;;Barentins;49.18075,-0.27137;;;;0;COM_rdba01;;0
+reth02;;Rethel;49.169765,-0.334313;;;;0;COM_reth01;;0
+lese01;;Les Semeurs;49.193146,-0.268521;;;;0;COM_lese01;;0
+jocu02;;Joliot Curie;49.230434,-0.30302;;;;0;COM_jocu01;;0
+bel02;;Bellivet;49.1831,-0.360433;;;;0;COM_bel02_1;;0
+rher11;;Rue d'Hérouville;49.193836,-0.346051;;;;0;COM_rher11;;0
+macu01;;Cuverville Mairie;49.192356,-0.263479;;;;0;COM_macu02;;0
+rher12;;Rue d'Hérouville;49.193806,-0.34557;;;;0;COM_rher11;;0
+rdja02;;Rue des Jardins;49.17972,-0.266467;;;;0;COM_rdja02;;0
+mabl02;;Blainville Mairie;49.228153,-0.300111;;;;0;COM_mabl01;;0
+lese02;;Les Semeurs;49.19324,-0.268444;;;;0;COM_lese01;;0
+psau02;THA021A;Place des Saules;49.257107,-0.452825;;;;0;ARCOM@THA021;;0
+smae02;smae02;Saint-Manvieu Eglise;49.180664,-0.501434;;;;0;ARCOM@SMA002;;0
+cbou03;cbou03;Cheux Bourg;49.167446,-0.525388;;;;0;COM_cbou01;;0
+lema02;lema02;Le Marcelet;49.183105,-0.484151;;;;0;ARCOM@SMA024;;0
+lema01;lema01;Le Marcelet;49.183205,-0.482583;;;;0;ARCOM@SMA024;;0
+eggi02;;Giberville Eglise;49.183064,-0.289448;;;;0;COM_eggi02;;0
+crgu01;;Croix Guérin;49.19078,-0.357053;;;;0;COM_crgu02;;0
+madr02;;Madrid;49.14404,-0.346362;;;;0;COM_madr02_1;;0
+memo02;;Mémorial;49.198597,-0.382805;;;;0;COM_memo02;;0
+5con02;;5 Continents;49.202053,-0.38222;;;;0;COM_5con01_1;;0
+bepa02;;Bernard Palissy;49.184315,-0.392442;;;;0;COM_bepa02;;0
+mupl02;mupl02;Musique en Plaine;49.12534,-0.3078;;;;0;COM_mupl02;;0
+univ31;;Université;49.188805,-0.363938;;;;0;COM_univ22;;0
+mlk01;;Martin Luther King;49.134964,-0.288533;;;;0;COM_mlk01;;0
+gall;;Venoix;49.18102,-0.401302;;;;0;COM_gall32_1;;0
+rotb01;;Rots Bonny;49.20371,-0.475698;;;;0;COM_rotb02;;0
+ladr11;;La Dronnière;49.13946,-0.337392;;;;0;COM_ladr11;;0
+ladr12;;La Dronnière;49.13931,-0.336834;;;;0;COM_ladr11;;0
+chbo01;;Chemin aux Boeufs;49.16088,-0.349444;;;;0;COM_chbo;;0
+heke01;;Hélène Keller;49.185516,-0.33989;;;;0;COM_heke01_1;;0
+heke02;;Hélène Keller;49.18552,-0.339261;;;;0;COM_heke01_1;;0
+albe22;;Albert 1er;49.17006,-0.34773;;;;0;COM_albe22;;0
+rvi01;;Accueil Renault Trucks;49.212124,-0.300021;;;;0;COM_rvi01;;0
+rt2;rt2;Poste A;49.20685,-0.307762;;;;0;StopArea:CAE3097;;0
+C021B;C021B;Hippodrome;49.178097,-0.363126;;;;0;ARCOM@C021;;0
+rorn11;;Gare - Rives de l'Orne;49.178516,-0.350873;;;;0;COM_rorn12;;0
+qulo01;;Quai de la Londe;49.18335,-0.353912;;;;0;COM_qulo02;;0
+bourgu01;;Bourgogne;49.19438,-0.400355;;;;0;COM_bourgu01_1;;0
+obsu21;;Object'Ifs Sud;49.13904,-0.330791;;;;0;COM_obsu22_1;;0
+flor11;;Les Florals;49.19314,-0.375783;;;;0;COM_flor11;;0
+cth22;C022B;Théâtre Quai 5;49.17938,-0.362919;;;;0;ARCOM@C022;;0
+avia02;C075B;Aviation;49.16431,-0.349776;;;;0;COM_avia01;;0
+C029A;C029A;Lycée Malherbe;49.17595,-0.371003;;;;0;COM_lyma11;;0
+deca02;;Decaen;49.168476,-0.34692;;;;0;COM_deca01;;0
+sene01;ROT022A;Senestre;49.20067,-0.46304;;;;0;COM_sene01;;0
+sene02;ROT022B;Senestre;49.200523,-0.463083;;;;0;COM_sene01;;0
+msol02;msol02;Soliers Mairie;49.135223,-0.295216;;;;0;COM_msol02;;0
+cipa02;;Cimetière Parc;49.19631,-0.404855;;;;0;COM_cipa01;;0
+stje01;;Saint-Jean Eudes;49.188656,-0.336572;;;;0;COM_stje01;;0
+stje02;;Saint-Jean Eudes;49.189034,-0.33677;;;;0;COM_stje01;;0
+thfr02;;Thibout de la Fresnaye;49.18613,-0.379602;;;;0;COM_thfr01_1;;0
+epin01;;Epinette;49.143173,-0.354156;;;;0;COM_epin01;;0
+anjo02;;Anjou;49.14149,-0.355392;;;;0;COM_anjo01_1;;0
+cham02;;Champagne;49.195057,-0.389222;;;;0;COM_cham02;;0
+mart01;GIB021A;Martray;49.172455,-0.28279;;;;0;COM_mart02;;0
+vefo02;;Fouquet;49.18522,-0.344473;;;;0;COM_vefo02_1;;0
+sabo02;SAN021B;Sannerville Bourg;49.178036,-0.219654;;;;0;COM_sabo01;;0
+poin32;poin32;Poincaré;49.165348,-0.342682;;;;0;ARCOM@C018;;0
+ebor02;BLO002B;L'Orgueilleuse Eglise;49.20978,-0.509947;;;;0;COM_ebor02;;0
+repa12;;Résidence du Parc;49.179157,-0.317688;;;;0;COM_repa11;;0
+repa11;;Résidence du Parc;49.18002,-0.316965;;;;0;COM_repa11;;0
+rdca11;;Rue des Carrières;49.182693,-0.27303;;;;0;COM_rdca11;;0
+monc02;;Montcalm;49.198086,-0.342926;;;;0;COM_monc01_1;;0
+mape02;;Maison du Peuple;49.177124,-0.329483;;;;0;COM_mape02;;0
+ccgi01;;Civisme;49.182632,-0.274918;;;;0;COM_ccgi02;;0
+ccgi02;;Civisme;49.18256,-0.274658;;;;0;COM_ccgi02;;0
+clne01;DEM020A;ZA du Clos Neuf;49.173244,-0.267131;;;;0;COM_clne01;;0
+cham01;;Champagne;49.194973,-0.389352;;;;0;COM_cham02;;0
+rher01;;La Hache;49.193516,-0.343173;;;;0;COM_rher02;;0
+cimne02;;Cimetière Nord-Est;49.191067,-0.340893;;;;0;COM_cimne02_1;;0
+bess22;BLO020B;Bessin;49.213417,-0.521511;;;;0;ARCOM@BLO020;;0
+bess01;BLO020A;Bessin;49.213257,-0.522189;;;;0;ARCOM@BLO020;;0
+rotbo02;ROT004B;Rots Bourg;49.19993,-0.47787;;;;0;COM_rotbo01;;0
+degm04;;Grandes Murailles;49.184673,-0.270343;;;;0;COM_degm03;;0
+mamo02;;Mondeville Mairie;49.176678,-0.320926;;;;0;COM_mamo02;;0
+pdra01;;Parc des Drapeaux;49.198193,-0.455528;;;;0;COM_pdra02_1;;0
+poca01;;Pont de Calix;49.18597,-0.335209;;;;0;COM_poca02_1;;0
+ruce01;;Plateau;49.18189,-0.308636;;;;0;COM_ruce01;;0
+bdva02;;Vanier;49.195816,-0.343634;;;;0;COM_geva01;;0
+leti01;let01;Les Tilleuls;49.12788,-0.316951;;;;0;COM_leti02;;0
+ptsn01;;Pont SNCF;49.17654,-0.331945;;;;0;COM_ptsn02;;0
+ger02;;Gernez;49.19406,-0.383749;;;;0;COM_ger01;;0
+ptsn02;;Pont SNCF;49.176384,-0.332167;;;;0;COM_ptsn02;;0
+gyhu01;;Gymnase Humbert;49.208076,-0.33501;;;;0;COM_gyhu02_1;;0
+lac02;;Lac;49.219822,-0.347732;;;;0;COM_lac01_1;;0
+colco02;;Le Coutour;49.19351,-0.379653;;;;0;COM_colco01;;0
+colco01;;Le Coutour;49.193443,-0.379742;;;;0;COM_colco01;;0
+pich02;;Chemin Vert Piscine;49.194695,-0.38652;;;;0;COM_pich02_1;;0
+pich01;;Chemin Vert Piscine;49.19414,-0.385919;;;;0;COM_pich02_1;;0
+istp02;;Institution Saint-Pierre;49.18302,-0.383242;;;;0;COM_istp01_1;;0
+cycr01;cycr01;Cygne de Croix;49.17131,-0.353864;;;;0;COM_cycr01;;0
+stmf02;;Mendès France;49.14777,-0.345651;;;;0;COM_stmf02;;0
+bico02;;Bicoquet;49.183086,-0.379441;;;;0;COM_bico02;;0
+libe11;;Libérateurs;49.138714,-0.345093;;;;0;COM_libec02_4;;0
+libe12;;Libérateurs;49.13841,-0.345337;;;;0;COM_libec02_4;;0
+modi61;;Modigliani;49.15404,-0.345528;;;;0;COM_modi62;;0
+auve01;;Auvergne;49.13744,-0.355736;;;;0;COM_auve02;;0
+plan02;;Planitre;49.18694,-0.402152;;;;0;COM_plan02;;0
+plan01;;Planitre;49.186825,-0.402132;;;;0;COM_plan02;;0
+deto02;;Detolle;49.18323,-0.385074;;;;0;COM_deto02_1;;0
+juve02;;Jules Verne;49.15668,-0.347221;;;;0;COM_juve01;;0
+lyro01;;Lycée Rostand;49.161633,-0.351753;;;;0;COM_lyro01;;0
+lbij12;;Bijude Commerces;49.22927,-0.372097;;;;0;COM_lbij12;;0
+6acres01;;6 Acres;49.226715,-0.371832;;;;0;COM_6acres;;0
+lava01;BLA021B;Langevin Wallon;49.227673,-0.306839;;;;0;COM_lava02;;0
+niep02;niep02;Niepce;49.15472,-0.300269;;;;0;COM_niep02;;0
+osty01;STA025B;Ostiguy;49.12892,-0.377199;;;;0;COM_osty01;;0
+osty02;STA025A;Ostiguy;49.128963,-0.377011;;;;0;COM_osty01;;0
+pers02;;Perspectives;49.1957,-0.348749;;;;0;COM_pers01_1;;0
+clep11;;Clos de l'Epine;49.23369,-0.38884;;;;0;COM_clep12;;0
+clda02;;Clos de l'Avonde;49.227394,-0.385184;;;;0;COM_clda01;;0
+maca22;;Cambes Mairie;49.2326,-0.385962;;;;0;COM_maca21_1;;0
+cu12;cu12;Cité U Lebisey;49.20021,-0.353518;;;;0;ARCOM@C096;;0
+cave01;;Cavelier;49.197918,-0.350991;;;;0;COM_cave02_1;;0
+ceau01;FLU020A;Fleury Château d'Eau;49.152863,-0.370563;;;;0;ARCOM@FLU020;;0
+rtha01;;Route d'Harcourt;49.15674,-0.369005;;;;0;COM_rtha01_1;;0
+lava02;;Langevin Wallon;49.227512,-0.306579;;;;0;COM_lava02;;0
+burla01;burla01;Bures Lavoir;49.203712,-0.177061;;;;0;StopArea3836;;0
+saver01;saver01;Salle Verte;49.20191,-0.1963;;;;0;StopAreaCAE3834;;0
+luxe02;STA022A;Luxembourg;49.120964,-0.378304;;;;0;COM_luxe01;;0
+inle01;;Institut Lemonnier;49.193604,-0.349722;;;;0;COM_inle01;;0
+tl.2;;Tour Leroy;49.184208,-0.358402;;;;0;COM_tl.1;;0
+gira02;;Girafe;49.206802,-0.367779;;;;0;COM_gira01;;0
+coty01;;Coty;49.191277,-0.39697;;;;0;COM_coty22_1;;0
+aven02;VER032B;Avenir;49.15228,-0.472077;;;;0;COM_aven02;;0
+maeg03;maeg03;Mathieu Eglise;49.254314,-0.369069;;;;0;COM_maeg03;;0
+maiz01;maiz01;Le Maizeret;49.189808,-0.20682;;;;0;StopAreaCAE3840;;0
+mats02;mats02;Sureaux;49.25115,-0.365357;;;;0;COM_mats11;;0
+sqrd02;;Rhin-Danube;49.188137,-0.382295;;;;0;COM_sqrd02;;0
+char02;;Molière;49.19243,-0.394089;;;;0;COM_char02;;0
+stth02;;Sainte-Thérèse;49.170406,-0.338914;;;;0;COM_stth02_1;;0
+poas01;poas01;Collège Monod;49.205956,-0.378395;;;;0;COM_poas02;;0
+stur01;stur01;Lycée Sainte-Ursule;49.201057,-0.380691;;;;0;COM_stur02;;0
+bear01;;Beauregard;49.213413,-0.317479;;;;0;COM_bear01;;0
+etri02;;Etrier;49.193253,-0.369488;;;;0;COM_etri01_1;;0
+lond01;;Le Londel;49.238472,-0.363024;;;;0;COM_lond01;;0
+5con01;;5 Continents;49.202183,-0.382232;;;;0;COM_5con01_1;;0
+maju01;maju01;Maréchal Juin;49.210423,-0.366623;;;;0;ARCOM@C099;;0
+cisg02;;St Gabriel;49.187847,-0.378838;;;;0;COM_cisg01_1;;0
+maco21;;Colombelles Mairie;49.203117,-0.297602;;;;0;COM_maco22;;0
+emzo02;;Emile Zola;49.232582,-0.302682;;;;0;COM_emzo02_1;;0
+delu11;delu11;Demi-Lune;49.17426,-0.339833;;;;0;ARCOM@C035;;0
+cisg01;;St Gabriel;49.187782,-0.378546;;;;0;COM_cisg01_1;;0
+nico01;;Nicolas Copernic;49.16422,-0.325918;;;;0;COM_nico02;;0
+masj01;;Manoir Saint-Jean;49.256058,-0.371156;;;;0;COM_masj01;;0
+feui11;;Feuillantines;49.225994,-0.309522;;;;0;COM_feui11;;0
+vime02;;Métiers;49.20536,-0.375788;;;;0;COM_vime02_1;;0
+vime01;;Métiers;49.205154,-0.375995;;;;0;COM_vime02_1;;0
+rtca02;;Route de Cabourg;49.179855,-0.321301;;;;0;COM_rtca01;;0
+lepo02;VER028B;Les Pommiers;49.15825,-0.442094;;;;0;COM_lepo01;;0
+stoc02;;Stockholm;49.18892,-0.38972;;;;0;COM_stoc01;;0
+stoc01;;Stockholm;49.18834,-0.389292;;;;0;COM_stoc01;;0
+bama01;BSO022A;Bas Manoir;49.16175,-0.429558;;;;0;ARCOM@BSO022;;0
+chfo01;;Chemin Foulon;49.133507,-0.500774;;;;0;COM_chfo01_1;;0
+chfo02;;Chemin Foulon;49.13296,-0.501938;;;;0;COM_chfo01_1;;0
+rbas02;;Rue Basse;49.18539,-0.353024;;;;0;COM_rbas01_1;;0
+cabr02;;Cambridge;49.217342,-0.354349;;;;0;COM_cabr02;;0
+hafo02;VER027B;Hameau Foulon;49.152485,-0.462179;;;;0;ARCOM@VER027;;0
+pdlm02;pdlm02;Portes de la Mer;49.20486,-0.321329;;;;0;COM_pdlm31;;0
+LFR004B;LFR004B;Le Fresne Bourg;49.25155,-0.483767;;;;0;COM_frebo01;;0
+pdlm01;pdlm01;Portes de la Mer;49.204304,-0.320453;;;;0;COM_pdlm31;;0
+ceco02;BSO020B;Bretagne;49.164524,-0.420377;;;;0;COM_ceco02;;0
+veor02;;Orme;49.18545,-0.347212;;;;0;COM_veor01_1;;0
+lach02;;La Chouette;49.201256,-0.322889;;;;0;COM_lach01;;0
+jean02;;Jean XXIII;49.194702,-0.326795;;;;0;COM_jean01;;0
+stni02;;Saint-Nicolas;49.184006,-0.375692;;;;0;COM_stni01;;0
+podo01;C062A;Poilus d'Orient;49.18512,-0.383018;;;;0;COM_podo02;;0
+robo01;;Robert Bosch;49.16651,-0.313928;;;;0;COM_robo02;;0
+bout02;C108B;Boutrois;49.167545,-0.351584;;;;0;COM_bout02;;0
+lope01;lope01;Loup Pendu;49.15521,-0.452234;;;;0;COM_lope01;;0
+fond01;;La Fonderie BBC;49.21065,-0.337371;;;;0;COM_fond01;;0
+ropo01;VER026A;Rond Point;49.149895,-0.470792;;;;0;ARCOM@VER026;;0
+bout01;C108A;Boutrois;49.1686,-0.352027;;;;0;COM_bout02;;0
+VIB022A;VIB022A;Route d'Anisy;49.242928,-0.405969;;;;0;ARCOM@VIB022;;0
+ruau02;;Rue d'Auge;49.174755,-0.343234;;;;0;COM_ruau02;;0
+VIB022B;VIB022B;Route d'Anisy;49.2425,-0.405883;;;;0;ARCOM@VIB022;;0
+leme02;;Le Méridien;49.19102,-0.391951;;;;0;COM_leme02_1;;0
+leme01;;Le Méridien;49.190815,-0.392104;;;;0;COM_leme02_1;;0
+3dib01;;3ème DIB;49.21668,-0.340641;;;;0;COM_3dib01;;0
+ablu02;;Abbé Lucas;49.196358,-0.32636;;;;0;COM_ablu02;;0
+lac01;;Lac;49.22,-0.348491;;;;0;COM_lac01_1;;0
+C009A;C009A;Gare Routière;49.17658,-0.346324;;;;0;ARCOM@C009;;0
+mifa02;;Michel Farre;49.185883,-0.303055;;;;0;COM_mifa01;;0
+ecco22;;Colombelles Ecole;49.20338,-0.302998;;;;0;COM_ecco22_1;;0
+l3va01;;Les 3 Vallées;49.204792,-0.29227;;;;0;COM_l3va01;;0
+pepi02;;Pépinières;49.240734,-0.403785;;;;0;COM_pepi02;;0
+stceg01;;Saint-Contest Eglise;49.214153,-0.402181;;;;0;COM_stceg01;;0
+l2eg11;;Les 2 Eglises;49.18418,-0.305697;;;;0;COM_l2eg02;;0
+chuo01;C074B;Mont Coco;49.20628,-0.361428;;;;0;COM_chuo02;;0
+cana02;;Canal;49.199642,-0.323904;;;;0;COM_cana02_1;;0
+cana01;;Canal;49.199677,-0.32403;;;;0;COM_cana02_1;;0
+av01;;Aviation;49.16316,-0.349793;;;;0;COM_av02_4;;0
+cour02;;Courseulles;49.192005,-0.369843;;;;0;COM_cour02_1;;0
+rf02;;Rostand Fresnel;49.162064,-0.35415;;;;0;COM_rf01;;0
+epron02;;Epron Mairie;49.22337,-0.371136;;;;0;COM_epron;;0
+clsm02;;Clos Saint-Marc;49.211376,-0.373146;;;;0;COM_clsm01_1;;0
+rega01;;Egalité;49.207523,-0.295628;;;;0;COM_rega01;;0
+casp02;casp02;Calvaire Saint-Pierre;49.198956,-0.364054;;;;0;COM_casp41;;0
+paca01;;Pays de Caen;49.196655,-0.29905;;;;0;COM_paca01;;0
+coqu12;;Coquelicots;49.218758,-0.367318;;;;0;COM_coqu02_1;;0
+epro02;epro02;Germes de Blé;49.221836,-0.368052;;;;0;COM_epro02;;0
+ch01;;CHU;49.204395,-0.359532;;;;0;COM_ch01;;0
+zavil;;ZA au Village;49.22741,-0.368203;;;;0;COM_zavil;;0
+rmal01;;Rue de Malon;49.209526,-0.377488;;;;0;COM_rmal02;;0
+caef12;;Campus Efficience;49.18838,-0.309079;;;;0;COM_caef12;;0
+ci01;;CITIS;49.211365,-0.356508;;;;0;COM_ci01;;0
+copl02;copl02;Colleville Plage;49.291412,-0.283104;;;;0;COM_copl02;;0
+becq02;becq02;Becquet;49.27896,-0.298444;;;;0;COM_becq02;;0
+baud01;;Baudry;49.285496,-0.317793;;;;0;COM_baud02;;0
+orgo02;;Orée du Golf;49.221733,-0.366435;;;;0;COM_orgo02_1;;0
+cacc02;;Campus 2 C. Commercial;49.209713,-0.367253;;;;0;COM_cacc02_2;;0
+emmo01;;Emile Mougins;49.206203,-0.293514;;;;0;COM_emmo02;;0
+ifbr02;ifbr02;Ifs Bras;49.135178,-0.321763;;;;0;COM_ifbr;;0
+maco22;;Colombelles Mairie;49.203217,-0.296851;;;;0;COM_maco22;;0
+maco11;;Colombelles Mairie;49.204178,-0.295992;;;;0;COM_maco22;;0
+bctre02;bctre02;Bourguébus Centre;49.12179,-0.298377;;;;0;ARCOM@BOU006;;0
+cocv01;cocv01;Collevillette;49.286205,-0.287929;;;;0;COM_cocv02;;0
+cpam02;cpam02;CPAM;49.21003,-0.369866;;;;0;COM_cpam01;;0
+cdn02;;Côte de Nacre;49.210968,-0.362264;;;;0;COM_cdn01_1;;0
+pomp01;;Pompidou;49.181175,-0.398775;;;;0;COM_pomp02;;0
+cb01;;Campus 4;49.208965,-0.358935;;;;0;COM_cb01_1;;0
+deba11;;Débarquement;49.20286,-0.392568;;;;0;COM_deba11;;0
+efs12;;EFS;49.206276,-0.359303;;;;0;COM_efs12;;0
+l2eg02;;Les 2 Eglises;49.182186,-0.304425;;;;0;COM_l2eg02;;0
+egbe02;egbe02;Bénouville Eglise;49.246414,-0.276514;;;;0;ARCOM@BEN002;;0
+catt01;;Cattehoulte;49.164825,-0.332739;;;;0;COM_catt02_1;;0
+grpl02;;Grande Rue;49.18071,-0.306662;;;;0;COM_grpl01;;0
+grpl01;;Grande Rue;49.180546,-0.307215;;;;0;COM_grpl01;;0
+cisu02;;Cités Suédoises;49.20766,-0.297466;;;;0;COM_cisu01;;0
+hmcr02;;Croix Rose;49.28141,-0.316839;;;;0;COM_hmcr01;;0
+bl01;;Leroy;49.173367,-0.344511;;;;0;COM_bl01;;0
+co02;;Copernic;49.19842,-0.359302;;;;0;COM_co02;;0
+gs01;;Gare SNCF;49.175877,-0.348372;;;;0;COM_gs01;;0
+stpi02;;Saint-Pierre;49.183723,-0.360082;;;;0;COM_stpi02_1;;0
+cim02;;Café des Images;49.20238,-0.332139;;;;0;COM_cim01;;0
+mmou02;MOU003A;Mouen Mairie;49.145832,-0.485287;;;;0;COM_mmou01;;0
+crre02;;Creux au Renard;49.17011,-0.402964;;;;0;COM_crre01;;0
+wood01;;Woodbury;49.16921,-0.422003;;;;0;COM_wood02;;0
+masa01;masa01;Saint-Aubin Mairie;49.260605,-0.286732;;;;0;COM_masa01;;0
+zavb01;;ZAC Vallée Barrey;49.17008,-0.30894;;;;0;COM_zavb01;;0
+lmbl02;lmbl02;Bas Lion;49.302258,-0.318821;;;;0;COM_lmbl02;;0
+hmjr01;;Jardins Romains;49.28331,-0.322254;;;;0;COM_jaro01;;0
+rbui01;;Buisson;49.16924,-0.416088;;;;0;COM_rbui02;;0
+qu04;;Château Quatrans;49.185253,-0.363809;;;;0;COM_qu04;;0
+qu01;;Château Quatrans;49.185135,-0.363338;;;;0;COM_qu04;;0
+qu02;;Château Quatrans;49.185253,-0.363495;;;;0;COM_qu04;;0
+cove02;;Collège Prévert;49.156437,-0.456021;;;;0;COM_cove02;;0
+wood12;;Woodbury;49.16949,-0.422129;;;;0;COM_wood02;;0
+lmar02;;Les Marronniers;49.14794,-0.424374;;;;0;COM_lmar01;;0
+mabr02;;Bretteville Mairie;49.165802,-0.418049;;;;0;COM_mabr02;;0
+rocr01;rocr01;Le Rocreuil;49.156303,-0.434038;;;;0;COM_rocr01;;0
+sc01;;Saint-Clair;49.203568,-0.329305;;;;0;COM_sc01;;0
+vl01;;Lux-Lépine;49.171062,-0.34217;;;;0;COM_vl01;;0
+bras01;FLU021A;Brasserie;49.15883,-0.368125;;;;0;COM_bras02_1;;0
+tere02;tere02;Terrasses;49.168697,-0.407229;;;;0;ARCOM@BSO021;;0
+chal01;;Charlemagne;49.1733,-0.399681;;;;0;COM_chal02_1;;0
+jevi02;jevi02;Jean Vilar;49.149643,-0.349661;;;;0;COM_jevi02_3;;0
+lopa02;;Louis Pasteur;49.143074,-0.379098;;;;0;COM_lopa02;;0
+carr02;;Carrelettes;49.143433,-0.382518;;;;0;COM_carr01;;0
+carr01;;Carrelettes;49.143475,-0.38248;;;;0;COM_carr01;;0
+50ac02;;50 Acres;49.167675,-0.410306;;;;0;COM_50ac02;;0
+fleury22;;Marcel Cachin;49.14511,-0.374351;;;;0;COM_fleury22_1;;0
+re01;;Résistance Saint-Jean;49.180836,-0.356077;;;;0;COM_re01;;0
+ac01;;Place de l'Europe;49.2026,-0.336622;;;;0;COM_ac01_1;;0
+ac02;;Place de l'Europe;49.202553,-0.336209;;;;0;COM_ac01_1;;0
+che02;;Château d'Eau;49.20271,-0.340058;;;;0;COM_che02_3;;0
+che01;;Château d'Eau;49.202755,-0.34039;;;;0;COM_che02_3;;0
+prev12;STA023B;Prévert;49.120865,-0.383183;;;;0;COM_prev12_1;;0
+mo01;;Modigliani;49.154335,-0.346345;;;;0;COM_mo01_1;;0
+prev11;STA023A;Prévert;49.12104,-0.383441;;;;0;COM_prev12_1;;0
+rocqu02;ROC004B;Rocquancourt Bourg;49.094517,-0.323258;;;;0;COM_rocqu02;;0
+lorg02;;Lorguichon;49.090794,-0.310167;;;;0;COM_lorg02;;0
+ruene01;;Energie;49.216263,-0.370188;;;;0;COM_ruene01_1;;0
+till01;till01;Tilly Centre;49.11087,-0.305729;;;;0;COM_till01;;0
+cs01;;CROUS-SUAPS;49.193756,-0.363557;;;;0;COM_cs02;;0
+lbij11;;Bijude Commerces;49.22903,-0.372505;;;;0;COM_lbij12;;0
+chou02;;Chouquaie;49.144215,-0.350962;;;;0;COM_chou01_1;;0
+juge01;;Jules Guesde;49.144016,-0.37623;;;;0;COM_juge02;;0
+cope32;;Copernic;49.19836,-0.361446;;;;0;COM_cope21_2;;0
+coqu11;;Coquelicots;49.218822,-0.36746;;;;0;COM_coqu02_1;;0
+labo02;labo02;La Bouille;49.17495,-0.514833;;;;0;COM_labo01;;0
+MAT022A;MAT022A;Equipement;49.251186,-0.383357;;;;0;ARCOM@MAT022;;0
+gani01;C045A;Campus 2;49.21236,-0.364147;;;;0;ARCOM@C045;;0
+cljo01;;Clos Joli;49.15476,-0.336073;;;;0;COM_cljo02;;0
+stoc11;;Stockholm;49.188526,-0.390056;;;;0;COM_stoc01;;0
+lefr02;;Lefrançois;49.168743,-0.36209;;;;0;COM_lefr02;;0
+lefr01;;Lefrançois;49.168777,-0.361983;;;;0;COM_lefr02;;0
+indu02;;Industrie;49.15731,-0.326529;;;;0;COM_indu01_1;;0
+sqpo01;;Square Poppa;49.17746,-0.386614;;;;0;COM_sqpo02_1;;0
+resa02;;Sanchez;49.183826,-0.385852;;;;0;COM_resa02;;0
+monu01;;Monument;49.157852,-0.336631;;;;0;COM_monu01;;0
+monu02;;Monument;49.157124,-0.336617;;;;0;COM_monu01;;0
+cdaw02;;Colonel Dawson;49.28422,-0.268119;;;;0;COM_cdaw02;;0
+cdaw01;;Colonel Dawson;49.284187,-0.268253;;;;0;COM_cdaw02;;0
+pel01;;Pèlerins;49.268906,-0.26125;;;;0;COM_pel01_1;;0
+ruma01;;Rue de Maltot;49.175175,-0.382521;;;;0;COM_ruma01;;0
+chue02;chue02;Harris;49.205116,-0.350854;;;;0;ARCOM@C051;;0
+edim12;C043B;Édimbourg;49.193184,-0.359663;;;;0;ARCOM@C043;;0
+libt21;;Liberté;49.161087,-0.342843;;;;0;COM_libt21;;0
+bbrh02;;Rue du Home;49.24596,-0.330352;;;;0;COM_bbrh01;;0
+laen02;;Laennec;49.20477,-0.347121;;;;0;COM_laen02;;0
+gasn11;gasn11;Gare SNCF;49.175575,-0.349334;;;;0;ARCOM@C010;;0
+ousc02;;Sacré Coeur;49.277332,-0.262237;;;;0;COM_ousc02_1;;0
+pdgr02;;Grande Cour;49.258827,-0.343342;;;;0;COM_pdgr01;;0
+ougl01;;Général Leclerc;49.281918,-0.255523;;;;0;COM_ougl02;;0
+poou01;;Ouistreham  Port;49.27947,-0.250708;;;;0;COM_poou02;;0
+ougl02;;Général Leclerc;49.28218,-0.255891;;;;0;COM_ougl02;;0
+bbcb02;bbcb02;Clos Bosquin;49.240654,-0.32682;;;;0;COM_bbcb01;;0
+psld02;;Periers Mairie;49.257572,-0.339514;;;;0;COM_psld01;;0
+oupb01;;Petit Bonheur;49.274944,-0.260825;;;;0;COM_oupb01;;0
+psld01;;Périers Mairie;49.257378,-0.339198;;;;0;COM_psld01;;0
+laza01;;Lazzaro;49.20033,-0.293375;;;;0;COM_laza01;;0
+vice01;vice01;Villons Cerisiers;49.23858,-0.41156;;;;0;COM_vice02_1;;0
+chha02;;Chemin de Halage;49.206993,-0.315889;;;;0;COM_chha01;;0
+creu02;;Creully;49.191235,-0.374093;;;;0;COM_creu01;;0
+fmou01;;Francois Mourier;49.203804,-0.305957;;;;0;COM_fmou02_1;;0
+bbou02;bbou02;Outreval;49.23012,-0.330969;;;;0;ARCOM@BIE008;;0
+becq01;becq01;Becquet;49.27882,-0.298031;;;;0;COM_becq02;;0
+jeun02;CAI021B;Cairon Château;49.23786,-0.450295;;;;0;COM_jeun01;;0
+vieu01;CAI020A;Cairon Commerces;49.233936,-0.444745;;;;0;COM_vieu02;;0
+dudu02;;Lycée D. d'Urville;49.195538,-0.355312;;;;0;COM_dudu02_1;;0
+dudu01;;Lycée D. d'Urville;49.19589,-0.355267;;;;0;COM_dudu02_1;;0
+montg01;;Montgomery;49.202404,-0.390481;;;;0;COM_montg02;;0
+jufe01;;Jules Ferry;49.185192,-0.288293;;;;0;COM_jufe02;;0
+brie02;;Collège Guillemot;49.171547,-0.316294;;;;0;COM_brie01;;0
+cons01;cons01;Hôtel de Ville Quai 1;49.18067,-0.370129;;;;0;COM_hdvc01;;0
+creu01;;Creully;49.19053,-0.372929;;;;0;COM_creu01;;0
+burca02;STC025B;Buron Canadiens;49.219242,-0.423389;;;;0;COM_burca02;;0
+burca01;STC025A;Buron Canadiens;49.219193,-0.423416;;;;0;COM_burca02;;0
+rubos02;;Jardin des Plantes;49.188988,-0.369767;;;;0;COM_rubos02_1;;0
+rubos01;;Jardin des Plantes;49.188976,-0.369917;;;;0;COM_rubos02_1;;0
+vieu02;CAI020B;Cairon Commerces;49.234196,-0.44504;;;;0;COM_vieu02;;0
+dldt02;;Tassigny;49.201897,-0.387582;;;;0;COM_dldt01;;0
+chbo;;Chemin aux Boeufs;49.162064,-0.349433;;;;0;COM_chbo;;0
+impd02;;IMP;49.17762,-0.272261;;;;0;COM_impd01_1;;0
+coto01;;Cotonnière;49.1979,-0.401473;;;;0;COM_coto01;;0
+libec11;;Libéra;49.1883,-0.29794;;;;0;COM_libec11;;0
+htme02;;Haut Meslier;49.23037,-0.439737;;;;0;COM_htme02;;0
+clso02;MON029B;Clair Soleil;49.172546,-0.320227;;;;0;COM_clso01_1;;0
+egcu01;;Cuverville Eglise;49.188435,-0.264702;;;;0;COM_egcu02;;0
+egcu02;;Cuverville Eglise;49.18902,-0.264375;;;;0;COM_egcu02;;0
+grha02;;Grande Halle;49.191467,-0.30353;;;;0;COM_grha01;;0
+colb01;;Colbert;49.22645,-0.303739;;;;0;COM_colb02_1;;0
+clmo02;;Claude Monet;49.160778,-0.34634;;;;0;COM_clmo02;;0
+rtau01;rtau01;Route d'Aunay;49.142483,-0.424031;;;;0;COM_rtau02;;0
+clmo01;;Claude Monet;49.160995,-0.34619;;;;0;COM_clmo02;;0
+chegu02;;Guérinière;49.161808,-0.343057;;;;0;COM_chegu02;;0
+ruda01;;Damozanne;49.18249,-0.383963;;;;0;COM_ruda02;;0
+jafa01;;Jardins Familiaux;49.21078,-0.320604;;;;0;COM_jafa01;;0
+melo02;;Louvigny Mesnil;49.16196,-0.409035;;;;0;COM_melo01;;0
+crem01;;Crématorium;49.194588,-0.410402;;;;0;COM_crem02_1;;0
+pexe01;C102A;Parc Expo;49.171127,-0.37397;;;;0;COM_pexe01_1;;0
+lyau02;;Lyautey;49.167583,-0.361334;;;;0;COM_lyau01;;0
+lyau01;;Lyautey;49.16789,-0.361374;;;;0;COM_lyau01;;0
+havi01;;Haie Vigné;49.179768,-0.384025;;;;0;COM_havi01_1;;0
+cldr01;;Clos des Roses;49.186733,-0.392608;;;;0;COM_cldr01_1;;0
+COM_impd01_1;;IMP;49.177708,-0.272121;;;;1;;;0
+COM_tasp12_1;;Tampleu;49.16157,-0.298537;;;;1;;;0
+ARCOM@C051;;Harris;49.20512,-0.351057;;;;1;;;0
+COM_resa02;;Sanchez;49.183826,-0.385852;;;;1;;;0
+COM_jufe02;;Jules Ferry;49.18518,-0.288224;;;;1;;;0
+COM_sqpo02_1;;Square Poppa;49.177475,-0.386544;;;;1;;;0
+COM_luxe01;;Luxembourg;49.12094,-0.378118;;;;1;;;0
+COM_rbui02;;Buisson;49.169308,-0.415801;;;;1;;;0
+COM_lmbl02;;Bas Lion;49.30216,-0.318771;;;;1;;;0
+COM_l3va01;;Les 3 Vallées;49.204582,-0.292845;;;;1;;;0
+COM_hmcr01;;Croix Rose;49.281315,-0.31697;;;;1;;;0
+COM_cale01_1;;Carrefour de Lebisey;49.21366,-0.341047;;;;1;;;0
+ARCOM@BEN002;;Bénouville Eglise;49.246468,-0.276463;;;;1;;;0
+COM_becq02;;Becquet;49.27889,-0.298238;;;;1;;;0
+COM_boul01_1;;Aiguillon;49.171597,-0.414988;;;;1;;;0
+COM_ruba02_1;;Barbeux;49.171642,-0.357966;;;;1;;;0
+COM_maco22;;Colombelles Mairie;49.203503,-0.296815;;;;1;;;0
+COM_koeni11;;Koenig;49.175335,-0.433366;;;;1;;;0
+COM_burca02;;Buron Canadiens;49.219215,-0.423403;;;;1;;;0
+COM_berr01;;Berry;49.192635,-0.400097;;;;1;;;0
+COM_hfou12;;Hauts Fourneaux;49.191814,-0.301681;;;;1;;;0
+ARCOM@STC020;;Champs Bailly;49.21657,-0.415788;;;;1;;;0
+COM_qume01;;Quai Meslin;49.176254,-0.354298;;;;1;;;0
+COM_norm22_1;;Normandial;49.19334,-0.301939;;;;1;;;0
+COM_50ac02;;50 Acres;49.16762,-0.410341;;;;1;;;0
+COM_bret01;;L' Enclos;49.174347,-0.41263;;;;1;;;0
+COM_masl02;;Maslière;49.171425,-0.424737;;;;1;;;0
+COM_chep02;;Château d'Eau Plateau;49.17967,-0.308867;;;;1;;;0
+COM_emmo02;;Emile Mougins;49.20623,-0.293471;;;;1;;;0
+COM_path01;;Parc Athéna;49.20415,-0.392545;;;;1;;;0
+COM_ciga02;;Espace Gardin;49.17967,-0.365804;;;;1;;;0
+COM_plca02;;Place du Canada;49.18544,-0.371651;;;;1;;;0
+COM_ccou02;;Charles de Coulomb;49.168095,-0.318508;;;;1;;;0
+COM_beno;;Montoure;49.24314,-0.288532;;;;1;;;0
+COM_avia01;;Aviation;49.163517,-0.349961;;;;1;;;0
+ARCOM@BIE008;;Outreval;49.23012,-0.33105;;;;1;;;0
+ARCOM@BEN005;;Fosse Poirier;49.243057,-0.284203;;;;1;;;0
+ARCOM@BIE006;bbce01;Biéville Centre;49.237343,-0.327217;;;;1;;;0
+COM_egsa02;;Saint-Aubin Eglise;49.26272,-0.290244;;;;1;;;0
+COM_vell01;;Vellerie;49.216568,-0.385121;;;;1;;;0
+COM_brie01;;Collège Guillemot;49.172043,-0.316327;;;;1;;;0
+COM_jcamb02;;Jardins de Cambes;49.225304,-0.386213;;;;1;;;0
+COM_catt02_1;;Cattehoulte;49.164894,-0.332749;;;;1;;;0
+COM_6acres;;6 Acres;49.2268,-0.37192;;;;1;;;0
+COM_pich11;;Robert Schuman;49.193405,-0.387127;;;;1;;;0
+COM_pote02;;Poterie;49.218864,-0.38743;;;;1;;;0
+COM_cove02;;Collège Prévert;49.156437,-0.456021;;;;1;;;0
+ARCOM@VIB006;;Villons Centre;49.240242,-0.408302;;;;1;;;0
+COM_coty22_1;;Coty;49.191273,-0.397686;;;;1;;;0
+COM_maca21_1;;Cambes Mairie;49.23236,-0.385478;;;;1;;;0
+COM_clsm01_1;;Clos Saint-Marc;49.211422,-0.373232;;;;1;;;0
+COM_ltou02;;Les Tourelles;49.123966,-0.299658;;;;1;;;0
+COM_sj02;;Saint-Jean Eglise;49.180706,-0.358428;;;;1;;;0
+COM_cocl01;;Couvrechef le Clos;49.213757,-0.374665;;;;1;;;0
+COM_rumo01;;Moulin;49.14626,-0.421273;;;;1;;;0
+COM_clep12;;Clos de l'Epine;49.233734,-0.388783;;;;1;;;0
+COM_ifbr;;Ifs Bras;49.13533,-0.321933;;;;1;;;0
+COM_bito01;;Bitot;49.21068,-0.406608;;;;1;;;0
+ARCOM@C031;;Lycée Claudel;49.203197,-0.385464;;;;1;;;0
+COM_stur02;;Lycée Sainte-Ursule;49.200974,-0.380325;;;;1;;;0
+COM_chou01_1;;Chouquaie;49.144115,-0.351097;;;;1;;;0
+COM_robl02;;Roche Blanche;49.13962,-0.356822;;;;1;;;0
+COM_gddi02;;Grâce de Dieu;49.161346,-0.360201;;;;1;;;0
+COM_ruau02;;Rue d'Auge;49.174816,-0.343417;;;;1;;;0
+COM_tl.1;;Tour Leroy;49.18434,-0.358552;;;;1;;;0
+COM_carr01;;Carrelettes;49.143456,-0.382499;;;;1;;;0
+COM_edca01;;Cambes Ecole;49.231182,-0.383874;;;;1;;;0
+COM_jeja02;;Jean Jaurès;49.149128,-0.374741;;;;1;;;0
+COM_lopa02;;Louis Pasteur;49.14318,-0.379098;;;;1;;;0
+COM_sabl02;;Sablons;49.194656,-0.370611;;;;1;;;0
+COM_rdca11;;Rue des Carrières;49.18267,-0.272683;;;;1;;;0
+COM_acad02_1;;Acadiens;49.20468,-0.382321;;;;1;;;0
+COM_chev02_1;;Chevaliers;49.176872,-0.402055;;;;1;;;0
+COM_nica02_1;;Nice Caennais;49.176186,-0.384439;;;;1;;;0
+COM_broc01;;Brocéliande;49.178856,-0.402429;;;;1;;;0
+COM_pogr02;;Pommier Gris;49.160072,-0.332909;;;;1;;;0
+COM_egbr02;;Bretteville Église;49.166576,-0.413484;;;;1;;;0
+COM_cbou01;;Cheux Bourg;49.16734,-0.525258;;;;1;;;0
+COM_abou02;;Anciennes Boucheries;49.1824,-0.374444;;;;1;;;0
+COM_libec02_4;;Libérateurs;49.13856,-0.345215;;;;1;;;0
+COM_quat12;;Château Quatrans;49.18503,-0.363363;;;;1;;;0
+ARCOM@VER031;;Odon;49.150642,-0.47365;;;;1;;;0
+COM_gemo02;;Général Moulin;49.187347,-0.409598;;;;1;;;0
+COM_cycr32;;Union;49.1701,-0.354572;;;;1;;;0
+COM_stcl31;;Hérouville Saint-Clair;49.203846,-0.330628;;;;1;;;0
+COM_gall32_1;;Venoix;49.18112,-0.401016;;;;1;;;0
+ARCOM@VER030;;Avenue du Parc;49.15461,-0.471838;;;;1;;;0
+COM_cam502_1;;Campus 5;49.208645,-0.352051;;;;1;;;0
+COM_hdvi01;;Ifs Hôtel de Ville;49.137108,-0.350774;;;;1;;;0
+COM_poeu01;;Europe;49.200207,-0.37902;;;;1;;;0
+COM_chva12_1;;Chemin du Val;49.150173,-0.344671;;;;1;;;0
+ARCOM@ROT006;;Rots Centre;49.199463,-0.472215;;;;1;;;0
+ARCOM@LAS021;;Collines;49.230904,-0.468655;;;;1;;;0
+COM_plma;;Place de la Mare;49.186905,-0.366571;;;;1;;;0
+COM_cree01;;Thaon Mairie;49.258205,-0.455449;;;;1;;;0
+COM_chuo02;;Mont Coco;49.205925,-0.361538;;;;1;;;0
+COM_pdlm31;;Portes de la Mer;49.204582,-0.320891;;;;1;;;0
+COM_heke01_1;;Hélène Keller;49.18552,-0.339575;;;;1;;;0
+COM_efs12;;EFS;49.20641,-0.359381;;;;1;;;0
+COM_zaif01;;Ifs ZA;49.14204,-0.34063;;;;1;;;0
+COM_qulo02;;Quai de la Londe;49.18333,-0.353976;;;;1;;;0
+ARCOM@C027;;Péricentre;49.20057,-0.360534;;;;1;;;0
+COM_blpa;;Blainville Parc;49.233208,-0.290117;;;;1;;;0
+COM_mjc01;;PAJ MJC;49.200317,-0.332885;;;;1;;;0
+COM_visa02;;Vissol Sablons;49.19595,-0.369212;;;;1;;;0
+COM_lava02;;Langevin Wallon;49.227592,-0.306709;;;;1;;;0
+COM_sene01;;Senestre;49.200596,-0.463062;;;;1;;;0
+COM_cave02_1;;Cavelier;49.198105,-0.351092;;;;1;;;0
+COM_doau01;;Docteur Auvray;49.19297,-0.345848;;;;1;;;0
+COM_jevi02_3;;Jean Vilar;49.14975,-0.349956;;;;1;;;0
+COM_touv02;;Tourville;49.184532,-0.348241;;;;1;;;0
+COM_stasb01;;Place de la République;49.1823,-0.363656;;;;1;;;0
+COM_quha_1;;Quai Hamelin;49.177032,-0.353976;;;;1;;;0
+COM_coao02;;Colline aux Oiseaux;49.19811,-0.388732;;;;1;;;0
+COM_mupl02;;Musique en Plaine;49.12531,-0.307849;;;;1;;;0
+COM_vihu02;;Victor Hugo;49.22436,-0.308207;;;;1;;;0
+COM_stje01;;Saint Jean-Eudes;49.188847,-0.336671;;;;1;;;0
+COM_ecuy01;;Ecuyère;49.181892,-0.366733;;;;1;;;0
+COM_albe22;;Albert 1er;49.170277,-0.347779;;;;1;;;0
+COM_cifac02;;CIFAC;49.21007,-0.358877;;;;1;;;0
+COM_rogo01_1;;Rouge Gorge;49.194416,-0.396384;;;;1;;;0
+COM_pomp02;;Pompidou;49.181263,-0.399046;;;;1;;;0
+COM_emzo02_1;;Emile Zola;49.232834,-0.302194;;;;1;;;0
+COM_cdna02;;Côte de Nacre;49.21096,-0.362148;;;;1;;;0
+COM_bear01;;Beauregard;49.21345,-0.317218;;;;1;;;0
+COM_cacu03_1;;Callouins;49.187668,-0.268896;;;;1;;;0
+COM_con01;;Concorde;49.15687,-0.341754;;;;1;;;0
+COM_cana02_1;;Canal;49.19966,-0.323967;;;;1;;;0
+COM_pdra02_1;;Parc des Drapeaux;49.198036,-0.454394;;;;1;;;0
+COM_che02_3;;Château d'Eau;49.202732,-0.340224;;;;1;;;0
+COM_ac01_1;;Place de l'Europe;49.202576,-0.336416;;;;1;;;0
+COM_ecol01;;Lebisey Ecole;49.220448,-0.343661;;;;1;;;0
+COM_mart02;;Martray;49.17236,-0.282141;;;;1;;;0
+ARCOM@ROT023;;Zone Commerciale;49.19815,-0.457314;;;;1;;;0
+COM_msau02;;Mont du Saule;49.182804,-0.227096;;;;1;;;0
+COM_ger01;;Gernez;49.19402,-0.383783;;;;1;;;0
+COM_gdel02;;Grande Delle;49.206055,-0.34201;;;;1;;;0
+COM_cs02;;CROUS-SUAPS;49.193768,-0.363681;;;;1;;;0
+COM_fond01;;La Fonderie BBC;49.21029,-0.337257;;;;1;;;0
+COM_jean01;;Jean XXIII;49.19465,-0.32678;;;;1;;;0
+COM_lope01;;Loup Pendu;49.155205,-0.452463;;;;1;;;0
+COM_13ac02;;13 Acres;49.189957,-0.393829;;;;1;;;0
+ARCOM@C302;;Lycée Fresnel;49.162643,-0.357957;;;;1;;;0
+COM_3dib01;;3ème DIB;49.216686,-0.340696;;;;1;;;0
+COM_lpal11_1;;Les Palmiers;49.228554,-0.308862;;;;1;;;0
+COM_lebo01;;Le Bois;49.212017,-0.33055;;;;1;;;0
+COM_fala01;;Falaise;49.167152,-0.351182;;;;1;;;0
+COM_pebri02;;Pégasus Bridge;49.24283,-0.27885;;;;1;;;0
+COM_chpi_1;;Champ Picot;49.19217,-0.271795;;;;1;;;0
+COM_eclo01;;Louvigny Ecole;49.157455,-0.393554;;;;1;;;0
+COM_louvi;;Michelet;49.157307,-0.40059;;;;1;;;0
+COM_crem02_1;;Crématorium;49.194386,-0.4103;;;;1;;;0
+COM_tourn02;;Tournières;49.18545,-0.389441;;;;1;;;0
+COM_cste02;;Calvaire Saint-Etienne;49.18368,-0.390019;;;;1;;;0
+COM_bocl02;;Bois Claquet;49.177555,-0.305466;;;;1;;;0
+COM_cabr02;;Cambridge;49.217213,-0.354498;;;;1;;;0
+COM_ceco02;;Bretagne;49.16448,-0.420345;;;;1;;;0
+COM_madu02_1;;Authie Mairie;49.206394,-0.430548;;;;1;;;0
+COM_rdpu01;;Rue du Puits;49.2013,-0.406014;;;;1;;;0
+COM_gdno11_1;;Collège de Normandie;49.162075,-0.348313;;;;1;;;0
+COM_rech01;;Résidence aux Champs;49.20576,-0.428254;;;;1;;;0
+COM_lepo01;;Les Pommiers;49.158108,-0.442429;;;;1;;;0
+COM_roha;;Rose Harel;49.206234,-0.437646;;;;1;;;0
+COM_vibu02;;Rue de Villons;49.199707,-0.400297;;;;1;;;0
+COM_jaca12;;Jacques Cartier;49.20876,-0.429408;;;;1;;;0
+COM_deto02_1;;Detolle;49.183174,-0.38513;;;;1;;;0
+COM_lite01;;Lionel Terray;49.17784,-0.279024;;;;1;;;0
+COM_phle01;;Philippe Lebon;49.15749,-0.297848;;;;1;;;0
+COM_piep02;;Piéplu;49.274357,-0.301763;;;;1;;;0
+COM_hmmi02;;Minotaure;49.29449,-0.304691;;;;1;;;0
+COM_cldr01_1;;Clos des Roses;49.18694,-0.392619;;;;1;;;0
+COM_ruci01;;Rue des Cités;49.1879,-0.289735;;;;1;;;0
+COM_capu02;;Capucines;49.278244,-0.295831;;;;1;;;0
+COM_pesa01_1;;Père Sanson;49.200146,-0.3687;;;;1;;;0
+COM_cljo02;;Clos Joli;49.154686,-0.336081;;;;1;;;0
+COM_rpdo01;;Port de Plaisance;49.18049,-0.350688;;;;1;;;0
+COM_chat02_1;;Bénouville Château;49.239094,-0.283424;;;;1;;;0
+COM_vale02;;Valeuse;49.20401,-0.335051;;;;1;;;0
+COM_orna01;;Ornavik;49.216965,-0.312561;;;;1;;;0
+COM_magy;;Marigny;49.208668,-0.435403;;;;1;;;0
+COM_finl02;;Finlande;49.174488,-0.306131;;;;1;;;0
+COM_edza02;;Edouard Zarifian;49.278065,-0.268874;;;;1;;;0
+COM_incb01;;Institut Camille Blaisot;49.201435,-0.370031;;;;1;;;0
+COM_qdj02;;Quai de Juillet;49.178596,-0.353705;;;;1;;;0
+COM_stpi02_1;;Saint-Pierre;49.18376,-0.359954;;;;1;;;0
+COM_rdo02;;Gare - Rives de l'Orne;49.1784,-0.350684;;;;1;;;0
+COM_ca01;;Campus 2;49.212723,-0.364511;;;;1;;;0
+COM_cule02;;Cité U Lebisey;49.19966,-0.354058;;;;1;;;0
+COM_cdn01_1;;Côte de Nacre;49.21096,-0.362195;;;;1;;;0
+COM_fpac02;;Afpa;49.191334,-0.383038;;;;1;;;0
+COM_pr02;;Presqu'Île;49.181675,-0.348002;;;;1;;;0
+ARCOM@CHE025;;Le Bosq;49.15713,-0.534009;;;;1;;;0
+COM_un01;;Université;49.188877,-0.363884;;;;1;;;0
+StopAreaCAE3838;;Lirose;49.176537,-0.236672;;;;1;;;0
+COM_casp41;;Calvaire Saint-Pierre;49.198753,-0.364165;;;;1;;;0
+COM_garc02;;Garcelles Bourg;49.097813,-0.289406;;;;1;;;0
+StopAreaCAE3862;;Ecole Maternelle;49.180683,-0.18287;;;;1;;;0
+ARCOM@SMA002;;Saint-Manvieu Eglise;49.180702,-0.501525;;;;1;;;0
+ARCOM@FLU022;;Basse Allemagne;49.13989,-0.37598;;;;1;;;0
+ARCOM@MAT022;;Equipement;49.251186,-0.383357;;;;1;;;0
+ARCOM@C043;;Édimbourg;49.192806,-0.359707;;;;1;;;0
+COM_lhog01;;La Hogue;49.114735,-0.273913;;;;1;;;0
+COM_crva01;;Croix Vautier;49.202324,-0.463928;;;;1;;;0
+COM_macl01;;Mare aux Clercs;49.20867,-0.506641;;;;1;;;0
+COM_jeun01;;Cairon Château;49.238026,-0.450444;;;;1;;;0
+COM_rtau02;;Route d'Aunay;49.142483,-0.424031;;;;1;;;0
+COM_leva01_1;;Le Val;49.205856,-0.33448;;;;1;;;0
+COM_rego01;;René Goscinny;49.11769,-0.380571;;;;1;;;0
+COM_vieu02;;Cairon Commerces;49.234066,-0.444893;;;;1;;;0
+COM_elas01;;Centre Animation;49.229904,-0.463686;;;;1;;;0
+COM_civa02_1;;Porte Millet;49.16925,-0.357677;;;;1;;;0
+COM_coud01;;Coudriers;49.16215,-0.339639;;;;1;;;0
+COM_cova02;;Collège Varignon;49.197453,-0.332268;;;;1;;;0
+COM_onta02;;Ontario;49.13637,-0.347764;;;;1;;;0
+COM_paor01;;Parc d'Ornano;49.189014,-0.348294;;;;1;;;0
+COM_chr01;;CHR;49.189915,-0.344453;;;;1;;;0
+ARCOM@C097;;Route de Bayeux;49.18834,-0.415331;;;;1;;;0
+StopArea:CAE3097;;Poste A;49.206844,-0.307775;;;;1;;;0
+COM_hipp02;;Hippodrome;49.178097,-0.363133;;;;1;;;0
+COM_rvi01;;Accueil Renault Trucks;49.212124,-0.300021;;;;1;;;0
+COM_cibe02_1;;Cité Bellevue;49.18736,-0.412521;;;;1;;;0
+COM_beza01;;Bénouville ZA;49.24974,-0.281893;;;;1;;;0
+COM_ceaq11_1;;Centre Aquatique;49.187424,-0.441759;;;;1;;;0
+COM_qudv01;;Les Vallées;49.187138,-0.438146;;;;1;;;0
+COM_aerc11;;Aéroport;49.183872,-0.458624;;;;1;;;0
+COM_dub01;;Dublin;49.16823,-0.312204;;;;1;;;0
+COM_clss14;;Collège Senghor Quai 4;49.13566,-0.350602;;;;1;;;0
+ARCOM@LCT020;;Secqueville Hameau;49.102993,-0.269892;;;;1;;;0
+ARCOM@BOU021;;Zone Industrielle;49.122967,-0.309162;;;;1;;;0
+COM_isav02;;Isaville;49.294964,-0.294728;;;;1;;;0
+COM_stad02;;Troarn Stade;49.182137,-0.187407;;;;1;;;0
+COM_deli12;;Délivrande;49.18998,-0.359405;;;;1;;;0
+COM_grha01;;Grande Halle;49.191532,-0.303661;;;;1;;;0
+COM_cthe12;;Théâtre Quai 4;49.179863,-0.363482;;;;1;;;0
+COM_hdvc02;;Hôtel de Ville Quai 2;49.181503,-0.370429;;;;1;;;0
+chrm02;chrm02;Charmettes;49.173374,-0.325797;;;;0;COM_chrm01;;0
+cadi11;;Café des Images;49.202126,-0.33277;;;;0;COM_cadi12;;0
+blpa02;blpa02;Blainville Parc;49.232964,-0.29032;;;;0;COM_blpa;;0
+chu12;;CHU;49.204235,-0.359191;;;;0;COM_chu11;;0
+mjc01;;PAJ-MJC;49.20007,-0.332999;;;;0;COM_mjc01;;0
+euma01;;Eugène Maës;49.17657,-0.388847;;;;0;COM_euma02;;0
+caau01;;Calvaire;49.2044,-0.424502;;;;0;COM_caau02_2;;0
+orna02;;Ornavik;49.217083,-0.312402;;;;0;COM_orna01;;0
+volt02;;Voltaire;49.232235,-0.30468;;;;0;COM_volt02_1;;0
+demou02;;Démouville Mairie;49.178177,-0.270002;;;;0;COM_demou02;;0
+jaca11;;Jacques Cartier;49.20883,-0.42947;;;;0;COM_jaca12;;0
+caau02;;Calvaire;49.20435,-0.424073;;;;0;COM_caau02_2;;0
+cali01;;Carrefour de la Liberté;49.18348,-0.284837;;;;0;COM_cali02;;0
+char22;;Molière;49.19288,-0.393593;;;;0;COM_char02;;0
+bacl42;;Baclesse;49.205196,-0.354186;;;;0;COM_bacl41;;0
+cifac01;;CIFAC;49.209965,-0.358918;;;;0;COM_cifac02;;0
+zaco11;;Colombelles ZA;49.194782,-0.293544;;;;0;COM_zaco11;;0
+arde02;;Ardenne;49.1999,-0.412701;;;;0;COM_arde11_1;;0
+corfos;;Fossettes;49.149612,-0.323576;;;;0;COM_corf01;;0
+cthe12;;Théâtre Quai 4;49.179863,-0.363482;;;;0;COM_cthe12;;0
+pomp02;;Pompidou;49.18135,-0.399317;;;;0;COM_pomp02;;0
+cpam01;cpam01;CPAM;49.20985,-0.370032;;;;0;COM_cpam01;;0
+rtpa01;rtpa01;Route de Paris;49.170193,-0.324188;;;;0;COM_rtpa02;;0
+ciga02;;Espace Gardin;49.17971,-0.365719;;;;0;COM_ciga02;;0
+hebr02;;Brunet;49.203335,-0.433515;;;;0;COM_hebr02;;0
+hmpl01;hmpl01;Hermanville Plage;49.29778,-0.305632;;;;0;COM_hmpl01;;0
+ccou01;;Charles de Coulomb;49.1679,-0.317835;;;;0;COM_ccou02;;0
+plca02;plca02;Place du Canada;49.18559,-0.371642;;;;0;COM_plca02;;0
+plca01;plca01;Place du Canada;49.185295,-0.37166;;;;0;COM_plca02;;0
+geva01;;Vanier;49.194992,-0.343924;;;;0;COM_geva01;;0
+mjc02;;PAJ-MJC;49.20056,-0.332771;;;;0;COM_mjc01;;0
+clep01;;Clos de l'Epine;49.23369,-0.38884;;;;0;COM_clep12;;0
+egsa01;;Saint-Aubin Eglise;49.262783,-0.290222;;;;0;COM_egsa02;;0
+stcl32;;Saint-Clair;49.203754,-0.330435;;;;0;COM_stcl31;;0
+pfoc21;;Place Foch;49.177425,-0.359456;;;;0;COM_pfoc02;;0
+stcme01;;Stade C. Mercier;49.17756,-0.390833;;;;0;COM_stcme02;;0
+stcme02;;Stade C. Mercier;49.17761,-0.390685;;;;0;COM_stcme02;;0
+nash02;;Nashville;49.200733,-0.387764;;;;0;COM_nash02;;0
+mitt02;;Mitterrand;49.299477,-0.328718;;;;0;COM_mitt01;;0
+tl_4;;Tour Leroy;49.184467,-0.358794;;;;0;COM_tl.1;;0
+avmo12;avmo12;Morice;49.20601,-0.35281;;;;0;COM_avmo02_3;;0
+chep02;chep02;Château d'Eau Plateau;49.17964,-0.30883;;;;0;COM_chep02;;0
+chat01;chat01;Bénouville Château;49.239113,-0.28333;;;;0;COM_chat02_1;;0
+SAC022B;SAC022B;La Jalousie;49.074383,-0.295537;;;;0;ARCOM@SAC022;;0
+ph01;;Pierre Heuzé;49.199303,-0.347262;;;;0;COM_ph01;;0
+CAR020B;aerc04;Aéroport;49.18416,-0.458569;;;;0;COM_aerc11;;0
+euma02;;Eugène Maës;49.176903,-0.388892;;;;0;COM_euma02;;0
+univ01;;Université;49.188805,-0.363936;;;;0;COM_univ22;;0
+lpla01;lpla01;La Plaine;49.185555,-0.434904;;;;0;COM_lpla12;;0
+robl03;robl03;Roche Blanche;49.139885,-0.356763;;;;0;COM_robl02;;0
+ds01;;Sphère;49.21022,-0.347644;;;;0;COM_ds02;;0
+piep01;piep01;Piéplu;49.2746,-0.301732;;;;0;COM_piep02;;0
+list02;;Lion Stade;49.30018,-0.324491;;;;0;COM_list01;;0
+edza02;;Edouard Zarifian;49.278027,-0.268615;;;;0;COM_edza02;;0
+psa02;;PSA;49.15616,-0.320731;;;;0;COM_citr02;;0
+sali01;sali01;Libération;49.1809,-0.222151;;;;0;ARCOM@SAN019;;0
+till02;till02;Tilly Centre;49.1108,-0.305785;;;;0;COM_till01;;0
+newt02;;Newton;49.152405,-0.30137;;;;0;COM_newt02;;0
+C020A;C020A;Place Courtonne;49.184414,-0.358169;;;;0;COM_C020;;0
+auber01;auber01;Auberge;49.07165,-0.300472;;;;0;COM_auber01;;0
+blpa01;blpa01;Blainville Parc;49.233696,-0.289711;;;;0;COM_blpa;;0
+lama02;;La Marque;49.28744,-0.319583;;;;0;COM_lama02;;0
+niep01;niep01;Niepce;49.154854,-0.30052;;;;0;COM_niep02;;0
+poes01;IFS022A;Porte d'Espagne;49.14803,-0.340195;;;;0;ARCOM@IFS022;;2
+IFS025B;IFS025B;Charité;49.152515,-0.342927;;;;0;COM_IFS025B;;2
+prai1;prai01;Prairie;49.171566,-0.366575;;;;0;COM_prai1;;0
+grbn;;Gare SNCF de Bretteville-Norrey;49.203396,-0.512699;;;;0;COM_grbn;;2
+lumi;;Lumière;49.158173,-0.308917;;;;0;COM_lumi;;0
+chpp01;;Chappe;49.153687,-0.313075;;;;0;COM_chpp02;;0
+clss12;clss12;Collège Senghor Quai 2;49.135822,-0.350594;;;;0;COM_clss01;;0
+visa02;;Vissol Sablons;49.195976,-0.369233;;;;0;COM_visa02;;0
+veva01;;Vert Vallon;49.158607,-0.328048;;;;0;COM_veva02;;0
+veva02;;Vert Vallon;49.158504,-0.32796;;;;0;COM_veva02;;0
+moeg01;;Mondeville Eglise;49.175358,-0.322312;;;;0;COM_moeg02;;0
+zico02;;Cormelles ZI;49.157444,-0.324671;;;;0;COM_zico02;;0
+jonc01;jonc01;Jonchets;49.164192,-0.339367;;;;0;COM_jonc01;;0
+plma22;;Miséricorde;49.18595,-0.367342;;;;0;COM_plma21;;0
+chrm04;chrm04;Charmettes;49.17286,-0.326344;;;;0;COM_chrm01;;0
+ceaq01;ceaq01;Centre Aquatique;49.187332,-0.44103;;;;0;COM_ceaq11_1;;0
+ceaq02;ceaq02;Centre Aquatique;49.187298,-0.440959;;;;0;COM_ceaq11_1;;0
+prim01;PUT020B;Primevères;49.213528,-0.540264;;;;0;COM_prim02;;0
+dub02;dub02;Dublin;49.16815,-0.31237;;;;0;COM_dub01;;0
+cova02;;Collège Varignon;49.197525,-0.33228;;;;0;COM_cova02;;0
+dub01;dub01;Dublin;49.168304,-0.312037;;;;0;COM_dub01;;0
+ecmu02;;Claudie Haigneré;49.2112,-0.326379;;;;0;COM_ecmu01;;0
+noeg01;noeg01;Norrey Eglise;49.197628,-0.513785;;;;0;COM_noeg01;;0
+camp3_01;;Campus 3;49.14796,-0.355209;;;;0;COM_camp3_02_1;;0
+noka11;;Normandika;49.14557,-0.366596;;;;0;COM_noka12;;0
+mfca01;mfca01;Le Fresne Mairie;49.257786,-0.488523;;;;0;ARCOM@LFR003;;0
+cons02;cons02;Hôtel de Ville Quai 3;49.180153,-0.371038;;;;0;COM_cons02;;0
+suno01;;Suisse Normande;49.14028,-0.373526;;;;0;COM_suno01;;0
+bore01;LFR021A;Le Bout Renard;49.26326,-0.485449;;;;0;ARCOM@LFR021;;0
+suno02;;Suisse Normande;49.140404,-0.372971;;;;0;COM_suno01;;0
+ecro01;ecro01;Rots Ecole;49.206417,-0.476915;;;;0;COM_ecro01;;0
+bosq02;bosq02;Le Bosq;49.157253,-0.533733;;;;0;ARCOM@CHE025;;0
+fove01;;Fontaine Venoise;49.175003,-0.400845;;;;0;COM_fove01;;0
+gruc01;;Saint-Norbert;49.189133,-0.405711;;;;0;COM_gruc01;;0
+rect01;;Rectorat;49.177498,-0.381434;;;;0;COM_rect02;;0
+abou01;;Anciennes Boucheries;49.18224,-0.373637;;;;0;COM_abou02;;0
+ecol02;;Lebisey Ecole;49.220295,-0.343224;;;;0;COM_ecol02;;0
+rgen01;;Genève;49.159763,-0.339629;;;;0;COM_rgen01_1;;0
+drak01;;Drakkar;49.209755,-0.332439;;;;0;COM_drak02;;0
+3dib02;;3ème DIB;49.21669,-0.340751;;;;0;COM_3dib01;;0
+acad01;;Acadiens;49.20475,-0.381929;;;;0;COM_acad02_1;;0
+lebi12;;Lebisey;49.214485,-0.343355;;;;0;COM_ecol02;;0
+gyla01;;Gymnase Laporte;49.196926,-0.335225;;;;0;COM_gyla02;;0
+conn;;Connétable;49.19528,-0.328547;;;;0;COM_conn;;0
+cbou01;cbou01;Cheux Bourg;49.167233,-0.525128;;;;0;COM_cbou01;;0
+avbe01;;Berlin;49.199863,-0.3374;;;;0;COM_avbe02;;0
+neme01;LAS002A;Neuf Mer;49.230675,-0.48027;;;;0;ARCOM@LAS002;;0
+drak02;;Drakkar;49.209995,-0.332163;;;;0;COM_drak02;;0
+rotbo01;ROT004A;Rots Bourg;49.19868,-0.478684;;;;0;COM_rotbo01;;0
+egbr02;BSO002B;Bretteville Église;49.16646,-0.41398;;;;0;COM_egbr02;;0
+malo01;;Louvigny Mairie;49.156876,-0.389738;;;;0;COM_malo01_1;;0
+malo02;;Louvigny Mairie;49.156883,-0.390082;;;;0;COM_malo01_1;;0
+abar02;;Abbaye;49.197083,-0.413098;;;;0;COM_abar01;;0
+pate01;;Parc Tertiaire;49.208656,-0.324506;;;;0;COM_pate22;;0
+abou02;;Anciennes Boucheries;49.182404,-0.374254;;;;0;COM_abou02;;0
+lebo02;;Le Bois;49.212017,-0.330486;;;;0;COM_lebo01;;0
+pasp01;C091A;Parc des Sports;49.17408,-0.390581;;;;0;ARCOM@C091;;0
+melo01;;Louvigny Mesnil;49.16255,-0.408395;;;;0;COM_melo01;;0
+egtha01;THA002B;Thaon Eglise;49.26093,-0.456599;;;;0;COM_egtha01;;0
+grbo01;VER020A;Grand Bois;49.150864,-0.46745;;;;0;COM_grbo02;;0
+bray01;LAS020B;Bray;49.226646,-0.489425;;;;0;COM_bray01;;0
+elas01;LAS005B;Centre Animation;49.229904,-0.463686;;;;0;COM_elas01;;0
+canad02;LFR022B;Canadiens;49.25297,-0.486311;;;;0;ARCOM@LFR022;;0
+chev01;;Chevaliers;49.176826,-0.402066;;;;0;COM_chev02_1;;0
+eclo01;;Louvigny Ecole;49.157413,-0.393526;;;;0;COM_eclo01;;0
+mmoi02;;Maison Moisson;49.15695,-0.398147;;;;0;COM_mmoi02;;0
+mmoi01;;Maison Moisson;49.156845,-0.397943;;;;0;COM_mmoi02;;0
+hech01;;Henry Chéron;49.17162,-0.398056;;;;0;COM_hech02;;0
+louvi;;Michelet;49.157307,-0.40059;;;;0;COM_louvi;;0
+rosel01;rosel01;Rosel;49.228394,-0.459349;;;;0;ARCOM@ROS020;;0
+frebo01;LFR004A;Le Fresne Bourg;49.251583,-0.483503;;;;0;COM_frebo01;;0
+bouli01;bouli01;Bouliesse;49.18563,-0.503578;;;;0;COM_bouli01;;0
+lhog01;lhog01;La Hogue;49.114735,-0.273913;;;;0;COM_lhog01;;0
+labo01;labo01;La Bouille;49.174805,-0.514818;;;;0;COM_labo01;;0
+p27j01;;Place du 27 Juin;49.187176,-0.446019;;;;0;COM_p27j01;;0
+festy01;festy01;Festyland;49.186382,-0.429762;;;;0;COM_festy02_1;;0
+aerc03;aerc03;Aéroport;49.184105,-0.458226;;;;0;COM_aerc11;;0
+zibou01;zibou01;Zone Industrielle;49.122967,-0.309162;;;;0;ARCOM@BOU021;;0
+mabo01;mabo01;Mathieu Bourg;49.25492,-0.373165;;;;0;ARCOM@MAT004;;0
+garc01;garc01;Garcelles Bourg;49.097855,-0.289426;;;;0;COM_garc02;;0
+capu01;capu01;Capucines;49.2781,-0.295601;;;;0;COM_capu02;;0
+chat02;chat02;Château;49.239075,-0.283518;;;;0;COM_chat02_1;;0
+squa01;;Square;49.184612,-0.446824;;;;0;COM_squa12;;0
+paor02;;Parc d'Ornano;49.18894,-0.348376;;;;0;COM_paor01;;0
+vafo01;;Foyer;49.195408,-0.345074;;;;0;COM_vafo02_1;;0
+maeg02;MAT002A;Mathieu Église;49.25437,-0.369807;;;;0;COM_maeg03;;0
+lvik01;MAT021A;Les Vikings;49.244873,-0.371397;;;;0;COM_lvik01;;0
+rcau01;;Route de Caumont;49.187214,-0.416644;;;;0;COM_rcau02;;0
+grbu01;;Grands Bureaux;49.185654,-0.311042;;;;0;COM_grbu01_2;;0
+univ22;;Université;49.1888,-0.363936;;;;0;COM_univ22;;0
+grbu02;;Grands Bureaux;49.185635,-0.309464;;;;0;COM_grbu01_2;;0
+chba02;STC020B;Champs Bailly;49.21664,-0.415804;;;;0;ARCOM@STC020;;0
+ruci02;;Rue des Cités;49.18793,-0.289861;;;;0;COM_ruci01;;0
+clbe02;;Clos Beaumois;49.188152,-0.351149;;;;0;COM_clbe01_1;;0
+chpi;;Champ Picot;49.191998,-0.271917;;;;0;COM_chpi_1;;0
+jeme02;;Jean Mermoz;49.168736,-0.330035;;;;0;COM_jeme02_1;;0
+jeme01;;Jean Mermoz;49.168793,-0.329815;;;;0;COM_jeme02_1;;0
+COM_clso01_1;;Clair Soleil;49.17263,-0.320421;;;;1;;;0
+tnac01;;Terre de Nacre;49.230232,-0.307429;;;;0;COM_tnac01_1;;0
+COM_vauc02;;Vaucelles;49.173866,-0.353901;;;;1;;;0
+19ma01;;19 Mars;49.165356,-0.324496;;;;0;COM_19ma02;;0
+COM_laen02;;Laennec;49.204807,-0.347354;;;;1;;;0
+vaba02;;Vallée Barrey;49.17096,-0.309958;;;;0;COM_vaba01;;0
+COM_oupb01;;Petit Bonheur;49.273876,-0.260504;;;;1;;;0
+semi01;C063A;Séminaire;49.185177,-0.396066;;;;0;ARCOM@C063;;0
+COM_ruma01;;Rue de Maltot;49.175205,-0.382549;;;;1;;;0
+carpm01;carpm01;Carpiquet Mairie;49.183544,-0.440159;;;;0;COM_carpm01;;0
+COM_baud02;;Baudry;49.285503,-0.317729;;;;1;;;0
+htha02;THA025A;Hauts de Thaon;49.25569,-0.456515;;;;0;COM_htha01;;0
+COM_egcu02;;Cuverville Eglise;49.18873,-0.264538;;;;1;;;0
+vaba01;;Vallée Barrey;49.170998,-0.310278;;;;0;COM_vaba01;;0
+COM_fmar01_1;;Ferme Marais;49.179256,-0.300777;;;;1;;;0
+lyma11;;Lycée Malherbe;49.176517,-0.371031;;;;0;COM_lyma11;;0
+COM_epro02;;Germes de Blé;49.221848,-0.367894;;;;1;;;0
+lyma12;;Lycée Malherbe;49.17582,-0.371241;;;;0;COM_lyma11;;0
+ARCOM@C039;;Zénith;49.172462,-0.380382;;;;1;;;0
+bel01;;Bellivet;49.18283,-0.360344;;;;0;COM_bel02_1;;0
+COM_cocv02;;Collevillette;49.28626,-0.287925;;;;1;;;0
+macu02;;Cuverville Mairie;49.19164,-0.263481;;;;0;COM_macu02;;0
+COM_gala01;;Galante;49.303486,-0.326787;;;;1;;;0
+mabl01;;Blainville Mairie;49.228065,-0.300418;;;;0;COM_mabl01;;0
+COM_ousc02_1;;Sacré Coeur;49.27741,-0.262559;;;;1;;;0
+lanf02;C024B;Lanfranc;49.184895,-0.379085;;;;0;ARCOM@C024;;0
+COM_pel01_1;;Pèlerins;49.268753,-0.261267;;;;1;;;0
+noeg02;noeg02;Norrey Eglise;49.19605,-0.514297;;;;0;COM_noeg01;;0
+COM_pocr01;;Pont Créon;49.1747,-0.379031;;;;1;;;0
+lmare02;lmare02;Le Mareschet;49.181877,-0.490265;;;;0;ARCOM@SMA023;;0
+COM_gira01;;Girafe;49.206844,-0.367811;;;;1;;;0
+jocu01;;Joliot Curie;49.230255,-0.302768;;;;0;COM_jocu01;;0
+COM_fmou02_1;;Francois Mourier;49.203705,-0.306103;;;;1;;;0
+stpr02;;Prestavoine;49.201427,-0.342255;;;;0;COM_stpr01;;0
+COM_chha01;;Chemin de Halage;49.206875,-0.315704;;;;1;;;0
+rtro02;;Route de Rouen;49.173748,-0.328914;;;;0;COM_rtro01;;0
+COM_bbcb01;;Clos Bosquin;49.24064,-0.326883;;;;1;;;0
+eggi01;;Giberville Eglise;49.18278,-0.290526;;;;0;COM_eggi02;;0
+COM_crre01;;Creux au Renard;49.170277,-0.402192;;;;1;;;0
+pala02;;Paul Langevin;49.168613,-0.326677;;;;0;COM_pala02_1;;0
+COM_poou02;;Ouistreham Port;49.279682,-0.250643;;;;1;;;0
+edro01;;Edmond Rostand;49.174385,-0.333758;;;;0;COM_edro01;;0
+COM_libt21;;Liberté;49.161087,-0.342843;;;;1;;;0
+edro02;;Edmond Rostand;49.1741,-0.332162;;;;0;COM_edro01;;0
+COM_libec11;;Libéra;49.188496,-0.298898;;;;1;;;0
+queb01;;Québec;49.17185,-0.38591;;;;0;COM_queb01_1;;0
+COM_laza01;;Lazzaro;49.20052,-0.293393;;;;1;;;0
+C078B;C078B;Calvaire Saint-Pierre;49.198948,-0.364191;;;;0;COM_casp41;;0
+COM_mifa01;;Michel Farré;49.185635,-0.303175;;;;1;;;0
+C078A;C078A;Calvaire Saint-Pierre;49.198994,-0.364191;;;;0;COM_casp41;;0
+COM_paca01;;Pays de Caen;49.197037,-0.298524;;;;1;;;0
+clho01;;Clair Horizon;49.1584,-0.350892;;;;0;COM_clho02;;0
+COM_wood02;;Woodbury;49.16935,-0.422066;;;;1;;;0
+poeu01;;Europe;49.20024,-0.378672;;;;0;COM_poeu01;;0
+COM_bepa02;;Bernard Palissy;49.184303,-0.392599;;;;1;;;0
+broc02;;Brocéliande;49.179123,-0.402358;;;;0;COM_broc01;;0
+COM_stni01;;Saint-Nicolas;49.184185,-0.375364;;;;1;;;0
+vaug01;C052A;Vaugueux;49.18554,-0.360567;;;;0;COM_vaug02;;0
+COM_vice02_1;;Villons Cerisiers;49.238625,-0.411666;;;;1;;;0
+albe21;;Albert 1er;49.17049,-0.347829;;;;0;COM_albe22;;0
+COM_dudu02_1;;Lycée D. d'Urville;49.195713,-0.355289;;;;1;;;0
+rotb02;;Rots Bonny;49.203587,-0.475687;;;;0;COM_rotb02;;0
+COM_stceg01;;Saint-Contest Eglise;49.214367,-0.402101;;;;1;;;0
+pabo02;;Paul Boucherot;49.14346,-0.333232;;;;0;COM_pabo01;;0
+ARCOM@BSO021;;Terrasses;49.168575,-0.407424;;;;1;;;0
+pc02;pc02;Place Courtonne;49.183876,-0.356715;;;;0;COM_C020;;0
+COM_pdgr01;;Grande Cour;49.258762,-0.343315;;;;1;;;0
+quju11;;Quai de Juillet;49.178062,-0.353947;;;;0;COM_qdj02_1;;0
+COM_zavb01;;ZAC Vallée Barrey;49.17008,-0.308989;;;;1;;;0
+clgr01;clgr01;Le Clos;49.147408,-0.28775;;;;0;COM_clgr01;;0
+COM_l2eg02;;Les 2 Eglises;49.1831,-0.304643;;;;1;;;0
+chu03;;CHU;49.20338,-0.358475;;;;0;COM_chu03;;0
+COM_cisu01;;Cités Suédoises;49.207623,-0.297464;;;;1;;;0
+mafo04;mafo04;Maurice Fouques;49.171154,-0.328491;;;;0;COM_mafo04;;0
+COM_chse02;;Kiruna;49.20581,-0.299827;;;;1;;;0
+cycr52;cycr52;Cygne de Croix;49.171684,-0.354302;;;;0;COM_cycr01;;0
+COM_dldt01;;Tassigny;49.20178,-0.387756;;;;1;;;0
+obsu22;;Object'Ifs Sud;49.139187,-0.330264;;;;0;COM_obsu22_1;;0
+COM_vicl01;;Coopérative;49.23359,-0.41359;;;;1;;;0
+bourgu02;;Bourgogne;49.19443,-0.400778;;;;0;COM_bourgu01_1;;0
+COM_bart11;;Barthou;49.172432,-0.331108;;;;1;;;0
+touv02;;Tourville;49.184498,-0.347496;;;;0;COM_touv02;;0
+COM_leti02;;Les Tilleuls;49.127876,-0.31701;;;;1;;;0
+majo01;;Maréchal Joffre;49.171535,-0.349613;;;;0;COM_majo02;;0
+COM_etce12;;Eterville Centre;49.14387,-0.422667;;;;1;;;0
+rorn12;;Gare - Rives de l'Orne;49.178703,-0.350154;;;;0;COM_rorn12;;0
+ARCOM@BOU006;;Bourguébus Centre;49.12175,-0.298543;;;;1;;;0
+C029B;C029B;Lycée Malherbe;49.176945,-0.371218;;;;0;COM_lyma11;;0
+COM_lmar01;;Les Marronniers;49.14794,-0.424328;;;;1;;;0
+doau02;;Docteur Auvray;49.192986,-0.3453;;;;0;COM_doau01;;0
+COM_bour01_1;;Chemin Vert;49.193913,-0.401857;;;;1;;;0
+chfl22;;Chemin de Fleury;49.15279,-0.346397;;;;0;COM_chfl22;;0
+COM_rocr01;;Le Rocreuil;49.156303,-0.434038;;;;1;;;0
+doau01;;Docteur Auvray;49.192955,-0.346397;;;;0;COM_doau01;;0
+COM_mmou01;;Mouen Mairie;49.1458,-0.485241;;;;1;;;0
+ifcl02;;Clément Ader;49.14265,-0.325143;;;;0;COM_ifcl01;;0
+COM_plti02;;Place des Tilleuls;49.183483,-0.309991;;;;1;;;0
+ifcl01;;Clément Ader;49.142876,-0.325371;;;;0;COM_ifcl01;;0
+COM_clda01;;Clos de l'Avonde;49.22761,-0.385286;;;;1;;;0
+clon01;clon01;Clos Neuf;49.1383,-0.294214;;;;0;COM_clon01;;0
+ARCOM@SOL020;;Tageret;49.13101,-0.29669;;;;1;;;0
+deca01;;Decaen;49.168648,-0.346917;;;;0;COM_deca01;;0
+COM_parp01_1;;Pasteur;49.173954,-0.335689;;;;1;;;0
+thfr01;;Thibout de la Fresnaye;49.18591,-0.380163;;;;0;COM_thfr01_1;;0
+COM_5con01_1;;5 Continents;49.202118,-0.382226;;;;1;;;0
+sabo01;SAN021A;Sannerville Bourg;49.17804,-0.220367;;;;0;COM_sabo01;;0
+COM_juge02;;Jules Guesde;49.14394,-0.375996;;;;1;;;0
+rogo01;;Rouge Gorge;49.194378,-0.396291;;;;0;COM_rogo01_1;;0
+COM_fleury22_1;;Marcel Cachin;49.145264,-0.374443;;;;1;;;0
+anjo01;;Anjou;49.141556,-0.355173;;;;0;COM_anjo01_1;;0
+ARCOM@C092;;Bernières;49.182884,-0.358264;;;;1;;;0
+mart02;GIB021B;Martray;49.17226,-0.281492;;;;0;COM_mart02;;0
+COM_besi01;;Beau Site;49.14542,-0.380254;;;;1;;;0
+stad02;stad02;Troarn Stade;49.18222,-0.187398;;;;0;COM_stad02;;0
+COM_egve01_1;;Venoix Eglise;49.172806,-0.394557;;;;1;;;0
+robl01;robl01;Roche Blanche;49.139374,-0.356466;;;;0;COM_robl02;;0
+ARCOM@C091;;Parc des Sports;49.174007,-0.390957;;;;1;;;0
+prim02;PUT020A;Primevères;49.213505,-0.540414;;;;0;COM_prim02;;0
+COM_degm03;;Grandes Murailles;49.184452,-0.270525;;;;1;;;0
+borc02;BLO006B;L'Orgueilleuse Mairie;49.211693,-0.516119;;;;0;ARCOM@BLO006;;0
+COM_mafl02;;Fleury Mairie;49.147366,-0.377436;;;;1;;;0
+cimne01;;Cimetière Nord-Est;49.190933,-0.340973;;;;0;COM_cimne02_1;;0
+COM_vime02_1;;Métiers;49.205257,-0.375891;;;;1;;;0
+biat12;;Presqu'Île;49.181355,-0.348448;;;;0;COM_biat12;;0
+COM_cema02;;Collège Hawking;49.158855,-0.361323;;;;1;;;0
+rdca12;;Rue des Carrières;49.182648,-0.272335;;;;0;COM_rdca11;;0
+COM_fove01;;Fontaine Venoise;49.175037,-0.400799;;;;1;;;0
+mape01;;Maison du Peuple;49.177452,-0.328823;;;;0;COM_mape02;;0
+COM_repa11;;Résidence du Parc;49.17959,-0.317327;;;;1;;;0
+biat01;;Presqu'Île;49.181225,-0.348733;;;;0;COM_biat12;;0
+COM_vaug02;;Vaugueux;49.18601,-0.36034;;;;1;;;0
+clne02;DEM020B;ZA du Clos Neuf;49.173283,-0.263733;;;;0;COM_clne01;;0
+COM_anjo01_1;;Anjou;49.14152,-0.355282;;;;1;;;0
+sapo02;TRN023A;Acacia;49.180984,-0.184681;;;;0;COM_acaci01_1;;0
+COM_epin01;;Epinette;49.142986,-0.354348;;;;1;;;0
+rdou02;rdou02;Route de Douvres;49.21598,-0.505212;;;;0;COM_rdou01;;0
+COM_carpm01;;Carpiquet Mairie;49.18351,-0.440094;;;;1;;;0
+mafl02;;Fleury Mairie;49.147316,-0.377585;;;;0;COM_mafl02;;0
+COM_ptve11;;Pont de Venoix;49.1748,-0.388502;;;;1;;;0
+koeni01;koeni01;Plains Champs;49.178234,-0.182296;;;;0;COM_koeni02;;0
+COM_etma02_1;;Etat Major;49.180645,-0.377422;;;;1;;;0
+roct02;ROT006B;Rots Centre;49.199562,-0.472477;;;;0;ARCOM@ROT006;;0
+COM_labr01;;Labrador;49.16052,-0.335768;;;;1;;;0
+koeni02;TRN022A;Plains Champs;49.178253,-0.182009;;;;0;COM_koeni02;;0
+COM_istp01_1;;Institution Saint-Pierre;49.182964,-0.382989;;;;1;;;0
+toura11;;Touraine;49.19416,-0.398986;;;;0;COM_toura12;;0
+COM_reth01;;Rethel;49.169815,-0.334328;;;;1;;;0
+pdra02;;Parc des Drapeaux;49.197876,-0.453261;;;;0;COM_pdra02_1;;0
+COM_bel02_1;;Bellivet;49.18297,-0.360389;;;;1;;;0
+gema01;;Georges Maudouit;49.176792,-0.325519;;;;0;COM_gema01_1;;0
+COM_abda11;;Abbaye aux Dames;49.187397,-0.354569;;;;1;;;0
+gema02;;Georges Maudouit;49.176907,-0.325937;;;;0;COM_gema01_1;;0
+COM_stmf02;;Mendès France;49.147896,-0.345566;;;;1;;;0
+bbre02;bbre02;Biéville Château;49.243645,-0.321656;;;;0;ARCOM@BIE007;;0
+COM_newt02;;Newton;49.1524,-0.301422;;;;1;;;0
+poca02;;Pont de Calix;49.185844,-0.335917;;;;0;COM_poca02_1;;0
+COM_jonc01;;Jonchets;49.16404,-0.339236;;;;1;;;0
+ger01;;Gernez;49.193977,-0.383816;;;;0;COM_ger01;;0
+COM_lcha01;;La Chapelle;49.15693,-0.349525;;;;1;;;0
+lyfr01;lyfr01;Lycée Fresnel;49.16274,-0.357925;;;;0;ARCOM@C302;;0
+COM_jeme02_1;;Jean Mermoz;49.168762,-0.329925;;;;1;;;0
+rocc02;ROT023B;Zone Commerciale;49.19816,-0.457443;;;;0;ARCOM@ROT023;;0
+ARCOM@THA021;;Place des Saules;49.257202,-0.452773;;;;1;;;0
+fmar22;;La Ferme Marais;49.179424,-0.300941;;;;0;COM_fmar01_1;;0
+COM_auve02;;Auvergne;49.137577,-0.355979;;;;1;;;0
+istp01;;Institution Saint-Pierre;49.182903,-0.382735;;;;0;COM_istp01_1;;0
+COM_noeg01;;Norrey Eglise;49.19684,-0.514041;;;;1;;;0
+gemo01;;Général Moulin;49.187267,-0.409337;;;;0;COM_gemo02;;0
+COM_modi62;;Modigliani;49.153797,-0.345474;;;;1;;;0
+gemo02;;Général Moulin;49.187428,-0.409859;;;;0;COM_gemo02;;0
+ARCOM@C021;;Hippodrome;49.178097,-0.363126;;;;1;;;0
+stmf01;;Mendès France;49.148018,-0.345481;;;;0;COM_stmf02;;0
+COM_gall22;;Gallieni;49.182045,-0.402939;;;;1;;;0
+cycr42;;Union;49.17013,-0.354272;;;;0;COM_cycr32;;0
+COM_prim02;;Primevères;49.213516,-0.540339;;;;1;;;0
+semi02;C063B;Séminaire;49.18509,-0.395342;;;;0;ARCOM@C063;;0
+ARCOM@BLO020;;Bessin;49.213337,-0.52185;;;;1;;;0
+juve01;;Jules Verne;49.156967,-0.347277;;;;0;COM_juve01;;0
+COM_plch01;;Place Champlain;49.19786,-0.347583;;;;1;;;0
+clss14;;Collège Senghor Quai 4;49.13566,-0.350602;;;;0;COM_clss14;;0
+COM_mepa01;;Mesnil Patry;49.19487,-0.54572;;;;1;;;0
+chva01;;Chemin du Val;49.150894,-0.344197;;;;0;COM_chva12_1;;0
+COM_stcme02;;Stade Claude Mercier;49.17758,-0.390759;;;;1;;;0
+clss13;;Collège Senghor Quai 3;49.135742,-0.350446;;;;0;COM_clss13;;0
+COM_tour01;;Tourterelles;49.19476,-0.392504;;;;1;;;0
+hdvi01;;Ifs Hôtel de Ville;49.13708,-0.350932;;;;0;COM_hdvi01;;0
+COM_memo02;;Mémorial;49.198536,-0.382601;;;;1;;;0
+hdvi02;;Ifs Hôtel de Ville;49.13713,-0.350615;;;;0;COM_hdvi01;;0
+COM_lyro01;;Lycée Rostand;49.161633,-0.351753;;;;1;;;0
+chfl02;;Chemin de Fleury;49.152496,-0.345522;;;;0;COM_chfl22;;0
+COM_rorn12;;Gare - Rives de l'Orne;49.178642,-0.350394;;;;1;;;0
+clha02;STA004B;Clos du Hamel;49.1199,-0.375233;;;;0;COM_clha02;;0
+COM_madr02_1;;Madrid;49.14399,-0.346197;;;;1;;;0
+emzo01;;Emile Zola;49.23308,-0.301705;;;;0;COM_emzo02_1;;0
+COM_deba11;;Débarquement;49.20281,-0.392402;;;;1;;;0
+cind02;;Cindais;49.127773,-0.379844;;;;0;COM_cind02_1;;0
+COM_teav22;;Terres d'Avenir;49.23137,-0.294577;;;;1;;;0
+cind01;;Cindais;49.127823,-0.380251;;;;0;COM_cind02_1;;0
+COM_stth02_1;;Sainte Thérèse;49.170456,-0.338711;;;;1;;;0
+cdfo02;;Charles de Foucauld;49.161438,-0.363136;;;;0;COM_cdfo02;;0
+COM_inno12;;Innovaparc;49.188824,-0.304167;;;;1;;;0
+baal01;FLU022A;Basse Allemagne;49.139927,-0.375858;;;;0;ARCOM@FLU022;;0
+COM_siva01;;Silicon Valley;49.179295,-0.394932;;;;1;;;0
+cocl01;;Couvrechef le Clos;49.213394,-0.375332;;;;0;COM_cocl01;;0
+COM_pers01_1;;Perspectives;49.195667,-0.348914;;;;1;;;0
+orgo01;;Orée du Golf;49.22132,-0.366489;;;;0;COM_orgo02_1;;0
+COM_flor11;;Les Florals;49.19299,-0.375736;;;;1;;;0
+vicl01;VIB020A;Coopérative;49.233524,-0.413728;;;;0;COM_vicl01;;0
+COM_zaco11;;Colombelles ZA;49.19486,-0.29342;;;;1;;;0
+save02;saver02;Salle Verte;49.201942,-0.196442;;;;0;StopAreaCAE3834;;0
+COM_mamo02;;Mondeville Mairie;49.176918,-0.320648;;;;1;;;0
+pabl02;;Paitis Blancs;49.127026,-0.3834;;;;0;COM_pabl02;;0
+COM_stmi02_1;;Saint-Michel;49.17541,-0.355285;;;;1;;;0
+pabl01;;Paitis Blancs;49.12704,-0.383899;;;;0;COM_pabl02;;0
+COM_clgr01;;Le Clos;49.14753,-0.287549;;;;1;;;0
+inle02;;Institut Lemonnier;49.19356,-0.34998;;;;0;COM_inle01;;0
+COM_obsu22_1;;Object'Ifs Sud;49.139114,-0.330528;;;;1;;;0
+blpa;blpa;Blainville Parc;49.232964,-0.29032;;;;0;COM_blpa;;0
+COM_bacl41;;Baclesse;49.204845,-0.354761;;;;1;;;0
+pihe11;;Pierre Heuzé;49.198853,-0.346917;;;;0;COM_pihe12;;0
+ARCOM@SAC022;;La Jalousie;49.074368,-0.296246;;;;1;;;0
+pihe12;;Pierre Heuzé;49.198883,-0.346794;;;;0;COM_pihe12;;0
+COM_auber01;;Auberge;49.07165,-0.300472;;;;1;;;0
+cacc01;;Campus 2 C. Commercial;49.209293,-0.367227;;;;0;COM_cacc02_2;;0
+COM_biat12;;Presqu'Île;49.181454,-0.349172;;;;1;;;0
+vilb02;VIB006A;Villons Centre;49.240284,-0.408318;;;;0;ARCOM@VIB006;;0
+COM_lac01_1;;Lac;49.219913,-0.348112;;;;1;;;0
+vilb01;VIB006B;Villons Centre;49.240196,-0.408286;;;;0;ARCOM@VIB006;;0
+COM_geva01;;Vanier;49.195267,-0.343827;;;;1;;;0
+edca02;;Cambes Ecole;49.23112,-0.383808;;;;0;COM_edca01;;0
+COM_stpa01;;Collège Saint-Paul;49.184273,-0.399177;;;;1;;;0
+edca01;;Cambes Ecole;49.23124,-0.383939;;;;0;COM_edca01;;0
+COM_cham02;;Champagne;49.195015,-0.389287;;;;1;;;0
+tl.1;;Tour Leroy;49.184353,-0.358461;;;;0;COM_tl.1;;0
+COM_hagr02;;Le Hameau;49.149937,-0.287962;;;;1;;;0
+2arr01;;2ème Arrêt;49.197937,-0.204428;;;;0;COM_2arr02;;0
+COM_gyhu02_1;;Gymnase Humbert;49.208015,-0.334638;;;;1;;;0
+vicl02;VIB020B;Coopérative;49.233654,-0.413452;;;;0;COM_vicl01;;0
+COM_clon01;;Clos Neuf;49.13855,-0.294023;;;;1;;;0
+mebou02;mebou02;Mesnil Bourg;49.204094,-0.183106;;;;0;StopAreaCAE3837;;0
+COM_ptsn02;;Pont SNCF;49.17646,-0.332056;;;;1;;;0
+2arr02;;2ème Arrêt;49.197777,-0.204516;;;;0;COM_2arr02;;0
+COM_rher02;;La Hache;49.193684,-0.343113;;;;1;;;0
+pich22;;Robert Schuman;49.193542,-0.38682;;;;0;COM_pich11;;0
+COM_cour02_1;;Courseulles;49.192257,-0.369918;;;;1;;;0
+pldc02;;Place Des Canadiens;49.18925,-0.414431;;;;0;COM_pldc11_1;;0
+COM_drak02;;Drakkar;49.209873,-0.332301;;;;1;;;0
+gira01;;Girafe;49.206882,-0.367844;;;;0;COM_gira01;;0
+COM_cine02_1;;Clémenceau;49.190674,-0.339678;;;;1;;;0
+fpac01;;Afpa;49.19148,-0.382808;;;;0;COM_fpac02;;0
+COM_csp02;;Calvaire Saint-Pierre;49.19791,-0.364001;;;;1;;;0
+fpac02;;Afpa;49.191185,-0.383269;;;;0;COM_fpac02;;0
+COM_vl01;;Lux-Lépine;49.17108,-0.342178;;;;1;;;0
+bour01;;Chemin Vert;49.193996,-0.402129;;;;0;COM_bour01_1;;0
+COM_sthu12;;Saint Hubert;49.191467,-0.328451;;;;1;;;0
+bour02;;Chemin Vert;49.19383,-0.401585;;;;0;COM_bour01_1;;0
+COM_zavil;;ZA au Village;49.22741,-0.368203;;;;1;;;0
+poas02;poas02;Collège Monod;49.205875,-0.379117;;;;0;COM_poas02;;0
+COM_poca02_1;;Pont de Calix;49.185905,-0.335563;;;;1;;;0
+bear02;;Beauregard;49.213486,-0.316957;;;;0;COM_bear01;;0
+COM_re01;;Résistance Saint-Jean;49.180866,-0.356051;;;;1;;;0
+escv01;;Espérance;49.192734,-0.383065;;;;0;COM_escv01;;0
+COM_rmal02;;Rue de Malon;49.209698,-0.377503;;;;1;;;0
+feui12;;Feuillantines;49.22625,-0.309843;;;;0;COM_feui11;;0
+COM_ifcl01;;Clément Ader;49.14276,-0.325257;;;;1;;;0
+maju02;maju02;Maréchal Juin;49.210583,-0.36658;;;;0;ARCOM@C099;;0
+COM_sc01;;Saint-Clair;49.203568,-0.329305;;;;1;;;0
+pesa01;;Père Sanson;49.200054,-0.368774;;;;0;COM_pesa01_1;;0
+COM_cocc11;;Corderie;49.189533,-0.331171;;;;1;;;0
+rese02;;Reservoirs;49.189804,-0.384594;;;;0;COM_rese02;;0
+COM_colco01;;Le Coutour;49.193478,-0.379698;;;;1;;;0
+nico02;;Nicolas Copernic;49.164288,-0.326006;;;;0;COM_nico02;;0
+COM_pate22;;Parc Tertiaire;49.20878,-0.32454;;;;1;;;0
+delu12;delu12;Demi-Lune;49.174236,-0.339514;;;;0;ARCOM@C035;;0
+COM_tnac01_1;;Terre de Nacre;49.23013,-0.307592;;;;1;;;0
+plki01;;Place Kieffer;49.232204,-0.298578;;;;0;COM_plki02;;0
+COM_lavi01_1;;Lavigerie;49.16164,-0.365762;;;;1;;;0
+plki02;;Place Kieffer;49.23205,-0.298474;;;;0;COM_plki02;;0
+COM_cam01_1;;Camus;49.19148,-0.408602;;;;1;;;0
+lepcc02;lepcc02;Lycée Claudel;49.203156,-0.385452;;;;0;ARCOM@C031;;0
+COM_mmoi02;;Maison Moisson;49.1569,-0.398045;;;;1;;;0
+masj02;;Manoir Saint-Jean;49.25616,-0.371076;;;;0;COM_masj01;;0
+COM_clbe01_1;;Clos Beaumois;49.188126,-0.351677;;;;1;;;0
+incb02;;Institut Camille Blaisot;49.201458,-0.369979;;;;0;COM_incb01;;0
+COM_rgen01_1;;Genève;49.159615,-0.339454;;;;1;;;0
+rtca01;;Route de Cabourg;49.180016,-0.320516;;;;0;COM_rtca01;;0
+COM_loce02_1;;Louvigny Centre;49.15674,-0.392201;;;;1;;;0
+angu01;;Anguerny;49.25863,-0.377127;;;;0;COM_angu02;;0
+COM_valo01;;Val d'Odon;49.131763,-0.502464;;;;1;;;0
+masg02;;Saint-Germain Mairie;49.18903,-0.409053;;;;0;COM_masg02_1;;0
+COM_ouco01;;Collège Monnet;49.280937,-0.255948;;;;1;;;0
+acaci01;TRN023B;Acacia;49.18188,-0.183203;;;;0;COM_acaci01_1;;0
+COM_abar01;;Abbaye;49.196983,-0.41302;;;;1;;;0
+masg01;;Saint-Germain Mairie;49.189037,-0.40975;;;;0;COM_masg02_1;;0
+COM_eglo01;;Louvigny Eglise;49.158554,-0.387491;;;;1;;;0
+pldc11;;Place Des Canadiens;49.189247,-0.414431;;;;0;COM_pldc11_1;;0
+COM_stde02;;Colleville Stade;49.270203,-0.298071;;;;1;;;0
+parp02;C036B;Pasteur;49.173847,-0.335497;;;;0;COM_parp01_1;;0
+COM_nled01;;Lynton Lynmouth;49.23579,-0.286935;;;;1;;;0
+chga02;chga02;Lycée de Gaulle;49.18448,-0.378771;;;;0;ARCOM@C025;;0
+COM_sieu02;;Sieurcas;49.263184,-0.293518;;;;1;;;0
+chga01;C025A;Lycée de Gaulle;49.18449,-0.379557;;;;0;ARCOM@C025;;0
+COM_corf01;;Fossettes;49.149612,-0.323578;;;;1;;;0
+codu12;codu12;Collège Dunois;49.18652,-0.386871;;;;0;ARCOM@C026;;0
+COM_ruda02;;Damozanne;49.182446,-0.383805;;;;1;;;0
+codu11;codu11;Collège Dunois;49.186356,-0.386734;;;;0;ARCOM@C026;;0
+COM_rtro01;;Route de Rouen;49.17386,-0.329598;;;;1;;;0
+bama02;BSO022B;Bas Manoir;49.161858,-0.429572;;;;0;ARCOM@BSO022;;0
+COM_chfo01_1;;Chemin Foulon;49.133232,-0.501356;;;;1;;;0
+dubn01;;Dubna;49.214565,-0.355029;;;;0;COM_dubn01_1;;0
+COM_pldc11_1;;Place des Canadiens;49.189217,-0.414518;;;;1;;;0
+bacl01;;Baclesse;49.20449,-0.355336;;;;0;COM_bacl41;;0
+COM_stma02_1;;Saint-Manvieu;49.15402,-0.456605;;;;1;;;0
+cabr01;;Cambridge;49.21708,-0.354647;;;;0;COM_cabr02;;0
+COM_isig02;;Isigny;49.19012,-0.400721;;;;1;;;0
+sj01;;Saint-Jean Eglise;49.180836,-0.358338;;;;0;COM_sj02;;0
+COM_eggi02;;Giberville Eglise;49.182922,-0.289987;;;;1;;;0
+sj02;;Saint-Jean Eglise;49.18058,-0.358517;;;;0;COM_sj02;;0
+COM_cope21_2;;Copernic;49.19852,-0.360736;;;;1;;;0
+zimo01;;Mondeville ZI;49.16501,-0.309529;;;;0;COM_zimo01;;0
+COM_loco12;;Long Cours;49.161224,-0.39833;;;;1;;;0
+rbas01;;Rue Basse;49.18546,-0.353137;;;;0;COM_rbas01_1;;0
+COM_dubn01_1;;Dubna;49.214638,-0.355256;;;;1;;;0
+bart11;;Barthou;49.1724,-0.330859;;;;0;COM_bart11;;0
+COM_clmo02;;Claude Monet;49.16089,-0.346265;;;;1;;;0
+lbru01;MOU021A;La Bruyère;49.143562,-0.492773;;;;0;COM_lbru02;;0
+COM_ruch02;;Chardonnerets;49.15622,-0.394611;;;;1;;;0
+SMA002B;SMA002B;St Manvieu Eglise;49.180744,-0.501616;;;;0;ARCOM@SMA002;;0
+COM_plce02_1;;Place Centrale;49.1542,-0.32974;;;;1;;;0
+veor01;;Orme;49.185516,-0.346982;;;;0;COM_veor01_1;;0
+COM_lyau01;;Lyautey;49.167736,-0.361354;;;;1;;;0
+qume01;;Quai Meslin;49.17616,-0.35416;;;;0;COM_qume01;;0
+COM_peva02;;Petit Vallon;49.182095,-0.266024;;;;1;;;0
+path02;STC024B;Parc Athéna;49.204437,-0.392708;;;;0;COM_path01;;0
+COM_lach01;;La Chouette;49.201683,-0.322339;;;;1;;;0
+stni01;;Saint-Nicolas;49.184364,-0.375037;;;;0;COM_stni01;;0
+COM_toce01_3;;Tourville Centre;49.1409,-0.503093;;;;1;;;0
+berr01;;Berry;49.192608,-0.400145;;;;0;COM_berr01;;0
+COM_hosm02;;Horatio Smith;49.20092,-0.364701;;;;1;;;0
+robo02;;Robert Bosch;49.16632,-0.313566;;;;0;COM_robo02;;0
+COM_vend12_1;;Vendeuvre;49.181866,-0.353464;;;;1;;;0
+ceve01;VER006A;Verson Centre;49.15631,-0.448559;;;;0;ARCOM@VER006;;0
+ARCOM@C099;;Maréchal Juin;49.210503,-0.366602;;;;1;;;0
+avia01;C075A;Aviation;49.163826,-0.349253;;;;0;COM_avia01;;0
+COM_bdle42_4;;Leroy Merlin;49.15677,-0.292241;;;;1;;;0
+jean01;;Jean XXIII;49.194595,-0.326765;;;;0;COM_jean01;;0
+COM_mats11;;Sureaux;49.25071,-0.36466;;;;1;;;0
+mmou01;MOU003B;Mouen Mairie;49.145767,-0.485196;;;;0;COM_mmou01;;0
+COM_cali02;;Carrefour de la Liberté;49.18352,-0.285001;;;;1;;;0
+sthu01;;Saint-Hubert;49.191578,-0.32842;;;;0;COM_sthu12;;0
+COM_rdba01;;Barentins;49.180607,-0.271301;;;;1;;;0
+bito02;bito02;Bitot;49.211063,-0.40742;;;;0;COM_bito01;;0
+COM_lefr02;;Lefrançois;49.168762,-0.362037;;;;1;;;0
+fond02;;La Fonderie BBC;49.209923,-0.337143;;;;0;COM_fond01;;0
+COM_grbu01_2;;Grands Bureaux;49.185856,-0.310284;;;;1;;;0
+hdvc02;hdvc02;Hôtel de Ville Quai 2;49.181503,-0.370429;;;;0;COM_hdvc02;;0
+COM_demou02;;Démouville Mairie;49.178234,-0.270164;;;;1;;;0
+ruau01;;Rue d'Auge;49.174873,-0.343599;;;;0;COM_ruau02;;0
+COM_phle02;;Philippe Lebon;49.157402,-0.296607;;;;1;;;0
+delu02;delu02;Demi-Lune;49.174652,-0.339358;;;;0;ARCOM@C035;;0
+COM_hamo01;;Hauts de Mondeville;49.172775,-0.304032;;;;1;;;0
+citi22;;CITIS;49.212337,-0.355798;;;;0;COM_citi22_1;;0
+COM_volt02_1;;Voltaire;49.23228,-0.304793;;;;1;;;0
+cycr02;cycr02;Cygne de Croix;49.169926,-0.353006;;;;0;COM_cycr01;;0
+COM_stpr01;;Prestavoine;49.201065,-0.342888;;;;1;;;0
+citi31;;CITIS;49.212402,-0.355656;;;;0;COM_citi22_1;;0
+COM_list01;;Lion Stade;49.300266,-0.324283;;;;1;;;0
+grcl02;;Grand Clos;49.212082,-0.405255;;;;0;COM_grcl02_1;;0
+COM_pala02_1;;Paul Langevin;49.168713,-0.326731;;;;1;;;0
+grcl01;;Grand Clos;49.212505,-0.404904;;;;0;COM_grcl02_1;;0
+COM_viox01;;Village Oxylane;49.154587,-0.286345;;;;1;;;0
+vell02;;Vellerie;49.216522,-0.384972;;;;0;COM_vell01;;0
+COM_jocu01;;Joliot Curie;49.230347,-0.302894;;;;1;;;0
+vell01;;Vellerie;49.21661,-0.38527;;;;0;COM_vell01;;0
+COM_havi01_1;;Haie Vigné;49.179886,-0.383847;;;;1;;;0
+l3va02;;Les 3 Vallées;49.204372,-0.29342;;;;0;COM_l3va01;;0
+COM_qu04;;Château Quatrans;49.185223,-0.363614;;;;1;;;0
+esta01;;Estapi;49.215054,-0.404995;;;;0;COM_esta02_1;;0
+COM_jv01;;Jean Vilar;49.150078,-0.351002;;;;1;;;0
+pote02;;Poterie;49.218884,-0.387354;;;;0;COM_pote02;;0
+COM_be01;;Bernières;49.182625,-0.357906;;;;1;;;0
+pote01;;Poterie;49.21884,-0.387507;;;;0;COM_pote02;;0
+ARCOM@TSO021;;Pressoir;49.13985,-0.507539;;;;1;;;0
+rf01;;Rostand Fresnel;49.162098,-0.354221;;;;0;COM_rf01;;0
+COM_cb01_1;;Campus 4;49.209026,-0.358835;;;;1;;;0
+sthu12;;Saint-Hubert;49.191414,-0.32847;;;;0;COM_sthu12;;0
+COM_ci01;;CITIS;49.21142,-0.356655;;;;1;;;0
+cobo02;;Couvrechef Bourg;49.212177,-0.379125;;;;0;COM_cobo01;;0
+COM_plm02_1;;Place de la Mare;49.18692,-0.366134;;;;1;;;0
+av02;;Aviation;49.163486,-0.34848;;;;0;COM_av02_4;;0
+COM_gs01;;Gare SNCF;49.175903,-0.348387;;;;1;;;0
+cobo01;;Couvrechef Bourg;49.211384,-0.378596;;;;0;COM_cobo01;;0
+COM_bl01;;Leroy;49.17337,-0.344491;;;;1;;;0
+deli01;C038A;Délivrande;49.190193,-0.359502;;;;0;COM_deli12;;0
+COM_escv01;;Espérance;49.192944,-0.383221;;;;1;;;0
+gdd01;;Grâce de Dieu;49.16137,-0.360241;;;;0;COM_gdd01;;0
+COM_rese02;;Réservoirs;49.19,-0.384924;;;;1;;;0
+gdd02;;Grâce de Dieu;49.161324,-0.360212;;;;0;COM_gdd01;;0
+ARCOM@C009;;Gare Routière;49.17658,-0.346324;;;;1;;;0
+clda01;;Clos de l'Avonde;49.227825,-0.385388;;;;0;COM_clda01;;0
+COM_av02_4;;Aviation;49.163322,-0.349137;;;;1;;;0
+rega02;;Egalité;49.20711,-0.294762;;;;0;COM_rega01;;0
+COM_rtca01;;Route de Cabourg;49.179935,-0.320908;;;;1;;;0
+arro01;arro01;Arromanches;49.21815,-0.41998;;;;0;ARCOM@STC022;;0
+COM_rf01;;Rostand Fresnel;49.162083,-0.354185;;;;1;;;0
+bito01;bito01;Bitot;49.210293,-0.405796;;;;0;COM_bito01;;0
+ARCOM@SMA024;;Le Marcelet;49.183155,-0.483367;;;;1;;;0
+paca02;;Pays de Caen;49.197414,-0.297999;;;;0;COM_paca01;;0
+ARCOM@SMA023;;Le Mareschet;49.18194,-0.48982;;;;1;;;0
+avia12;avia12;Aviation;49.162933,-0.350288;;;;0;COM_avia01;;0
+COM_hdvc01;;Hôtel de Ville Quai 1;49.180485,-0.370282;;;;1;;;0
+pr02;;Presqu'Ile;49.181675,-0.348002;;;;0;COM_pr02;;0
+StopAreaCAE3840;;Le Maizeret;49.1898,-0.20682;;;;1;;;0
+clep12;;Clos de l'Epine;49.233826,-0.388668;;;;0;COM_clep12;;0
+ARCOM@C024;;Lanfranc;49.184895,-0.379085;;;;1;;;0
+ci02;;CITIS;49.211468,-0.356802;;;;0;COM_ci01;;0
+COM_mafo04;;Maurice Fouques;49.171436,-0.328804;;;;1;;;0
+rdo02;;Gare - Rives de l'Orne;49.178406,-0.350698;;;;0;COM_rdo02;;0
+COM_pubb02;;Putot Bourg;49.211376,-0.542364;;;;1;;;0
+norm21;;Normandial;49.19307,-0.302371;;;;0;COM_norm22_1;;0
+COM_frebo01;;Le Fresne Bourg;49.251568,-0.483635;;;;1;;;0
+baud02;;Baudry;49.28551,-0.317665;;;;0;COM_baud02;;0
+COM_ccom02;;Mondeville Centre Commercial;49.162167,-0.293329;;;;1;;;0
+ifbr;ifbr;Ifs Bras;49.135483,-0.322104;;;;0;COM_ifbr;;0
+ARCOM@C042;;Lycée Laplace;49.197487,-0.360183;;;;1;;;0
+taso02;taso02;Tageret;49.13093,-0.296658;;;;0;ARCOM@SOL020;;0
+COM_osty01;;Ostiguy;49.128944,-0.377105;;;;1;;;0
+hfou11;;Hauts Fourneaux;49.192085,-0.301529;;;;0;COM_hfou12;;0
+COM_cdfo02;;Charles de Foucauld;49.161354,-0.363085;;;;1;;;0
+gala01;;Galante;49.303642,-0.326653;;;;0;COM_gala01;;0
+COM_till01;;Tilly Centre;49.110836,-0.305757;;;;1;;;0
+cb02;;Campus 4;49.209087,-0.358735;;;;0;COM_cb01_1;;0
+COM_cind02_1;;Cindais;49.127796,-0.380048;;;;1;;;0
+zaco12;;Colombelles ZA;49.19494,-0.293297;;;;0;COM_zaco11;;0
+COM_lorg02;;Lorguichon;49.091557,-0.310564;;;;1;;;0
+plm01;;Place de la Mare;49.18678,-0.366126;;;;0;COM_plm02_1;;0
+StopArea3836;;Bures Lavoir;49.203705,-0.177061;;;;1;;;0
+plm02;;Place de la Mare;49.187065,-0.366141;;;;0;COM_plm02_1;;0
+StopAreaCAE3839;;Europe;49.17824,-0.227312;;;;1;;;0
+TSO021B;TSO021B;Pressoir;49.139927,-0.507447;;;;0;ARCOM@TSO021;;0
+StopAreaCAE3841;;Collège Montgomeri;49.180668,-0.187524;;;;1;;;0
+cule02;;Cité U Lebisey;49.199657,-0.353906;;;;0;COM_cule02;;0
+COM_gndc;;Gare SNCF de Caen;49.176754,-0.347463;;;;1;;;2
+hmcr01;;Croix Rose;49.281216,-0.317101;;;;0;COM_hmcr01;;0
+COM_bouli01;;Bouliesse;49.185658,-0.50353;;;;1;;;0
+masa02;masa02;Saint-Aubin Mairie;49.26079,-0.287044;;;;0;COM_masa01;;0
+COM_rdou01;;Route de Douvres;49.215942,-0.505292;;;;1;;;0
+ltou01;ltou01;Les Tourelles;49.123768,-0.299734;;;;0;COM_ltou02;;0
+ARCOM@BIE007;;Biéville Château;49.24368,-0.321747;;;;1;;;0
+made01;;Mandela;49.18574,-0.301512;;;;0;COM_made02_1;;0
+COM_pova02;;Poppa de Valois;49.19866,-0.338932;;;;1;;;0
+cbea01;;Beaulieu Brazza;49.183105,-0.406679;;;;0;COM_cbea02_1;;0
+ARCOM@SMA022;;Norrey Calvaire;49.20114,-0.51296;;;;1;;;0
+l2eg01;;Les 2 Eglises;49.182934,-0.303806;;;;0;COM_l2eg02;;0
+COM_rotbo01;;Rots Bourg;49.199303,-0.478277;;;;1;;;0
+co01;;Copernic;49.198444,-0.359495;;;;0;COM_co02;;0
+ARCOM@C026;;Collège Dunois;49.18644,-0.386803;;;;1;;;0
+gs02;;Gare SNCF;49.17593,-0.348402;;;;0;COM_gs01;;0
+COM_suno01;;Suisse Normande;49.140343,-0.373249;;;;1;;;0
+stpi01;;Saint-Pierre;49.1838,-0.359825;;;;0;COM_stpi02_1;;0
+COM_rubos02_1;;Jardin des Plantes;49.18898,-0.369842;;;;1;;;0
+zavb02;;ZAC Vallée Barrey;49.170074,-0.309039;;;;0;COM_zavb01;;0
+COM_veva02;;Vert Vallon;49.158558,-0.328004;;;;1;;;0
+lmbl01;lmbl01;Bas Lion;49.302063,-0.318722;;;;0;COM_lmbl02;;0
+COM_chpp02;;Chappe;49.15394,-0.312635;;;;1;;;0
+plti02;;Place des Tilleuls;49.183613,-0.310157;;;;0;COM_plti02;;0
+COM_htme02;;Haut Meslier;49.230396,-0.439858;;;;1;;;0
+be02;;Bernières;49.1827,-0.357957;;;;0;COM_be01;;0
+COM_camp3_02_1;;Campus 3;49.147957,-0.354804;;;;1;;;0
+po02;;Poincaré;49.165447,-0.342742;;;;0;COM_po01;;0
+COM_cath01;;Thaon Calvaire;49.25803,-0.45956;;;;1;;;0
+po01;;Poincaré;49.165474,-0.342812;;;;0;COM_po01;;0
+COM_zico02;;Cormelles ZI;49.15739,-0.324405;;;;1;;;0
+boul01;;Aiguillon;49.17138,-0.415136;;;;0;COM_boul01_1;;0
+COM_squa12;;Square;49.18462,-0.446768;;;;1;;;0
+lmar01;;Les Marronniers;49.14794,-0.424283;;;;0;COM_lmar01;;0
+COM_lpla12;;La Plaine;49.185402,-0.435047;;;;1;;;0
+lbru02;MOU021B;La Bruyère;49.1435,-0.493408;;;;0;COM_lbru02;;0
+COM_lgrte01;;La Grotte;49.184376,-0.450752;;;;1;;;0
+etce01;ETE006A;Eterville Centre;49.143635,-0.422736;;;;0;COM_etce12;;0
+COM_clss13;;Collège Senghor Quai 3;49.135742,-0.350446;;;;1;;;0
+masl02;;Maslière;49.171566,-0.424846;;;;0;COM_masl02;;0
+COM_copl02;;Colleville Plage;49.29154,-0.283691;;;;1;;;0
+sc02;;Saint-Clair;49.203568,-0.329305;;;;0;COM_sc01;;0
+COM_zac01;;Hauts de l'Orne;49.15408,-0.360655;;;;1;;;0
+jv02;;Jean Vilar;49.150078,-0.351002;;;;0;COM_jv01;;0
+COM_chu03;;CHU;49.20338,-0.358475;;;;1;;;0
+csp01;;Calvaire Saint-Pierre;49.19782,-0.364017;;;;0;COM_csp02;;0
+COM_acaci01_1;;Acacia;49.181435,-0.183942;;;;1;;;0
+csp02;;Calvaire Saint-Pierre;49.198,-0.363985;;;;0;COM_csp02;;0
+COM_lama02;;La Marque;49.287407,-0.319641;;;;1;;;0
+ceau02;FLU020B;Fleury Château d'Eau;49.151653,-0.371287;;;;0;ARCOM@FLU020;;0
+COM_cons02;;Hôtel de Ville Quai 3;49.180153,-0.371038;;;;1;;;0
+beza01;;Bénouville ZA;49.24974,-0.281893;;;;0;COM_beza01;;0
+ARCOM@C022;;Théâtre Quai 5;49.17938,-0.362919;;;;1;;;0
+gu01;;Guynemer;49.168438,-0.344118;;;;0;COM_gu02;;0
+ARCOM@IFS022;;Porte d'Espagne;49.147923,-0.340233;;;;1;;;2
+koeni11;;Koenig;49.175335,-0.433366;;;;0;COM_koeni11;;0
+COM_citr02;;PSA;49.156162,-0.320596;;;;1;;;0
+50ac01;;50 Acres;49.167564,-0.410376;;;;0;COM_50ac02;;0
+peva02;;Petit Vallon;49.181786,-0.266048;;;;0;COM_peva02;;0
+fleury21;;Marcel Cachin;49.145412,-0.374536;;;;0;COM_fleury22_1;;0
+peva01;;Petit Vallon;49.182407,-0.266;;;;0;COM_peva02;;0
+re02;;Résistance Saint-Jean;49.180893,-0.356025;;;;0;COM_re01;;0
+orna01;;Ornavik;49.216846,-0.312719;;;;0;COM_orna01;;0
+besi01;;Beau Site;49.14551,-0.380053;;;;0;COM_besi01;;0
+rbay02;CAR026B;Route de Bayeux;49.188374,-0.415354;;;;0;ARCOM@C097;;0
+besi02;;Beau Site;49.14533,-0.380455;;;;0;COM_besi01;;0
+rbay01;CAR026A;Route de Bayeux;49.1883,-0.415309;;;;0;ARCOM@C097;;0
+jeja02;;Jean Jaurès;49.14913,-0.374809;;;;0;COM_jeja02;;0
+hipp02;;Hippodrome;49.178097,-0.363133;;;;0;COM_hipp02;;0
+jeja01;;Jean Jaurès;49.149124,-0.374672;;;;0;COM_jeja02;;0
+avmo11;avmo11;Morice;49.20612,-0.353022;;;;0;COM_avmo02_3;;0
+camb02;;Le Parc;49.235832,-0.386321;;;;0;COM_camb01;;0
+stor01;;Stade d'Ornano;49.180794,-0.396876;;;;0;COM_stor02;;0
+casp41;casp41;Calvaire Saint-Pierre;49.198925,-0.364206;;;;0;COM_casp41;;0
+unic01;;Unicité;49.201336,-0.395276;;;;0;COM_unic01;;0
+juge02;;Jules Guesde;49.14386,-0.375761;;;;0;COM_juge02;;0
+hamo02;;Hauts de Mondeville;49.17292,-0.304098;;;;0;COM_hamo01;;0
+gddi01;;Grâce de Dieu;49.161247,-0.360057;;;;0;COM_gddi02;;0
+volt01;;Voltaire;49.232327,-0.304905;;;;0;COM_volt02_1;;0
+C020B;C020B;Place Courtonne;49.184414,-0.358287;;;;0;COM_C020;;0
+magy;;Marigny;49.208668,-0.435403;;;;0;COM_magy;;0
+gani02;C045B;Campus 2;49.211903,-0.363504;;;;0;ARCOM@C045;;0
+lite02;;Lionel Terray;49.177795,-0.278998;;;;0;COM_lite01;;0
+deto01;;Detolle;49.18312,-0.385187;;;;0;COM_deto02_1;;0
+rdpu01;;Rue du Puits;49.201244,-0.406052;;;;0;COM_rdpu01;;0
+lerm11;;Leroy Merlin;49.156647,-0.292444;;;;0;COM_bdle42_4;;0
+finl01;;Finlande;49.17497,-0.306393;;;;0;COM_finl02;;0
+peric02;C027B;Péricentre;49.200615,-0.360309;;;;0;ARCOM@C027;;0
+quha;;Quai Hamelin;49.177063,-0.354097;;;;0;COM_quha_1;;0
+lelu02;C047B;Les Luthiers;49.209316,-0.374115;;;;0;COM_lelu01;;0
+arde01;;Ardenne;49.199497,-0.412357;;;;0;COM_arde11_1;;0
+lafr01;;La Fresnaye;49.15429,-0.328066;;;;0;COM_corfre02;;0
+rorn02;;Gare - Rives de l'Orne;49.178703,-0.350154;;;;0;COM_rorn12;;0
+sqpo02;;Square Poppa;49.177486,-0.386474;;;;0;COM_sqpo02_1;;0
+ruti01;;Tisserands;49.206833,-0.376592;;;;0;COM_ruti01;;0
+lerm12;;Leroy Merlin;49.15689,-0.292039;;;;0;COM_bdle42_4;;0
+ca02;;Campus 2;49.212723,-0.364511;;;;0;COM_ca01;;0
+coty02;;Coty;49.19099,-0.397964;;;;0;COM_coty22_1;;0
+pojo01;;Point du Jour;49.180214,-0.297457;;;;0;COM_pojo02;;0
+tasp12;;Tampleu;49.161728,-0.298766;;;;0;COM_tasp12_1;;0
+magi01;;Giberville Mairie;49.18154,-0.282075;;;;0;COM_magi02;;0
+egou02;;Ouistreham Eglise;49.27664,-0.256851;;;;0;COM_egou02;;0
+pexn02;C039B;Zénith;49.17255,-0.380297;;;;0;ARCOM@C039;;0
+ruma02;;Rue de Maltot;49.175236,-0.382577;;;;0;COM_ruma01;;0
+vibu11;;Rue de Villons;49.1997,-0.400371;;;;0;COM_vibu02;;0
+chue01;chue01;Harris;49.20512,-0.351259;;;;0;ARCOM@C051;;0
+pexn01;C039A;Zénith;49.172375,-0.380467;;;;0;ARCOM@C039;;0
+ruba02;;Barbeux;49.171608,-0.358161;;;;0;COM_ruba02_1;;0
+inno11;;Innovaparc;49.18871,-0.304675;;;;0;COM_inno12;;0
+vauc02;C109B;Vaucelles;49.1739,-0.353982;;;;0;COM_vauc02;;0
+corfre02;;La Fresnaye;49.1548,-0.327632;;;;0;COM_corfre02;;0
+cope31;;Copernic;49.198544,-0.361517;;;;0;COM_cope21_2;;0
+siva01;;Silicon Valley;49.179264,-0.394998;;;;0;COM_siva01;;0
+lmhl01;;Haut Lion;49.301273,-0.326318;;;;0;COM_lmhl01;;0
+siva02;;Silicon Valley;49.179325,-0.394867;;;;0;COM_siva01;;0
+lmhl02;;Haut Lion;49.301407,-0.326465;;;;0;COM_lmhl01;;0
+deba12;;Débarquement;49.20276,-0.392236;;;;0;COM_deba11;;0
+cale02;cale02;Carrefour de Lebisey;49.213936,-0.340573;;;;0;COM_cale01_1;;0
+coty22;;Coty;49.19155,-0.398126;;;;0;COM_coty22_1;;0
+bepa01;;Bernard Palissy;49.184288,-0.392756;;;;0;COM_bepa02;;0
+efs11;;EFS;49.206543,-0.359459;;;;0;COM_efs12;;0
+ousc01;;Sacré Coeur;49.277485,-0.262881;;;;0;COM_ousc02_1;;0
+rtpa02;rtpa02;Route de Paris;49.16996,-0.323823;;;;0;COM_rtpa02;;0
+bbre01;bbre01;Biéville Château;49.24371,-0.321838;;;;0;ARCOM@BIE007;;0
+chan01;;Chanterie;49.199184,-0.408455;;;;0;COM_chan02_1;;0
+bbce02;bbce02;Biéville Centre;49.23734,-0.327141;;;;0;ARCOM@BIE006;;0
+sieu02;sieu02;Sieurcas;49.263245,-0.293621;;;;0;COM_sieu02;;0
+bbce01;bbce01;Biéville Centre;49.237347,-0.327294;;;;0;ARCOM@BIE006;;0
+sieu01;sieu01;Sieurcas;49.263123,-0.293415;;;;0;COM_sieu02;;0
+vice02;VIB021A;Villons Cerisiers;49.23867,-0.411773;;;;0;COM_vice02_1;;0
+ccou02;;Charles de Coulomb;49.168285,-0.31918;;;;0;COM_ccou02;;0
+fmou02;;Francois Mourier;49.2036,-0.306249;;;;0;COM_fmou02_1;;0
+rich02;rich02;Riva Charmettes;49.288094,-0.272319;;;;0;ARCOM@OUI023;;0
+rimb02;;Rimbaud;49.20906,-0.290424;;;;0;COM_rimb02;;0
+pebri01;pebri01;Pégasus Bridge;49.24289,-0.278703;;;;0;COM_pebri02;;0
+laza02;;Lazzaro;49.20071,-0.293412;;;;0;COM_laza01;;0
+chco02;;Charlotte Corday;49.16436,-0.329402;;;;0;COM_chco12;;0
+chpi01;;Champ Picot;49.19234,-0.271673;;;;0;COM_chpi_1;;0
+stor02;;Stade d'Ornano;49.18084,-0.396683;;;;0;COM_stor02;;0
+jufe02;;Jules Ferry;49.185165,-0.288155;;;;0;COM_jufe02;;0
+maca01;;Cambes Mairie;49.232235,-0.385235;;;;0;COM_maca21_1;;0
+dldt01;;Tassigny;49.201656,-0.387931;;;;0;COM_dldt01;;0
+valo01;valo02;Val d'Odon;49.131763,-0.502464;;;;0;COM_valo01;;0
+montg02;;Montgomery;49.202274,-0.39046;;;;0;COM_montg02;;0
+stde02;stde02;Colleville Stade;49.270035,-0.298036;;;;0;COM_stde02;;0
+rleb02;;Rue de Lebisey;49.192814,-0.35708;;;;0;COM_rleb01_1;;0
+nled02;;Lynton Lynmouth;49.235844,-0.286937;;;;0;COM_nled01;;0
+clso01;MON029A;Clair Soleil;49.172718,-0.320615;;;;0;COM_clso01_1;;0
+rice02;rice02;Riva Centre;49.284565,-0.26181;;;;0;COM_rice02_1;;0
+frat02;;Fraternite;49.206234,-0.288139;;;;0;COM_frat01;;0
+lefo01;;Léon Foucault;49.20975,-0.350356;;;;0;COM_lefo02_1;;0
+fmar02;;La Ferme Marais;49.17909,-0.300886;;;;0;COM_fmar01_1;;0
+unic02;;Unicité;49.201553,-0.394794;;;;0;COM_unic01;;0
+mala02;C098B;Maladrerie;49.18729,-0.40728;;;;0;ARCOM@C098;;0
+lpla02;lpla02;La Plaine;49.185623,-0.434885;;;;0;COM_lpla12;;0
+htme01;;Haut Meslier;49.23042,-0.439979;;;;0;COM_htme02;;0
+ds02;;Sphère;49.21022,-0.347483;;;;0;COM_ds02;;0
+onta01;;Ontario;49.136395,-0.347579;;;;0;COM_onta02;;0
+con01;;Concorde;49.156788,-0.34173;;;;0;COM_con01;;0
+stceg02;;Saint-Contest Eglise;49.21458,-0.40202;;;;0;COM_stceg01;;0
+cam502;;Campus 5;49.208847,-0.351821;;;;0;COM_cam502_1;;0
+onta02;;Ontario;49.13635,-0.34795;;;;0;COM_onta02;;0
+hmmi02;;Minotaure;49.294617,-0.304573;;;;0;COM_hmmi02;;0
+civa02;;Porte Millet;49.169357,-0.357469;;;;0;COM_civa02_1;;0
+avmo22;avmo22;Morice;49.206715,-0.35214;;;;0;COM_avmo02_3;;0
+arro02;arro02;Arromanches;49.21827,-0.420077;;;;0;ARCOM@STC022;;0
+jaro01;;Jardins Romain;49.283386,-0.322233;;;;0;COM_jaro01;;0
+lama01;;La Marque;49.28737,-0.319699;;;;0;COM_lama02;;0
+qudv01;qudv01;Les Vallées;49.187195,-0.43841;;;;0;COM_qudv01;;0
+jafa02;;Jardins Familiaux;49.212273,-0.32047;;;;0;COM_jafa01;;0
+pc01;pc01;Place Courtonne;49.1843,-0.356616;;;;0;COM_C020;;0
+colb02;;Colbert;49.22718,-0.302486;;;;0;COM_colb02_1;;0
+qudv02;qudv02;Les Vallées;49.187077,-0.437881;;;;0;COM_qudv01;;0
+leva01;;Le Val;49.205704,-0.334822;;;;0;COM_leva01_1;;0
+abda11;;Abbaye aux Dames;49.187397,-0.354569;;;;0;COM_abda11;;0
+leva02;;Le Val;49.206005,-0.334138;;;;0;COM_leva01_1;;0
+avmo21;avmo21;Morice;49.206707,-0.352358;;;;0;COM_avmo02_3;;0
+rumo21;ETE020B;Moulin;49.14614,-0.421294;;;;0;COM_rumo01;;0
+hagr01;hagr01;Le Hameau;49.149937,-0.287962;;;;0;COM_hagr02;;0
+piga;;Pigacière;49.18879,-0.359524;;;;0;COM_piga;;0
+hmma01;;Hermanville Mairie;49.28707,-0.312778;;;;0;COM_hmma02;;0
+plma11;plma11;Place de la Mare;49.186592,-0.366843;;;;0;COM_plma;;0
+IFS025A;IFS025A;Charité;49.152515,-0.342927;;;;0;COM_IFS025B;;2
+pigr;;Pierre Gringoire;49.173565,-0.341268;;;;0;COM_pigr;;0
+ecuy01;;Ecuyère;49.181892,-0.366733;;;;0;COM_ecuy01;;0
+rubr01;;Branville;49.167767,-0.36314;;;;0;COM_rubr02_1;;0
+chpp02;;Chappe;49.154186,-0.312194;;;;0;COM_chpp02;;0
+plma12;plma12;Place de la Mare;49.187218,-0.366299;;;;0;COM_plma;;0
+chdc01;;Château;49.184406,-0.360845;;;;0;COM_chdc01;;0
+isig02;;Isigny;49.190205,-0.400518;;;;0;COM_isig02;;0
+stasb01;;Place de la République;49.1823,-0.363656;;;;0;COM_stasb01;;0
+isig01;;Isigny;49.190037,-0.400923;;;;0;COM_isig02;;0
+jevi32;jevi32;Jean Vilar;49.15007,-0.350851;;;;0;COM_jevi02_3;;0
+crem02;;Crématorium;49.194183,-0.410198;;;;0;COM_crem02_1;;0
+coud02;;Coudriers;49.162155,-0.339713;;;;0;COM_coud01;;0
+bouli02;bouli02;Bouliesse;49.185688,-0.503483;;;;0;COM_bouli01;;0
+chrm03;chrm03;Charmettes;49.1729,-0.326071;;;;0;COM_chrm01;;0
+rego02;STA024B;René Goscinny;49.11767,-0.380622;;;;0;COM_rego01;;0
+bure01;BUR004A;Bures;49.199135,-0.173598;;;;0;ARCOM@BUR004;;0
+jevi21;jevi21;Jean Vilar;49.149643,-0.349655;;;;0;COM_jevi02_3;;2
+zico01;;Cormelles ZI;49.157337,-0.32414;;;;0;COM_zico02;;0
+pexe02;C102B;Parc Expo;49.17044,-0.373811;;;;0;COM_pexe01_1;;0
+peric01;C027A;Péricentre;49.200523,-0.36076;;;;0;ARCOM@C027;;0
+cova01;;Collège Varignon;49.197384,-0.332256;;;;0;COM_cova02;;0
+roct01;ROT006A;Rots Centre;49.199364,-0.471954;;;;0;ARCOM@ROT006;;0
+hecc11;;Hérouville C. Commercial;49.206776,-0.325465;;;;0;COM_hecc11;;0
+camp3_02;;Campus 3;49.147953,-0.3544;;;;0;COM_camp3_02_1;;0
+ampe01;ampe02;Ampère;49.16015,-0.322439;;;;0;COM_ampe01;;0
+odon01;VER031B;Odon;49.150642,-0.47365;;;;0;ARCOM@VER031;;0
+fove02;;Fontaine Venoise;49.175068,-0.400752;;;;0;COM_fove01;;0
+alle02;alle02;Allende;49.203556,-0.342791;;;;0;COM_alle02;;0
+13ac02;;13 Acres;49.189957,-0.393829;;;;0;COM_13ac02;;0
+beri12;;Beau Rivage;49.21845,-0.350923;;;;0;COM_beri11_1;;0
+plvi01;;Place Villers;49.178658,-0.378947;;;;0;COM_plvi01_1;;0
+rect02;;Rectorat;49.177586,-0.3814;;;;0;COM_rect02;;0
+pate22;;Parc Tertiaire;49.208897,-0.324573;;;;0;COM_pate22;;0
+rgen02;;Genève;49.159466,-0.339278;;;;0;COM_rgen01_1;;0
+sabl01;;Sablons;49.194756,-0.370742;;;;0;COM_sabl02;;0
+avbe02;;Berlin;49.200016,-0.337315;;;;0;COM_avbe02;;0
+gyhu02;;Gymnase Humbert;49.207954,-0.334266;;;;0;COM_gyhu02_1;;0
+cree01;THA003B;Thaon Mairie;49.25829,-0.454272;;;;0;COM_cree01;;0
+lope02;VER029B;Loup Pendu;49.155197,-0.452692;;;;0;COM_lope01;;0
+cath01;cath01;Thaon Calvaire;49.25803,-0.45956;;;;0;COM_cath01;;0
+egve02;;Venoix Eglise;49.17275,-0.394902;;;;0;COM_egve01_1;;0
+plce01;;Place Centrale;49.154297,-0.329933;;;;0;COM_plce02_1;;0
+rtev01;;Route d'Evrecy;49.161976,-0.402353;;;;0;COM_rtev02;;0
+etma02;;Etat Major;49.18045,-0.377827;;;;0;COM_etma02_1;;0
+etma01;;Etat Major;49.180836,-0.377017;;;;0;COM_etma02_1;;0
+ecmu01;;Claudie Haigneré;49.21151,-0.3265;;;;0;COM_ecmu01;;0
+cari02;;Carrières;49.17082,-0.358707;;;;0;COM_cari01;;0
+mbro01;mbro01;Brouay Mairie;49.210922,-0.561032;;;;0;COM_mbro02;;0
+eclo02;;Louvigny Ecole;49.157494,-0.393582;;;;0;COM_eclo01;;0
+eglo02;;Louvigny Eglise;49.158535,-0.387571;;;;0;COM_eglo01;;0
+chev02;;Chevaliers;49.176918,-0.402044;;;;0;COM_chev02_1;;0
+cope21;;Copernic;49.198654,-0.359245;;;;0;COM_cope21_2;;0
+mabo02;MAT004A;Mathieu Bourg;49.25486,-0.373264;;;;0;ARCOM@MAT004;;0
+cibe01;;Cité Bellevue;49.18731,-0.41262;;;;0;COM_cibe02_1;;0
+ruch02;;Chardonnerets;49.156204,-0.394666;;;;0;COM_ruch02;;0
+ceaq11;ceaq11;Centre Aquatique;49.187553,-0.442409;;;;0;COM_ceaq11_1;;0
+ceaq12;ceaq12;Centre Aquatique;49.187515,-0.44264;;;;0;COM_ceaq11_1;;0
+burr02;MAT019A;Burrator;49.251385,-0.3722;;;;0;COM_burr02;;0
+gree02;gree02;Les Greens;49.099533,-0.284743;;;;0;COM_gree02;;0
+gree01;gree01;Les Greens;49.099506,-0.284572;;;;0;COM_gree02;;0
+sacr01;sacr01;Saint-Aignan Mairie;49.082043,-0.281471;;;;0;ARCOM@SAC020;;0
+univ21;;Université;49.18873,-0.363453;;;;0;COM_univ22;;0
+paor01;;Parc d'Ornano;49.189095,-0.348211;;;;0;COM_paor01;;0
+plch01;;Place Champlain;49.19783,-0.347636;;;;0;COM_plch01;;0
+plch02;;Place Champlain;49.19789,-0.347531;;;;0;COM_plch01;;0
+lpla11;lpla11;La Plaine;49.185318,-0.435218;;;;0;COM_lpla12;;0
+clhe01;;Clos Herbert;49.19255,-0.354462;;;;0;COM_clhe02_1;;0
+rpdo02;;Port de Plaisance;49.180424,-0.350702;;;;0;COM_rpdo01;;0
+chba01;STC020A;Champs Bailly;49.216503,-0.415772;;;;0;ARCOM@STC020;;0
+ruci01;;Rue des Cités;49.187866,-0.289609;;;;0;COM_ruci01;;0
+msol01;msol01;Soliers Mairie;49.13469,-0.29577;;;;0;COM_msol02;;0
+cheh02;;Château d'Eau;49.203323,-0.339906;;;;0;COM_cheh02;;0
+cheh01;;Château d'Eau;49.203316,-0.340195;;;;0;COM_cheh02;;0
+chr01;;CHR;49.189873,-0.344827;;;;0;COM_chr01;;0
+jufe22;;Jean Effel;49.186035,-0.287444;;;;0;COM_jufe22;;0
+lpal11;;Les Palmiers;49.228504,-0.308854;;;;0;COM_lpal11_1;;0
+rema02;;Reine Mathilde;49.187702,-0.354592;;;;0;COM_rema01_1;;0
+quat11;;Château Quatrans;49.18498,-0.363345;;;;0;COM_quat12;;0
+quat12;;Château Quatrans;49.18508,-0.36338;;;;0;COM_quat12;;0
+rdba01;;Barentins;49.18046,-0.271233;;;;0;COM_rdba01;;0
+tnac02;;Terre de Nacre;49.230026,-0.307754;;;;0;COM_tnac01_1;;0
+avbo02;;Avenue du Bois;49.281242,-0.267666;;;;0;COM_avbo02;;0
+clbe01;;Clos Beaumois;49.1881,-0.352205;;;;0;COM_clbe01_1;;0
+19ma02;;19 Mars;49.164837,-0.324824;;;;0;COM_19ma02;;0
+avbo01;;Avenue du Bois;49.281075,-0.266456;;;;0;COM_avbo02;;0
+mafo01;mafo01;Maurice Fouques;49.171734,-0.328726;;;;0;COM_mafo04;;0
+clgr02;clgr02;Le Clos;49.14765,-0.287348;;;;0;COM_clgr01;;0
+reth01;;Rethel;49.16987,-0.334343;;;;0;COM_reth01;;0
+form;;Formigny;49.173393,-0.338793;;;;0;COM_form;;0
+rdja01;;Rue des Jardins;49.179665,-0.266574;;;;0;COM_rdja02;;0
+gruch01;ROS021A;Gruchy;49.21668,-0.436133;;;;0;COM_gruch01;;0
+bocl01;;Bois Claquet;49.177475,-0.305678;;;;0;COM_bocl02;;0
+bocl02;;Bois Claquet;49.177635,-0.305255;;;;0;COM_bocl02;;0
+vale01;avva01;Valeuse;49.204075,-0.335115;;;;0;COM_vale02;;0
+vale02;avva02;Valeuse;49.203945,-0.334986;;;;0;COM_vale02;;0
+rtro01;;Route de Rouen;49.17397,-0.330282;;;;0;COM_rtro01;;0
+stpr01;;Prestavoine;49.200706,-0.343521;;;;0;COM_stpr01;;0
+pala01;;Paul Langevin;49.16881,-0.326784;;;;0;COM_pala02_1;;0
+crgu02;;Croix Guérin;49.190517,-0.35789;;;;0;COM_crgu02;;0
+queb02;;Québec;49.17205,-0.38534;;;;0;COM_queb01_1;;0
+madr01;;Madrid;49.14394,-0.346032;;;;0;COM_madr02_1;;0
+zaif01;;Ifs ZA;49.142124,-0.340571;;;;0;COM_zaif01;;0
+zaif02;;Ifs ZA;49.141953,-0.340689;;;;0;COM_zaif01;;0
+memo01;;Mémorial;49.19847,-0.382397;;;;0;COM_memo02;;0
+clho02;;Clair Horizon;49.158047,-0.351048;;;;0;COM_clho02;;0
+poeu02;;Europe;49.200172,-0.379368;;;;0;COM_poeu01;;0
+mupl01;mupl01;Musique en Plaine;49.12528,-0.307899;;;;0;COM_mupl02;;0
+debu01;;Debussy;49.140568,-0.35458;;;;0;COM_debu12_1;;0
+mtha01;THA003A;Thaon Mairie;49.258125,-0.456625;;;;0;COM_cree01;;0
+canad01;LFR022A;Canadiens;49.25297,-0.486395;;;;0;ARCOM@LFR022;;0
+ptve02;ptve02;Pont de Venoix;49.174908,-0.388341;;;;0;COM_ptve11;;0
+tour01;;Tourterelles;49.194702,-0.392565;;;;0;COM_tour01;;0
+pabo01;;Paul Boucherot;49.14268,-0.332669;;;;0;COM_pabo01;;0
+tour02;;Tourterelles;49.194817,-0.392442;;;;0;COM_tour01;;0
+jaca12;;Jacques Cartier;49.208687,-0.429347;;;;0;COM_jaca12;;0
+hube01;hube01;Hubert Centre;49.127434,-0.313381;;;;0;COM_hube01;;0
+VER013B;VER013B;Collège Prévert;49.156437,-0.45601;;;;0;ARCOM@VER013;;0
+mafo03;mafo03;Maurice Fouques;49.17109,-0.328635;;;;0;COM_mafo04;;0
+qulo02;;Quai de la Londe;49.18331,-0.35404;;;;0;COM_qulo02;;0
+vdes02;;Collège Desmeserets;49.170933,-0.351388;;;;0;COM_vdes02;;0
+touv01;;Tourville;49.184566,-0.348985;;;;0;COM_touv02;;0
+vdes01;;Collège Desmeserets;49.17097,-0.351678;;;;0;COM_vdes02;;0
+ccro01;;Charles Cros;49.14526,-0.328498;;;;0;COM_ccro01_1;;0
+ccro02;;Charles Cros;49.145153,-0.328065;;;;0;COM_ccro01_1;;0
+avpa001;avpa001;Avenue du Parc;49.15461,-0.471838;;;;0;ARCOM@VER030;;0
+flor01;;Les Florals;49.192837,-0.375689;;;;0;COM_flor11;;0
+chfl21;;Chemin de Fleury;49.15284,-0.345184;;;;0;COM_chfl22;;0
+dovi01;;Docteur Vincent;49.19185,-0.347901;;;;0;COM_dovi01_1;;0
+dovi02;;Docteur Vincent;49.191467,-0.347665;;;;0;COM_dovi01_1;;0
+majo02;;Maréchal Joffre;49.17148,-0.349409;;;;0;COM_majo02;;0
+clon02;clon02;Clos Neuf;49.138798,-0.293832;;;;0;COM_clon01;;0
+jonc02;jonc02;Jonchets;49.163887,-0.339106;;;;0;COM_jonc01;;0
+robl02;robl02;Roche Blanche;49.1396,-0.357238;;;;0;COM_robl02;;0
+flce01;flce01;Fleury Château d'Eau;49.152054,-0.371623;;;;0;ARCOM@FLU020;;0
+flce02;flce02;Fleury Château d'Eau;49.15213,-0.371738;;;;0;ARCOM@FLU020;;0
+epin02;;Epinette;49.142796,-0.35454;;;;0;COM_epin01;;0
+rogo02;;Rouge Gorge;49.194458,-0.396476;;;;0;COM_rogo01_1;;0
+msau01;SAN020B;Mont du Saule;49.183075,-0.22695;;;;0;COM_msau02;;0
+bres02;;Brest;49.196785,-0.352812;;;;0;COM_bres02;;0
+msau02;SAN020A;Mont du Saule;49.182537,-0.227242;;;;0;COM_msau02;;0
+bres01;;Brest;49.19679,-0.352346;;;;0;COM_bres02;;0
+cema01;;Collège Hawking;49.15932,-0.36165;;;;0;COM_cema02;;0
+psa01;;PSA;49.15642,-0.321168;;;;0;COM_citr02;;0
+stad01;TRN021A;Troarn Stade;49.182053,-0.187417;;;;0;COM_stad02;;0
+vefo01;;Fouquet;49.185303,-0.344288;;;;0;COM_vefo02_1;;0
+cema02;;Collège Hawking;49.158386,-0.360996;;;;0;COM_cema02;;0
+rust01;rust01;Rue du Stade;49.17929,-0.226573;;;;0;COM_rust01;;0
+monc01;;Montcalm;49.197403,-0.34265;;;;0;COM_monc01_1;;0
+coto02;;Cotonnière;49.197834,-0.40136;;;;0;COM_coto01;;0
+rher02;;La Hache;49.19385,-0.343054;;;;0;COM_rher02;;0
+mafl01;;Fleury Mairie;49.147415,-0.377288;;;;0;COM_mafl02;;0
+macl02;BLO021B;Mare aux Clercs;49.208675,-0.506579;;;;0;COM_macl01;;0
+toura12;;Touraine;49.194225,-0.398743;;;;0;COM_toura12;;0
+mamo01;;Mondeville Mairie;49.17716,-0.320369;;;;0;COM_mamo02;;0
+hebr01;;Brunet;49.20391,-0.433225;;;;0;COM_hebr02;;0
+mocl01;;Clopée;49.18205,-0.316192;;;;0;COM_mocl02;;0
+mocl02;;Clopée;49.181953,-0.316036;;;;0;COM_mocl02;;0
+beno;beno;Montoure;49.24314,-0.288532;;;;0;COM_beno;;0
+ruce02;;Plateau;49.181965,-0.308808;;;;0;COM_ruce01;;0
+cine02;;Clémenceau;49.1907,-0.3392;;;;0;COM_cine02_1;;0
+cine01;;Clémenceau;49.190647,-0.340155;;;;0;COM_cine02_1;;0
+degm03;;Grandes Murailles;49.184235,-0.270707;;;;0;COM_degm03;;0
+cacu04;;Callouins;49.187733,-0.268809;;;;0;COM_cacu03_1;;0
+lyfr02;lyfr02;Lycée Fresnel;49.162548,-0.357989;;;;0;ARCOM@C302;;0
+espi02;;Espinettes;49.21924,-0.339855;;;;0;COM_espi01;;0
+pdco01;;Pierre de Coubertin;49.1822,-0.282485;;;;0;COM_pdco01;;0
+pdco02;;Pierre de Coubertin;49.182285,-0.280725;;;;0;COM_pdco01;;0
+rocc01;ROT023A;Zone Commerciale;49.198143,-0.457185;;;;0;ARCOM@ROT023;;0
+cacu03;;Callouins;49.187603,-0.268982;;;;0;COM_cacu03_1;;0
+cste02;;Calvaire Saint-Etienne;49.18372,-0.38984;;;;0;COM_cste02;;0
+lcha02;;La Chapelle;49.156944,-0.349288;;;;0;COM_lcha01;;0
+lcha01;;La Chapelle;49.156914,-0.349763;;;;0;COM_lcha01;;0
+cycr32;;Union;49.170074,-0.354872;;;;0;COM_cycr32;;0
+bico01;;Bicoquet;49.182983,-0.379691;;;;0;COM_bico02;;0
+aerc12;aerc12;Aéroport;49.18336,-0.459077;;;;0;COM_aerc11;;0
+abou22;;Anciennes Boucheries;49.182552,-0.37544;;;;0;COM_abou02;;0
+modi62;;Modigliani;49.153553,-0.34542;;;;0;COM_modi62;;0
+auve02;;Auvergne;49.137714,-0.356222;;;;0;COM_auve02;;0
+chva12;;Chemin du Val;49.149452,-0.345145;;;;0;COM_chva12_1;;0
+ccom02;ccom02;Mondeville Centre Commercial;49.160137,-0.291787;;;;0;COM_ccom02;;0
+blwa02;;Black Watch;49.140537,-0.343097;;;;0;COM_blwa02;;0
+blwa01;;Black Watch;49.14062,-0.342253;;;;0;COM_blwa02;;0
+chfl01;;Chemin de Fleury;49.152817,-0.344429;;;;0;COM_chfl22;;0
+secq01;secq11;Secqueville Hameau;49.102993,-0.269892;;;;0;ARCOM@LCT020;;0
+cdfo01;;Charles de Foucauld;49.161266,-0.363034;;;;0;COM_cdfo02;;0
+chco;;Charlotte Corday;49.16436,-0.329402;;;;0;COM_chco12;;0
+baal02;FLU022B;Basse Allemagne;49.13985,-0.376102;;;;0;ARCOM@FLU022;;0
+rtha02;;Route d'Harcourt;49.15597,-0.369488;;;;0;COM_rtha01_1;;0
+pers01;;Perspectives;49.19563,-0.349079;;;;0;COM_pers01_1;;0
+vihu02;;Victor Hugo;49.224453,-0.308298;;;;0;COM_vihu02;;0
+vihu01;;Victor Hugo;49.224266,-0.308116;;;;0;COM_vihu02;;0
+stth01;;Sainte-Thérèse;49.170506,-0.338508;;;;0;COM_stth02_1;;0
+6acres;;6 Acres;49.226887,-0.372009;;;;0;COM_6acres;;0
+epron;;Epron Mairie;49.222908,-0.370906;;;;0;COM_epron;;0
+clsm01;;Clos Saint-Marc;49.21147,-0.373318;;;;0;COM_clsm01_1;;0
+teav21;;Terres d'Avenir;49.23132,-0.294796;;;;0;COM_teav22;;0
+cave02;;Cavelier;49.198296,-0.351192;;;;0;COM_cave02_1;;0
+saeur01;saeur01;Europe;49.178246,-0.227309;;;;0;StopAreaCAE3839;;0
+StopPointCAE116;;Collège Montgomeri;49.18068,-0.187527;;;;0;StopAreaCAE3841;;0
+StopPointCAENav2737;;Ecole Maternelle;49.180683,-0.18287;;;;0;StopAreaCAE3862;;0
+teav22;;Terres d'Avenir;49.23142,-0.294358;;;;0;COM_teav22;;0
+bern11;bern11;Bernières;49.182774,-0.358652;;;;0;ARCOM@C092;;0
+bern12;C092A;Bernières;49.183,-0.357877;;;;0;ARCOM@C092;;0
+mebou01;mebou01;Mesnil Bourg;49.20387,-0.183857;;;;0;StopAreaCAE3837;;0
+th71;;Théâtre Quai 1;49.180523,-0.362425;;;;0;COM_th71;;0
+rlec01;;Cayrière;49.2549,-0.377392;;;;0;COM_rlec01_1;;0
+liro02;liro02;Lirose;49.176468,-0.236565;;;;0;StopAreaCAE3838;;0
+rlec02;;Cayrière;49.254723,-0.377293;;;;0;COM_rlec01_1;;0
+epro01;epro01;Germes de Blé;49.221863,-0.367735;;;;0;COM_epro02;;0
+mats01;mats11;Sureaux;49.250275,-0.363962;;;;0;COM_mats11;;0
+cocv02;cocv02;Collevillette;49.286312,-0.287921;;;;0;COM_cocv02;;0
+maeg04;maeg04;Mathieu Eglise;49.254585,-0.370198;;;;0;COM_maeg03;;0
+plsm02;;Place Saint-Martin;49.183807,-0.369855;;;;0;COM_plsm02;;0
+plsm01;;Place Saint-Martin;49.183804,-0.370247;;;;0;COM_plsm02;;0
+char01;;Molière;49.192207,-0.393284;;;;0;COM_char02;;0
+sqrd01;;Rhin-Danube;49.188087,-0.382448;;;;0;COM_sqrd02;;0
+th81;th81;Théâtre Quai 2;49.180676,-0.362459;;;;0;ARCOM@C100;;0
+stur02;stur02;Lycée Sainte-Ursule;49.200886,-0.379959;;;;0;COM_stur02;;0
+etri01;;Etrier;49.19341,-0.369737;;;;0;COM_etri01_1;;0
+fadr01;;Fac de Droit;49.19011,-0.366616;;;;0;COM_fadr01;;0
+fadr02;;Fac de Droit;49.190353,-0.366958;;;;0;COM_fadr01;;0
+lepcc01;lepcc01;Lycée Claudel;49.203236,-0.385476;;;;0;ARCOM@C031;;0
+rese01;;Reservoirs;49.19019,-0.385254;;;;0;COM_rese02;;0
+hosm01;;Horatio Smith;49.200676,-0.364673;;;;0;COM_hosm02;;0
+hosm02;;Horatio Smith;49.201164,-0.364729;;;;0;COM_hosm02;;0
+escv02;;Espérance;49.193157,-0.383376;;;;0;COM_escv01;;0
+pesa02;;Père Sanson;49.200233,-0.368627;;;;0;COM_pesa01_1;;0
+egcv02;;Eglise Saint-Joseph;49.192074,-0.391071;;;;0;COM_egcv01;;0
+lbij01;;La Bijude;49.22919,-0.370797;;;;0;COM_lbij01_1;;0
+lbij02;;La Bijude;49.22876,-0.370941;;;;0;COM_lbij01_1;;0
+bdva01;;Vanier;49.194992,-0.343924;;;;0;COM_geva01;;0
+vaug02;C052B;Vaugueux;49.186478,-0.360113;;;;0;COM_vaug02;;0
+sabl02;;Sablons;49.194553,-0.37048;;;;0;COM_sabl02;;0
+angu02;;Anguerny;49.25869,-0.377164;;;;0;COM_angu02;;0
+bdle42;;Leroy;49.1732,-0.343199;;;;0;COM_bdle42;;0
+incb01;;Institut Camille Blaisot;49.20141,-0.370083;;;;0;COM_incb01;;0
+bdle41;;Leroy;49.173183,-0.343706;;;;0;COM_bdle42;;0
+C023A;C023A;Place Courtonne;49.184418,-0.358397;;;;0;COM_C020;;0
+stma01;VER021A;Saint-Manvieu;49.154003,-0.456456;;;;0;COM_stma02_1;;0
+lepo01;VER028A;Les Pommiers;49.157963,-0.442764;;;;0;COM_lepo01;;0
+pldc12;;Place Des Canadiens;49.189144,-0.414691;;;;0;COM_pldc11_1;;0
+grbo02;VER020B;Grand Bois;49.15074,-0.468217;;;;0;COM_grbo02;;0
+corf01;corf01;Fossettes;49.149612,-0.323579;;;;0;COM_corf01;;0
+quha12;;Quai Hamelin;49.177017,-0.353915;;;;0;COM_quha_1;;0
+parp01;parp01;Pasteur;49.17406,-0.335882;;;;0;COM_parp01_1;;0
+mafo02;mafo02;Maurice Fouques;49.17177,-0.329365;;;;0;COM_mafo04;;0
+stma02;VER021B;Saint-Manvieu;49.15403,-0.456753;;;;0;COM_stma02_1;;0
+dubn02;;Dubna;49.21471,-0.355484;;;;0;COM_dubn01_1;;0
+tsuk11;;Tsukuba;49.2141,-0.35296;;;;0;COM_tsuk11_1;;0
+tsuk22;;Tsukuba;49.214237,-0.353335;;;;0;COM_tsuk11_1;;0
+ceco01;BSO020A;Bretagne;49.164433,-0.420313;;;;0;COM_ceco02;;0
+CAI021A;CAI021A;Cairon Château;49.23844,-0.450667;;;;0;COM_jeun01;;0
+hafo01;VER027A;Hameau Foulon;49.15242,-0.462029;;;;0;ARCOM@VER027;;0
+gasn12;gasn12;Gare SNCF;49.175755,-0.349106;;;;0;ARCOM@C010;;0
+mocc01;mocc01;Mondeville Centre Commercial;49.1642,-0.294871;;;;0;COM_ccom02;;0
+bart02;;Barthou;49.172462,-0.331356;;;;0;COM_bart11;;0
+toce01;TSO024B;Tourville Centre;49.14099,-0.50292;;;;0;COM_toce01_3;;0
+THA002A;THA002A;Thaon Eglise;49.260803,-0.456715;;;;0;COM_egtha01;;0
+gdel01;;Grande Delle;49.206158,-0.341829;;;;0;COM_gdel02;;0
+toce02;TSO024A;Tourville Centre;49.140804,-0.503266;;;;0;COM_toce01_3;;0
+lach01;;La Chouette;49.20211,-0.32179;;;;0;COM_lach01;;0
+beri11;;Beau Rivage;49.217857,-0.351208;;;;0;COM_beri11_1;;0
+stcl12;stcl12;Saint-Clair;49.20376,-0.330432;;;;0;COM_stcl31;;0
+podo02;podo02;Poilus d'Orient;49.18516,-0.382829;;;;0;COM_podo02;;0
+qume02;;Quai Meslin;49.176346,-0.354435;;;;0;COM_qume01;;0
+berr02;;Berry;49.19266,-0.400049;;;;0;COM_berr01;;0
+laro11;;La Rochelle;49.187458,-0.334191;;;;0;COM_laro22;;0
+ropo02;VER026B;Rond Point;49.149815,-0.471449;;;;0;ARCOM@VER026;;0
+SMA022A;SMA022A;Norrey Calvaire;49.201138,-0.512999;;;;0;ARCOM@SMA022;;0
+fala01;;Falaise;49.167152,-0.351182;;;;0;COM_fala01;;0
+laro22;;La Rochelle;49.18763,-0.333706;;;;0;COM_laro22;;0
+hdvc01;C030A;Hôtel de Ville Quai 1;49.180626,-0.369678;;;;0;COM_hdvc01;;0
+pl3601;;Place du 36ème;49.17798,-0.355889;;;;0;COM_pl3601;;0
+pl3602;;Place du 36ème;49.177696,-0.355776;;;;0;COM_pl3601;;0
+delu01;C035A;Demi-Lune;49.1749,-0.338334;;;;0;ARCOM@C035;;0
+ablu01;;Abbé Lucas;49.19665,-0.325894;;;;0;COM_ablu02;;0
+espi01;;Espinettes;49.218742,-0.340118;;;;0;COM_espi01;;0
+ecol01;;Lebisey Ecole;49.220448,-0.343661;;;;0;COM_ecol01;;0
+cocc12;;Corderie;49.18954,-0.331105;;;;0;COM_cocc11;;0
+C009B;C009B;Gare Routière;49.17658,-0.346324;;;;0;ARCOM@C009;;0
+mifa01;;Michel Farre;49.18539,-0.303296;;;;0;COM_mifa01;;0
+ecco21;;Colombelles Ecole;49.203407,-0.302669;;;;0;COM_ecco22_1;;0
+libec12;;Libéra;49.188595,-0.299377;;;;0;COM_libec11;;0
+cocc11;;Corderie;49.18951,-0.331304;;;;0;COM_cocc11;;0
+cp01;;Collège Hawking;49.157833,-0.360864;;;;0;COM_cp01;;0
+cour01;;Courseulles;49.19251,-0.369993;;;;0;COM_cour02_1;;0
+cp02;;Collège Hawking;49.15791,-0.360992;;;;0;COM_cp01;;0
+visa11;;Vissol Sablons;49.195976,-0.369233;;;;0;COM_visa02;;0
+euva02;;Eugène Varlin;49.200344,-0.301378;;;;0;COM_euva02;;0
+euva01;;Eugène Varlin;49.200428,-0.301458;;;;0;COM_euva02;;0
+ruene02;;Energie;49.216763,-0.369287;;;;0;COM_ruene01_1;;0
+avia21;avia21;Aviation;49.163,-0.350525;;;;0;COM_avia01;;0
+jcamb01;;Jardins de Cambes;49.225388,-0.386249;;;;0;COM_jcamb02;;0
+cocl02;;Couvrechef le Clos;49.21412,-0.373998;;;;0;COM_cocl01;;0
+chep01;chep01;Château d'Eau Plateau;49.1797,-0.308905;;;;0;COM_chep02;;0
+maca21;;Cambes Mairie;49.23224,-0.385238;;;;0;COM_maca21_1;;0
+zac02;;Hauts de l'Orne;49.15407,-0.360512;;;;0;COM_zac02;;0
+ch02;;CHU;49.204395,-0.359477;;;;0;COM_ch01;;0
+zac01;;Hauts de l'Orne;49.15408,-0.360655;;;;0;COM_zac01;;0
+rmal02;;Rue de Malon;49.20987,-0.377518;;;;0;COM_rmal02;;0
+pr01;;Presqu'Ile;49.181675,-0.348002;;;;0;COM_pr02;;0
+ca01;ca01;Campus 2;49.212723,-0.364511;;;;0;COM_ca01;;0
+cifac02;;CIFAC;49.210175,-0.358837;;;;0;COM_cifac02;;0
+stpa01;stpa01;Collège Saint-Paul;49.184193,-0.399262;;;;0;COM_stpa01;;0
+rdo01;;Gare - Rives de l'Orne;49.178387,-0.35067;;;;0;COM_rdo02;;0
+norm22;;Normandial;49.193615,-0.301507;;;;0;COM_norm22_1;;0
+leti02;;Les Tilleuls;49.127872,-0.317069;;;;0;COM_leti02;;0
+copl01;colp01;Colleville Plage;49.291668,-0.284278;;;;0;COM_copl02;;0
+chse02;;Kiruna;49.20524,-0.300635;;;;0;COM_chse02;;0
+chse01;;Kiruna;49.20638,-0.299019;;;;0;COM_chse02;;0
+emmo02;;Emile Mougins;49.206257,-0.293428;;;;0;COM_emmo02;;0
+hfou12;;Hauts Fourneaux;49.191544,-0.301834;;;;0;COM_hfou12;;0
+gala02;;Galante;49.30333,-0.326921;;;;0;COM_gala01;;0
+taso01;taso01;Tageret;49.131084,-0.296722;;;;0;ARCOM@SOL020;;0
+bctre01;bctre01;Bourguébus Centre;49.121708,-0.29871;;;;0;ARCOM@BOU006;;0
+cdna02;;Côte de Nacre;49.210873,-0.362238;;;;0;COM_cdna02;;0
+stmi02;;Saint-Michel;49.17534,-0.355098;;;;0;COM_stmi02_1;;0
+cdn01;;Côte de Nacre;49.210953,-0.362126;;;;0;COM_cdn01_1;;0
+inno12;;Innovaparc;49.18894,-0.303658;;;;0;COM_inno12;;0
+ruti02;;Tisserands;49.207554,-0.37689;;;;0;COM_ruti01;;0
+ltou02;ltou02;Les Tourelles;49.124165,-0.299581;;;;0;COM_ltou02;;0
+cule01;;Cité U Lebisey;49.19967,-0.354209;;;;0;COM_cule02;;0
+li02;;Liberté;49.160767,-0.343047;;;;0;COM_li01;;0
+li01;;Liberté;49.16066,-0.343316;;;;0;COM_li01;;0
+coao02;;Colline aux Oiseaux;49.19804,-0.388708;;;;0;COM_coao02;;0
+gall21;;Gallieni;49.18197,-0.402688;;;;0;COM_gall22;;0
+hmbb01;;Blanc Bois;49.28025,-0.315435;;;;0;COM_hmbb01;;0
+catt02;;Cattehoulte;49.16496,-0.33276;;;;0;COM_catt02_1;;0
+egbe01;egbe01;Bénouville Eglise;49.246525,-0.276412;;;;0;ARCOM@BEN002;;0
+made02;;Mandela;49.186367,-0.299882;;;;0;COM_made02_1;;0
+clss01;clss01;Collège Senghor Quai 3;49.13573,-0.35046;;;;0;COM_clss01;;0
+gall32;;Venoix;49.181225,-0.40073;;;;0;COM_gall32_1;;0
+cbea02;;Beaulieu Brazza;49.183487,-0.407262;;;;0;COM_cbea02_1;;0
+cisu01;;Cités Suédoises;49.20758,-0.297462;;;;0;COM_cisu01;;0
+lmp01;lmp01;Plage;49.305893,-0.324107;;;;0;COM_lmp02;;0
+gall22;;Gallieni;49.182125,-0.40319;;;;0;COM_gall22;;0
+bl02;;Leroy;49.173374,-0.344471;;;;0;COM_bl01;;0
+TSO021A;TSO021A;Pressoir;49.13977,-0.50763;;;;0;ARCOM@TSO021;;0
+cim01;;Café des Images;49.202435,-0.332594;;;;0;COM_cim01;;0
+crre01;;Creux au Renard;49.170444,-0.401419;;;;0;COM_crre01;;0
+guil01;;Collège Guillemot;49.17292,-0.316227;;;;0;COM_brie01;;0
+chco11;;Charlotte Corday;49.164158,-0.328882;;;;0;COM_chco12;;0
+chco12;;Charlotte Corday;49.16424,-0.328764;;;;0;COM_chco12;;0
+rbui02;;Buisson;49.169376,-0.415514;;;;0;COM_rbui02;;0
+plti01;;Place des Tilleuls;49.183353,-0.309825;;;;0;COM_plti02;;0
+qu03;;Château Quatrans;49.185253,-0.363815;;;;0;COM_qu04;;0
+qdj02;;Quai de Juillet;49.178596,-0.353684;;;;0;COM_qdj02;;0
+qdj01;;Quai de Juillet;49.178596,-0.353725;;;;0;COM_qdj02;;0
+be01;;Bernières;49.18255,-0.357854;;;;0;COM_be01;;0
+bret01;;L'Enclos;49.174347,-0.41263;;;;0;COM_bret01;;0
+chal02;;Charlemagne;49.172665,-0.399432;;;;0;COM_chal02_1;;0
+boul02;;Aiguillon;49.171814,-0.41484;;;;0;COM_boul01_1;;0
+etce12;ETE006B;Eterville Centre;49.144108,-0.422597;;;;0;COM_etce12;;0
+mabr01;;Bretteville Mairie;49.165707,-0.41813;;;;0;COM_mabr02;;0
+masl01;;Maslière;49.171284,-0.424629;;;;0;COM_masl02;;0
+jv01;;Jean Vilar;49.150078,-0.351002;;;;0;COM_jv01;;0
+vl02;;Lux-Lépine;49.171097,-0.342186;;;;0;COM_vl01;;0
+gu02;;Guynemer;49.168343,-0.344003;;;;0;COM_gu02;;0
+tere01;tere01;Terrasses;49.168453,-0.407618;;;;0;ARCOM@BSO021;;0
+jevi11;jevi11;Jean Vilar;49.14964,-0.349658;;;;0;COM_jevi02_3;;0
+lopa01;;Louis Pasteur;49.143284,-0.379098;;;;0;COM_lopa02;;0
+un02;;Université;49.18888,-0.363767;;;;0;COM_un01;;0
+cjmo;cjmo;Collège Moulin;49.181137,-0.408286;;;;0;ARCOM@C2008;;0
+mo02;;Modigliani;49.15436,-0.346044;;;;0;COM_mo01_1;;0
+luxe01;STA022B;Luxembourg;49.120914,-0.377931;;;;0;COM_luxe01;;0
+hofor01;SCT010A;Hôtel Fortuné;49.22696,-0.56145;;;;0;StopAreaCAE3825;;0
+camb01;;Le Parc;49.23587,-0.38619;;;;0;COM_camb01;;0
+chou01;;Chouquaie;49.144012,-0.351233;;;;0;COM_chou01_1;;0
+gddi02;;Grâce de Dieu;49.161446,-0.360344;;;;0;COM_gddi02;;0
+jcamb02;;Jardins de Cambes;49.225212,-0.386176;;;;0;COM_jcamb02;;0
+bosq03;bosq03;Le Bosq;49.156887,-0.534564;;;;0;ARCOM@CHE025;;0
+edim11;C043A;Édimbourg;49.19243,-0.359751;;;;0;ARCOM@C043;;0
+lech02;;Lechesne;49.169838,-0.361259;;;;0;COM_lech01_1;;0
+cljo02;;Clos Joli;49.154613,-0.336089;;;;0;COM_cljo02;;0
+lyla11;C042A;Lycée Laplace;49.197945,-0.360363;;;;0;ARCOM@C042;;0
+phle02;;Philippe Lebon;49.157402,-0.296607;;;;0;COM_phle02;;0
+phle01;;Philippe Lebon;49.15749,-0.297848;;;;0;COM_phle01;;0
+stoc22;;Clos des Roses;49.18715,-0.39263;;;;0;COM_cldr01_1;;0
+lelu01;C047A;Les Luthiers;49.208843,-0.375984;;;;0;COM_lelu01;;0
+viox01;;Village Oxylane;49.154587,-0.286345;;;;0;COM_viox01;;0
+pocr01;;Pont Créon;49.174572,-0.379592;;;;0;COM_pocr01;;0
+pocr02;;Pont Créon;49.174835,-0.37847;;;;0;COM_pocr01;;0
+indu01;;Industrie;49.157562,-0.326285;;;;0;COM_indu01_1;;0
+lafr02;;Cormelles La Fresnaye;49.1548,-0.327632;;;;0;COM_corfre02;;0
+casp31;casp31;Calvaire Saint-Pierre;49.197945,-0.364182;;;;0;COM_casp41;;0
+pel02;;Pèlerins;49.2686,-0.261285;;;;0;COM_pel01_1;;0
+tasp11;;Tampleu;49.16142,-0.298307;;;;0;COM_tasp12_1;;0
+egou01;;Ouistreham Eglise;49.276657,-0.257082;;;;0;COM_egou02;;0
+vauc01;C109A;Vaucelles;49.173836,-0.353821;;;;0;COM_vauc02;;0
+alle01;;Allende;49.20401,-0.343432;;;;0;COM_alle02;;0
+cu01;cu01;Cité U Lebisey;49.19943,-0.353845;;;;0;ARCOM@C096;;0
+bbrh01;;Rue du Home;49.245216,-0.330617;;;;0;COM_bbrh01;;0
+laen01;;Laennec;49.20485,-0.347587;;;;0;COM_laen02;;0
+cale01;cale01;Carrefour de Lebisey;49.21339,-0.34152;;;;0;COM_cale01_1;;0
+edza01;;Edouard Zarifian;49.278103,-0.269133;;;;0;COM_edza02;;0
+bbcb01;bbcb01;Clos Bosquin;49.240623,-0.326945;;;;0;COM_bbcb01;;0
+ruba01;;Barbeux;49.17168,-0.357772;;;;0;COM_ruba02_1;;0
+stou;;Saint-Ouen;49.17392,-0.377955;;;;0;COM_stou;;0
+oupb02;;Petit Bonheur;49.27281,-0.260182;;;;0;COM_oupb01;;0
+pdgr01;;Grande Cour;49.2587,-0.343288;;;;0;COM_pdgr01;;0
+deli12;C038B;Délivrande;49.189766,-0.359309;;;;0;COM_deli12;;0
+poou02;;Ouistreham Port;49.279896,-0.250578;;;;0;COM_poou02;;0
+bist01;;Biéville Stade;49.243595,-0.333515;;;;0;COM_bist01;;0
+chha01;;Chemin de Halage;49.206757,-0.315519;;;;0;COM_chha01;;0
+path01;STC024A;Parc Athéna;49.20387,-0.392383;;;;0;COM_path01;;0
+rimb01;;Rimbaud;49.20893,-0.290352;;;;0;COM_rimb02;;0
+jeun01;jeun01;Cairon Château;49.23777,-0.45037;;;;0;COM_jeun01;;0
+befp;BEN005A;Fosse Poirier;49.243057,-0.284203;;;;0;ARCOM@BEN005;;0
+rleb01;;Rue de Lebisey;49.19289,-0.357313;;;;0;COM_rleb01_1;;0
+brie01;;Collège Guillemot;49.171665,-0.31646;;;;0;COM_brie01;;0
+esta02;;Estapi;49.215145,-0.405588;;;;0;COM_esta02_1;;0
+frat01;;Fraternite;49.2058,-0.288391;;;;0;COM_frat01;;0
+fmar01;;La Ferme Marais;49.17926,-0.300504;;;;0;COM_fmar01_1;;0
+egsa02;egsa02;Eglise;49.262657,-0.290266;;;;0;COM_egsa02;;0
+impd01;;IMP;49.177795,-0.271981;;;;0;COM_impd01_1;;0
+lyla12;C042B;Lycée Laplace;49.197025,-0.360003;;;;0;ARCOM@C042;;0
+debu12;;Debussy;49.13969,-0.354695;;;;0;COM_debu12_1;;0
+poin31;poin31;Poincaré;49.165585,-0.342794;;;;0;ARCOM@C018;;0
+egcv01;;Eglise Saint-Joseph;49.19237,-0.38993;;;;0;COM_egcv01;;0
+rofr01;;Rostand Fresnel;49.162163,-0.35432;;;;0;COM_rofr02;;0
+pich11;;Robert Schuman;49.19327,-0.387434;;;;0;COM_pich11;;0
+rofr02;;Rostand Fresnel;49.162018,-0.353958;;;;0;COM_rofr02;;0
+cipa01;;Cimetière Parc;49.196255,-0.405145;;;;0;COM_cipa01;;0
+civa01;;Porte Millet;49.16914,-0.357884;;;;0;COM_civa02_1;;0
+stcbu;;Buron;49.217335,-0.420993;;;;0;COM_stcbu;;0
+hmca01;hmca01;Canardière;49.290264,-0.310688;;;;0;COM_hmca01_1;;0
+hmca02;hmca02;Canardière;49.29042,-0.309648;;;;0;COM_hmca01_1;;0
+grha01;;Grande Halle;49.1916,-0.303792;;;;0;COM_grha01;;0
+rema01;;Reine Mathilde;49.18798,-0.3563;;;;0;COM_rema01_1;;0
+digu02;;Digues;49.144318,-0.371285;;;;0;COM_digu02_1;;0
+digu01;;Digues;49.14434,-0.371451;;;;0;COM_digu02_1;;0
+th32;th32;Théâtre Quai 3;49.180557,-0.363056;;;;0;COM_th32;;0
+rtev02;;Route d'Evrecy;49.16206,-0.402385;;;;0;COM_rtev02;;0
+mbro02;mbro02;Brouay Mairie;49.21088,-0.56092;;;;0;COM_mbro02;;0
+ruda02;;Damozanne;49.1824,-0.383647;;;;0;COM_ruda02;;0
+rubr02;;Branville;49.16756,-0.363582;;;;0;COM_rubr02_1;;0
+gdno11;;Collège de Normandie;49.162296,-0.348368;;;;0;COM_gdno11_1;;0
+rego01;STA024A;René Goscinny;49.117714,-0.38052;;;;0;COM_rego01;;0
+bras02;FLU021B;Brasserie;49.158752,-0.368337;;;;0;COM_bras02_1;;0
+gdno12;;Collège de Normandie;49.161854,-0.348258;;;;0;COM_gdno11_1;;0
+havi02;;Haie Vigné;49.180008,-0.383669;;;;0;COM_havi01_1;;0
+lech01;;Lechesne;49.169895,-0.360825;;;;0;COM_lech01_1;;0
+clha01;STA004A;Clos du Hamel;49.11909,-0.374871;;;;0;COM_clha02;;0
